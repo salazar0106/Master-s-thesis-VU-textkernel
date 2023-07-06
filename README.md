@@ -69,3 +69,6 @@ This script applies weights to the data based on generated answers, TF-IDF score
 This script reads the weighted data, adjusts weights based on TF-IDF and TextRank scores, and evaluates precision at different levels for various weight combinations. The precision values are printed for each weight combination.
 
 Please run these scripts in the specified order to perform the complete data extraction and analysis pipeline. Make sure to provide the necessary inputs and modify the scripts as required for your specific use case.
+
+
+Due to data confidentiality, the data.csv and data_withskills2.csv files arent included in the repository, and instead only a small sample is given.
