@@ -1,0 +1,93 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Finance,Master,Economy,,39,Master&#39;s Programme in Finance,Finance,0.04989269872947211
+Finance,Master,Administrative Operations,,39,Master&#39;s Programme in Finance,Finance,0.06911515369797212
+Finance,Master,Knowledge of Finance,,39,Master in Finance - Catalogue des formations,Finance,0.06953882771416865
+Finance,Master,Google Analytics,,39,Master in Finance - Catalogue des formations,Finance,0.117871356484975
+Finance,Master,Site Maps,,39,Master in Finance - Catalogue des formations,Finance,0.11950039775228545
+Finance,Master,Knowledge of Mathematics,,39,Master&#39;s Programme in Finance,Finance,0.0712842716020537
+Finance,Master,Search Engines,,39,Master in Finance - Catalogue des formations,Finance,0.10576885919386943
+Finance,Master,Public Relations,,39,Master&#39;s Programme in Finance,Finance,0.11337830085330604
+Finance,Master,Consulting,,39,Master&#39;s Programme in Finance,Finance,0.06911515369797212
+Finance,Master,Information Technology,,39,Master in Finance - Catalogue des formations,Finance,0.06787275016858366
+Finance,Master,Public Health,,39,Master&#39;s Programme in Finance,Finance,0.11631165751694061
+Finance,Master,Operations Research,,39,Master in Finance - Catalogue des formations,Finance,0.09947099507913768
+Finance,Master,Banking Services,,39,Master in Finance - Catalogue des formations,Finance,0.10354712477790139
+Finance,Master,Corporate Finance,,39,Master in Finance - Catalogue des formations,Finance,0.11066243678193807
+Finance,Master,Mathematical Finance,,39,Master in Finance - Catalogue des formations,Finance,0.11337830085330604
+Finance,Master,Knowledge of Engineering,,39,Master in Finance - Catalogue des formations,Finance,0.08868788511310398
+Finance,Master,Risk Management,,39,Master in Finance - Catalogue des formations,Finance,0.09759122949817847
+Finance,Master,Continuous Training,,39,Master in Finance - Catalogue des formations,Finance,0.12894916276576998
+Finance,Master,IBM System I,,39,Master&#39;s Programme in Finance,Finance,0.1522564938278804
+Finance,Master,Infrastructure Management,,39,Master&#39;s Programme in Finance,Finance,0.08273198983338106
+Finance,Master,Adobe InDesign,,39,Master&#39;s Programme in Finance,Finance,0.12299326748604708
+Finance,Master,Business Development,,39,Master&#39;s Programme in Finance,Finance,0.12120523510500926
+Finance,Master,Innovation,,39,Master in Finance - Catalogue des formations,Finance,0.062223529433581115
+Finance,Master,Physical Therapy,,39,Master in Finance - Catalogue des formations,Finance,0.11950039775228545
+Finance,Master,Accounting,,39,Master in Finance - Catalogue des formations,Finance,0.10354712477790139
+Finance,Master,Artificial Intelligence,,39,Master in Finance - Catalogue des formations,Finance,0.06911515369797212
+Finance,Master,Knowledge of Electrical Engineering,,39,Master in Finance - Catalogue des formations,Finance,0.09409835976441684
+Finance,Master,Applied Mathematics,,39,Master in Finance - Catalogue des formations,Finance,0.09947099507913768
+Finance,Master,Applied Mechanics,,39,Master in Finance - Catalogue des formations,Finance,0.12299326748604708
+Finance,Master,Architecture,,39,Master in Finance - Catalogue des formations,Finance,0.06996745709434184
+Finance,Master,Automation,,39,Master in Finance - Catalogue des formations,Finance,0.09015397638213812
+Finance,Master,Raw Materials,,39,Master in Finance - Catalogue des formations,Finance,0.08461175541434025
+Finance,Master,Fundamental Science,,39,Master in Finance - Catalogue des formations,Finance,0.08727819615490846
+Finance,Master,Biotechnology,,39,Master in Finance - Catalogue des formations,Finance,0.09327478815645225
+Finance,Master,Biology,,39,Master in Finance - Catalogue des formations,Finance,0.06589132739557811
+Finance,Master,Biopharmaceuticals,,39,Master in Finance - Catalogue des formations,Finance,0.117871356484975
+Finance,Master,Biomaterial,,39,Master in Finance - Catalogue des formations,Finance,0.117871356484975
+Finance,Master,Business Performance Management,,39,Master in Finance - Catalogue des formations,Finance,0.11481563779035614
+Finance,Master,Urban Planning,,39,Master in Finance - Catalogue des formations,Finance,0.09947099507913768
+Finance,Master,Medical Laboratory,,39,Master in Finance - Catalogue des formations,Finance,0.11631165751694061
+Finance,Master,Clinical Research,,39,Master in Finance - Catalogue des formations,Finance,0.10576885919386943
+Finance,Master,Combinatorics,,39,Master in Finance - Catalogue des formations,Finance,0.10248480708624713
+Finance,Master,Computer Networks,,39,Master in Finance - Catalogue des formations,Finance,0.10145241785214319
+Finance,Master,Computer Engineering,,39,Master in Finance - Catalogue des formations,Finance,0.11631165751694061
+Finance,Master,Control Systems,,39,Master in Finance - Catalogue des formations,Finance,0.10693236625740657
+Finance,Master,Data Transmissions,,39,Master in Finance - Catalogue des formations,Finance,0.09580319711714066
+Finance,Master,Digital Marketing,,39,Master in Finance - Catalogue des formations,Finance,0.11950039775228545
+Finance,Master,Ecology,,39,Master in Finance - Catalogue des formations,Finance,0.08212623398836932
+Finance,Master,Electrochemistry,,39,Master in Finance - Catalogue des formations,Finance,0.11199521617521437
+Finance,Master,Instrumentation,,39,Master in Finance - Catalogue des formations,Finance,0.09409835976441684
+Finance,Master,Electronics,,39,Master in Finance - Catalogue des formations,Finance,0.08941359980248753
+Finance,Master,Embedded Computers,,39,Master in Finance - Catalogue des formations,Finance,0.10576885919386943
+Finance,Master,Engineering Physics,,39,Master in Finance - Catalogue des formations,Finance,0.11481563779035614
+Finance,Master,Sales,,39,Master in Finance - Catalogue des formations,Finance,0.11337830085330604
+Finance,Master,Fluid Mechanics,,39,Master in Finance - Catalogue des formations,Finance,0.10937643135063814
+Finance,Master,Gene Therapy,,39,Master in Finance - Catalogue des formations,Finance,0.11631165751694061
+Finance,Master,Health Physics,,39,Master in Finance - Catalogue des formations,Finance,0.11337830085330604
+Finance,Master,Marketing,,39,Master in Finance - Catalogue des formations,Finance,0.10354712477790139
+Finance,Master,Image Processing,,39,Master in Finance - Catalogue des formations,Finance,0.090909619529072
+Finance,Master,Industrial Engineering,,39,Master in Finance - Catalogue des formations,Finance,0.11950039775228545
+Finance,Master,Infertility,,39,Master in Finance - Catalogue des formations,Finance,0.12120523510500926
+Finance,Master,Mechanical Engineering,,39,Master in Finance - Catalogue des formations,Finance,0.0966863095899223
+Finance,Master,Market Research,,39,Master in Finance - Catalogue des formations,Finance,0.11066243678193807
+Finance,Master,Project Management,,39,Master in Finance - Catalogue des formations,Finance,0.07979863316974649
+Finance,Master,Medical Physics,,39,Master in Finance - Catalogue des formations,Finance,0.11950039775228545
+Finance,Master,Microelectronics,,39,Master in Finance - Catalogue des formations,Finance,0.11631165751694061
+Finance,Master,Nanostructure,,39,Master in Finance - Catalogue des formations,Finance,0.11337830085330604
+Finance,Master,Nuclear Power,,39,Master in Finance - Catalogue des formations,Finance,0.08941359980248753
+Finance,Master,Operations Management,,39,Master in Finance - Catalogue des formations,Finance,0.11481563779035614
+Finance,Master,Pharmaceutical Engineering,,39,Master in Finance - Catalogue des formations,Finance,0.12299326748604708
+Finance,Master,Pharmacology,,39,Master in Finance - Catalogue des formations,Finance,0.10813402782124967
+Finance,Master,Physics,,39,Master in Finance - Catalogue des formations,Finance,0.076562939187769
+Finance,Master,Energy Transformation,,39,Master in Finance - Catalogue des formations,Finance,0.09759122949817847
+Finance,Master,Product Design,,39,Master in Finance - Catalogue des formations,Finance,0.10354712477790139
+Finance,Master,Quality Management,,39,Master in Finance - Catalogue des formations,Finance,0.0924693184971064
+Finance,Master,Quantum,,39,Master in Finance - Catalogue des formations,Finance,0.08941359980248753
+Finance,Master,Robotic Automation Software,,39,Master in Finance - Catalogue des formations,Finance,0.12120523510500926
+Finance,Master,Simulations,,39,Master in Finance - Catalogue des formations,Finance,0.07218919151030989
+Finance,Master,Knowledge of Statistics,,39,Master in Finance - Catalogue des formations,Finance,0.05888965081354686
+Finance,Master,Structural Biology,,39,Master in Finance - Catalogue des formations,Finance,0.10813402782124967
+Finance,Master,Tissue Engineering,,39,Master in Finance - Catalogue des formations,Finance,0.11631165751694061
+Finance,Master,Toxicology,,39,Master in Finance - Catalogue des formations,Finance,0.117871356484975
+Finance,Master,Urban Design,,39,Master in Finance - Catalogue des formations,Finance,0.117871356484975
+Finance,Master,Imaging,,39,Master in Finance - Catalogue des formations,Finance,0.08797626286543743
+Finance,Master,Brand Management,,39,Master in Finance - Catalogue des formations,Finance,0.10693236625740657
+Finance,Master,Advanced Logic Research,,39,Master in Finance - Catalogue des formations,Finance,0.10693236625740657
+Finance,Master,Data Science,,39,Master in Finance - Catalogue des formations,Finance,0.07554489055030025
+Finance,Master,Quality Control,,39,Master in Finance - Catalogue des formations,Finance,0.10145241785214319
+Finance,Master,Financial Data Analysis,,39,Master in Finance - Catalogue des formations,Finance,0.18197497315747524
+Finance,Master,Financial Institution,,39,Master in Finance - Catalogue des formations,Finance,0.15657293516960663
+Finance,Master,Construction,,39,Master in Finance - Catalogue des formations,Finance,0.06828222252049333
+Finance,Master,Target Market Selection,,39,Master in Finance - Catalogue des formations,Finance,0.10354712477790139

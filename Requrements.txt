@@ -1,0 +1,25 @@
+# Executable Requirements File
+
+scipy==1.5.4
+simcse
+openai
+pytextrank
+ast
+json
+re
+requests
+numpy
+sys
+os
+time
+warnings
+sklearn
+pandas
+string
+csv
+shlex
+collections
+subprocess
+
+
+#https://visualstudio.microsoft.com/visual-cpp-build-tools/  note that the link to download Microsoft Visual C++ Build Tools is not included in the requirements file as it is an external dependency and needs to be installed separately.

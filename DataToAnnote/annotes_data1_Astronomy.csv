@@ -1,0 +1,250 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Astronomy,Master,Physics,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03737314167650254
+Astronomy,Master,Instrumentation,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.045932815123219055
+Astronomy,Master,Simulations,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03523815713514279
+Astronomy,Master,Astronomy,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08157523797352119
+Astronomy,Master,Calculations,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.040088787222202805
+Astronomy,Master,Photovoltaics,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.056045668352586876
+Astronomy,Master,Business Studies,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06402926241094704
+Astronomy,Master,Science Communication,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05677592972689702
+Astronomy,Master,Data Science,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.036876195290100375
+Astronomy,Master,Optics and Eyewear,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.044376275603584925
+Astronomy,Master,Surveys,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05401834062267917
+Astronomy,Master,Astrophysics,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07881764886930336
+Astronomy,Master,Execution of Experiments,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03313114589035481
+Astronomy,Master,Data Processing,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.040384478574404845
+Astronomy,Master,Electromagnetism,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.053390594826990045
+Astronomy,Master,Data Analysis,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03293347626018733
+Astronomy,Master,Fluid Dynamics,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05833246924653114
+Astronomy,Master,Equations,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04719608709927384
+Astronomy,Master,Scheduling,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04068513976120265
+Astronomy,Master,Diagnostic Skills,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05753727524371537
+Astronomy,Master,Kinematics,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06641799474599126
+Astronomy,Master,Scientific Literature,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03639268154522476
+Astronomy,Master,Morphology,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05466891848210904
+Astronomy,Master,AngularJS,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05833246924653114
+Astronomy,Master,Justice,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.036155738749969614
+Astronomy,Master,Optical Lens Design,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07642891653425914
+Astronomy,Master,Coatings,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06917558385020911
+Astronomy,Master,Image Analysis,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04809071948771727
+Astronomy,Master,Data Reduction,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08882857065757123
+Astronomy,Master,Data Visualization,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04400741883441129
+Astronomy,Master,Signal Processing,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04763781125845487
+Astronomy,Master,Data Streaming,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07073212336984323
+Astronomy,Master,Calibration,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06641799474599126
+Astronomy,Master,Optical Devices,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08882857065757123
+Astronomy,Master,Spectroscopy,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05753727524371537
+Astronomy,Master,Radiology,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06003746538176696
+Astronomy,Master,Amazon Redshift,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08882857065757123
+Astronomy,Master,Chemical Process,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06917558385020911
+Astronomy,Master,Space Exploration,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07073212336984323
+Astronomy,Master,Machine Learning,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.0371229429195349
+Astronomy,Master,Knowledge of Statistics,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.028746169967911107
+Astronomy,Master,Algorithms,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.039511675254579104
+Astronomy,Master,Differential Equations,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05162960828763496
+Astronomy,Master,Observational Techniques,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08483677362839115
+Astronomy,Master,Natural Sciences,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.0505450993074886
+Astronomy,Master,Public Law,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06192225116615907
+Astronomy,Master,Museums,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.042944398048455214
+Astronomy,Master,Euclidean Geometry,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04513762112040328
+Astronomy,Master,Knowledge of Mathematics,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03479643297596175
+Astronomy,Master,Particle Physics,,12,Astronomy Research (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05466891848210904
+Astronomy,Bachelor,Transferable Skills Analysis,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05278413269771693
+Astronomy,Bachelor,Quantum,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.043646014229274784
+Astronomy,Bachelor,Python (Programming Language),,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.040088787222202805
+Astronomy,Bachelor,Information Technology,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03313114589035481
+Astronomy,Bachelor,Algebra,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.056045668352586876
+Astronomy,Bachelor,Linear Algebra,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04634407276437048
+Astronomy,Bachelor,General Mathematics,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08882857065757123
+Astronomy,Bachelor,Biology,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03216394172078951
+Astronomy,Bachelor,Probability Theories,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.055344052171767306
+Astronomy,Bachelor,Computer Programming,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.0384104710613568
+Astronomy,Bachelor,Condensed Matter,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07243711950507906
+Astronomy,Bachelor,Geometry,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.055344052171767306
+Astronomy,Bachelor,Knowledge of Advertising,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06518378682102902
+Astronomy,Bachelor,Databases,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03479643297596175
+Astronomy,Bachelor,Electronics,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.043646014229274784
+Astronomy,Bachelor,Scientific Studies,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03436535381531705
+Astronomy,Bachelor,Integral Calculus,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07243711950507906
+Astronomy,Bachelor,Nuclear Power,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.043646014229274784
+Astronomy,Bachelor,Programming Languages,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04068513976120265
+Astronomy,Bachelor,Financial Derivatives,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06518378682102902
+Astronomy,Bachelor,Biological Process,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.060955046996593786
+Astronomy,Bachelor,Microsoft PowerPoint,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04676500793862914
+Astronomy,Bachelor,Elasticity,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06003746538176696
+Astronomy,Bachelor,Electromagnetic Waves,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06774370629507939
+Astronomy,Bachelor,Ordinary Differential Equations (Differential Calculus),,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.060955046996593786
+Astronomy,Bachelor,Field Research,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.039511675254579104
+Astronomy,Bachelor,Magnetic Resonance Imaging,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07243711950507906
+Astronomy,Bachelor,Nuclear Magnetic Resonance,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07243711950507906
+Astronomy,Bachelor,Statistical Hypothesis Testing,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04903245899887236
+Astronomy,Bachelor,Artificial Intelligence,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03373760801962793
+Astronomy,Bachelor,Knowledge of Finance,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03394441864105839
+Astronomy,Bachelor,Cell Biology,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.053390594826990045
+Astronomy,Bachelor,Data Structures,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05278413269771693
+Astronomy,Bachelor,Integrated Development Environments,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.09397489209683328
+Astronomy,Bachelor,SciPy,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.10122822478088332
+Astronomy,Bachelor,Software Engineering,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.0505450993074886
+Astronomy,Bachelor,Object-Oriented Programming (OOP),,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06518378682102902
+Astronomy,Bachelor,Matplotlib,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.09397489209683328
+Astronomy,Bachelor,Interpolation,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.0510791365624811
+Astronomy,Bachelor,Feedback Management,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.049522597042846984
+Astronomy,Bachelor,Doppler Ultrasonography,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08483677362839115
+Astronomy,Bachelor,Biological Materials,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08483677362839115
+Astronomy,Bachelor,Cooking Skills,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08483677362839115
+Astronomy,Bachelor,Viscosity,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08483677362839115
+Astronomy,Bachelor,Creation of Textures,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05833246924653114
+Astronomy,Bachelor,Foams,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.10122822478088332
+Astronomy,Bachelor,Microscopy,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.053390594826990045
+Astronomy,Bachelor,Mathematical Analysis,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07642891653425914
+Astronomy,Bachelor,Partial Differential Equation,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.060955046996593786
+Astronomy,Bachelor,Electronic Oscillator,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06917558385020911
+Astronomy,Bachelor,Drawing Skills,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.0485553928732817
+Astronomy,Bachelor,Energy Production,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06003746538176696
+Astronomy,Bachelor,Radio,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07642891653425914
+Astronomy,Bachelor,Boundary Value Problem,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.060955046996593786
+Astronomy,Bachelor,Dielectrics,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07881764886930336
+Astronomy,Bachelor,Energy Conservation,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06518378682102902
+Astronomy,Bachelor,Solid State Physics,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07073212336984323
+Astronomy,Bachelor,Robotics Design and Production,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.0455308000136669
+Astronomy,Bachelor,Publishing Skills,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06003746538176696
+Astronomy,Bachelor,Electronic Circuits,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06917558385020911
+Astronomy,Bachelor,Control Theories,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06774370629507939
+Astronomy,Bachelor,Frequency Domain,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06294475343080069
+Astronomy,Bachelor,Image Processing,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.044376275603584925
+Astronomy,Bachelor,Mechanical Systems,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06641799474599126
+Astronomy,Bachelor,Design of Experiments,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.045932815123219055
+Astronomy,Bachelor,Measurement and Metrology,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.043646014229274784
+Astronomy,Bachelor,Industrial Lasers,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06774370629507939
+Astronomy,Bachelor,Monte Carlo Methods,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.053390594826990045
+Astronomy,Bachelor,Linux,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07642891653425914
+Astronomy,Bachelor,Electric Power Distribution,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.060955046996593786
+Astronomy,Bachelor,Failure Analysis,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06774370629507939
+Astronomy,Bachelor,Photometry,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.09397489209683328
+Astronomy,Bachelor,Data Collection,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03457959493301736
+Astronomy,Bachelor,Time Management,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06641799474599126
+Astronomy,Bachelor,Drilling Operations,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08157523797352119
+Astronomy,Bachelor,Data Management,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.0510791365624811
+Astronomy,Bachelor,Research Experiences,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05162960828763496
+Astronomy,Bachelor,Safety Principles,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04719608709927384
+Astronomy,Bachelor,Experimental Data,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05162960828763496
+Astronomy,Bachelor,Data Mining,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04809071948771727
+Astronomy,Bachelor,Project Planning,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.0485553928732817
+Astronomy,Bachelor,Project Management,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.038952601019275127
+Astronomy,Bachelor,Team Management,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05401834062267917
+Astronomy,Bachelor,Biomedical Engineering,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04903245899887236
+Astronomy,Bachelor,Data Quality,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05916466206194123
+Astronomy,Bachelor,Resonance,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08157523797352119
+Astronomy,Bachelor,Imaging,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.042944398048455214
+Astronomy,Bachelor,Capital Markets,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06402926241094704
+Astronomy,Bachelor,Mathematical Finance,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.055344052171767306
+Astronomy,Bachelor,Multidisciplinary Approach,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03663280487556027
+Astronomy,Bachelor,Valuation of Options,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07432190528947116
+Astronomy,Bachelor,Modelling Skills,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04763781125845487
+Astronomy,Bachelor,Chemical Reaction Engineering,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06917558385020911
+Astronomy,Bachelor,Machinery,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.060955046996593786
+Astronomy,Bachelor,Nanoscopic Scale,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.09397489209683328
+Astronomy,Bachelor,Neurons,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07642891653425914
+Astronomy,Bachelor,Confidence Intervals,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06294475343080069
+Astronomy,Bachelor,Probability and Statistics,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.052197558196409255
+Astronomy,Bachelor,Vibrations,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07073212336984323
+Astronomy,Bachelor,Phenomenology,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07432190528947116
+Astronomy,Bachelor,Molecular Biology,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.0485553928732817
+Astronomy,Bachelor,Numerical Analysis,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04400741883441129
+Astronomy,Bachelor,Legal Appeals,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08483677362839115
+Astronomy,Bachelor,Thermodynamics,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.060955046996593786
+Astronomy,Bachelor,Energy Technology,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05466891848210904
+Astronomy,Bachelor,Energy Transformation,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04763781125845487
+Astronomy,Bachelor,Steam Engines,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.10122822478088332
+Astronomy,Bachelor,Energy Efficiency,,12,Astronomy and Physics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07243711950507906
+Astronomy,Bachelor,Student Administration,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06774370629507939
+Astronomy,Bachelor,Linear Regression,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04903245899887236
+Astronomy,Bachelor,Functional Analysis,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06402926241094704
+Astronomy,Bachelor,3D Computer Graphics,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07432190528947116
+Astronomy,Bachelor,3d Models,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05278413269771693
+Astronomy,Bachelor,3D Computer Graphics Software,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08882857065757123
+Astronomy,Bachelor,Computer Graphics,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06402926241094704
+Astronomy,Bachelor,Knowledge of Lighting,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07243711950507906
+Astronomy,Bachelor,OpenGL,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.09397489209683328
+Astronomy,Bachelor,Ray Tracing,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08882857065757123
+Astronomy,Bachelor,Bezier,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08882857065757123
+Astronomy,Bachelor,Surface Modeling,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.09397489209683328
+Astronomy,Bachelor,Search Algorithms,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08157523797352119
+Astronomy,Bachelor,Dynamic Programming,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.055344052171767306
+Astronomy,Bachelor,Deep Reactive-Ion Etching,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07243711950507906
+Astronomy,Bachelor,Concurrency Controls,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07432190528947116
+Astronomy,Bachelor,Data Loss,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08483677362839115
+Astronomy,Bachelor,Data Warehousing,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05401834062267917
+Astronomy,Bachelor,Relational Databases,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07073212336984323
+Astronomy,Bachelor,Database Design,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07642891653425914
+Astronomy,Bachelor,Online Analytical Processing,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07881764886930336
+Astronomy,Bachelor,SQL Databases,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06774370629507939
+Astronomy,Bachelor,Database Administration,,12,Astronomy and Mathematics (double bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08157523797352119
+Astronomy,Master,Space Environment,,12,Astronomy and Education (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08157523797352119
+Astronomy,Master,Orbital Mechanics,,12,Astronomy and Education (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08157523797352119
+Astronomy,Master,Deep Learning,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04634407276437048
+Astronomy,Master,Reinforcement Learning,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.055344052171767306
+Astronomy,Master,Big Data,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.040088787222202805
+Astronomy,Master,Distributed Systems,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05401834062267917
+Astronomy,Master,Recommender Systems,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05677592972689702
+Astronomy,Master,Anomaly Detection,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06774370629507939
+Astronomy,Master,Artificial Neural Networks,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04634407276437048
+Astronomy,Master,Computer Vision,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05677592972689702
+Astronomy,Master,Forecasting Skills,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.04226926435879695
+Astronomy,Master,Language Modeling,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07073212336984323
+Astronomy,Master,Normalization Processes,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07432190528947116
+Astronomy,Master,Object Detection,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07881764886930336
+Astronomy,Master,Pattern Recognition,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.05278413269771693
+Astronomy,Master,Tensorflow,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07073212336984323
+Astronomy,Master,Transfer Learning,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07073212336984323
+Astronomy,Master,Keras,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.08483677362839115
+Astronomy,Master,Recurrent Neural Networks,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06518378682102902
+Astronomy,Master,Psychology,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.03922995416432288
+Astronomy,Master,Supervised Learning,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.052197558196409255
+Astronomy,Master,Computer Gaming,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.06518378682102902
+Astronomy,Master,Research and Development,,12,Astronomy and Data Science (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.053390594826990045
+Astronomy,Master,Differential Geometry,,12,Astronomy and Cosmology (Master 2022-2023) - Prospectus - Universiteit Leiden,Astronomy,0.07881764886930336
+Astronomy,Master,Administrative Operations,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.03373760801962793
+Astronomy,Master,Git,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06641799474599126
+Astronomy,Master,Logistic Regression,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.05002654359349908
+Astronomy,Master,Unsupervised Learning,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.04719608709927384
+Astronomy,Master,Desktop Computing,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06518378682102902
+Astronomy,Master,OpenMP,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.07881764886930336
+Astronomy,Master,Parallel Computing,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.07243711950507906
+Astronomy,Master,Continuous Integration,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.07881764886930336
+Astronomy,Master,Fundamental Science,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.042603646421767186
+Astronomy,Master,Computer Simulation,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.043646014229274784
+Astronomy,Master,Support Vector Machine,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.05753727524371537
+Astronomy,Master,Bagging,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.08157523797352119
+Astronomy,Master,Optimization Algorithms,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.05677592972689702
+Astronomy,Master,Decision Trees,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06003746538176696
+Astronomy,Master,Computer Clusters,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.08157523797352119
+Astronomy,Master,Data Architecture,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.08882857065757123
+Astronomy,Master,Digital Systems,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06917558385020911
+Astronomy,Master,High Performance Computing,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.07881764886930336
+Astronomy,Master,Computer Animation,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06402926241094704
+Astronomy,Master,Knowledge of Medicine,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.04194101809403897
+Astronomy,Master,Visualization,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.04226926435879695
+Astronomy,Master,Testing (Software),,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06294475343080069
+Astronomy,Master,Chemistry,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.05278413269771693
+Astronomy,Master,C++ (Programming Language),,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06192225116615907
+Astronomy,Master,Computational Physics,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.07243711950507906
+Astronomy,Master,Stochastic Process,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.056045668352586876
+Astronomy,Master,Software Version Control,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06192225116615907
+Astronomy,Master,Fortran (Programming Language),,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.08157523797352119
+Astronomy,Master,Analysis of Variance (ANOVA),,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.055344052171767306
+Astronomy,Master,Generalized Linear Model,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06294475343080069
+Astronomy,Master,Survival Analysis,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06641799474599126
+Astronomy,Master,Enterprise Application Software,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06641799474599126
+Astronomy,Master,Intelligent Systems,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.05401834062267917
+Astronomy,Master,Testing Skills,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.052197558196409255
+Astronomy,Master,Dispersion (Optics),,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06641799474599126
+Astronomy,Master,Discussion Groups,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.08483677362839115
+Astronomy,Master,Mathematical Modeling,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.04903245899887236
+Astronomy,Master,Plasma (Physics),,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.07243711950507906
+Astronomy,Master,Network Architecture,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.08157523797352119
+Astronomy,Master,Convolutional Neural Networks,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06917558385020911
+Astronomy,Master,Design Analysis,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.07881764886930336
+Astronomy,Master,Finite Element Methods,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.05916466206194123
+Astronomy,Master,Multiprocessing,,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.06518378682102902
+Astronomy,Master,Graphics Processing Unit (GPU),,12,Astronomy  (master's 2-years) – University of Oslo,Astronomy,0.07881764886930336

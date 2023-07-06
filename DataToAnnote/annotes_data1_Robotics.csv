@@ -1,0 +1,382 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Robotics,Master,Content Management,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04314738723861225
+Robotics,Master,Data Stores,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04481034367929489
+Robotics,Master,Retention Period,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.045411234839182996
+Robotics,Master,JSON,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.045411234839182996
+Robotics,Master,JQuery,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.045411234839182996
+Robotics,Master,Typing Skills,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04314738723861225
+Robotics,Master,Data Protection,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03989266723006494
+Robotics,Master,Economy,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.019221710229944382
+Robotics,Master,Knowledge of Mathematics,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.02746304865400948
+Robotics,Master,Control Systems,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04119686869509812
+Robotics,Master,Linear Algebra,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03657701138596905
+Robotics,Master,Artificial Intelligence,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.026627372154870512
+Robotics,Master,Algorithms,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.031184548734278318
+Robotics,Master,Differential Equations,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04074861481837219
+Robotics,Master,Electronics,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.034447571484129504
+Robotics,Master,Computer Programming,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.030315424466358223
+Robotics,Master,Robotics Design and Production,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.035935136710568215
+Robotics,Master,Knowledge of Electrical Engineering,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03625242671902698
+Robotics,Master,Laboratory Techniques,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.042138471619003866
+Robotics,Master,Knowledge of Statistics,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.022687884847005606
+Robotics,Master,Project Planning,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.038322293489527544
+Robotics,Master,Research and Development,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.042138471619003866
+Robotics,Master,Data Structures,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04165982201217354
+Robotics,Master,MATLAB,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04031415557994967
+Robotics,Master,Numerical Analysis,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03473280969407773
+Robotics,Master,Sensors,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04074861481837219
+Robotics,Master,Simulations,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.027811678988722832
+Robotics,Master,Mechanical Systems,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.05242033350001699
+Robotics,Master,Academic Writing,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.02910449890442515
+Robotics,Master,Risk Analysis,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.034447571484129504
+Robotics,Master,Java (Programming Language),,96,Master&#39;s Programme in Robotics and Control,Robotics,0.042633919337488974
+Robotics,Master,Architecture,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.02695573140041557
+Robotics,Master,Artificial Neural Networks,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03657701138596905
+Robotics,Master,Cognition Processing,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04314738723861225
+Robotics,Master,Genetic Algorithm,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.05865848670274561
+Robotics,Master,Scalability,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.05242033350001699
+Robotics,Master,Python (Programming Language),,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03164003375645315
+Robotics,Master,Paradigms,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.037598093151250844
+Robotics,Master,Knowledge Representation,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.05865848670274561
+Robotics,Master,Intelligent Systems,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.042633919337488974
+Robotics,Master,European Train Control Systems,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.06438317200435092
+Robotics,Master,3D Printing,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.05346664996581512
+Robotics,Master,Automatic Control,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.05346664996581512
+Robotics,Master,Computer Engineering,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04481034367929489
+Robotics,Master,Control Engineering,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.07010785730595626
+Robotics,Master,Embedded Computers,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04074861481837219
+Robotics,Master,Knowledge of Engineering,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03416798192845961
+Robotics,Master,Mechanical Engineering,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.0372494628165375
+Robotics,Master,Creating Prototypes,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03416798192845961
+Robotics,Master,Design Methods,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.042138471619003866
+Robotics,Master,Ordinary Differential Equations (Differential Calculus),,96,Master&#39;s Programme in Robotics and Control,Robotics,0.048108707652055556
+Robotics,Master,3d Models,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04165982201217354
+Robotics,Master,Computer Vision,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04481034367929489
+Robotics,Master,Image Analysis,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03795555050168177
+Robotics,Master,Digital Image,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.051446236174701565
+Robotics,Master,Laser Scanning,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.07989427146848428
+Robotics,Master,Project Management,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03074329997363773
+Robotics,Master,Pattern Recognition,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04165982201217354
+Robotics,Master,Software Engineering,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03989266723006494
+Robotics,Master,Digital Signal Processing,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04967908139259296
+Robotics,Master,Image Processing,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03502392951676687
+Robotics,Master,Signal Processing,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.037598093151250844
+Robotics,Master,Thinning,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.07989427146848428
+Robotics,Master,Image Compression,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.07010785730595626
+Robotics,Master,Morphology,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04314738723861225
+Robotics,Master,Edge Detection,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.05242033350001699
+Robotics,Master,Automation,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03473280969407773
+Robotics,Master,Engineering Mathematics,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.07010785730595626
+Robotics,Master,Execution of Experiments,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.026148722548040192
+Robotics,Master,Mathematical Modeling,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.03869881743459188
+Robotics,Master,Estimation Theories,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04967908139259296
+Robotics,Master,Sensor Fusion,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.06032144314342824
+Robotics,Master,PID Controllers,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.05865848670274561
+Robotics,Master,Control Methods,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.04967908139259296
+Robotics,Master,Peer Review,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.037598093151250844
+Robotics,Master,Interaction Design,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.05053502898090022
+Robotics,Master,Scientific Literature,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.028722886182524172
+Robotics,Master,Information Technology,,96,Master&#39;s Programme in Robotics and Control,Robotics,0.026148722548040192
+Robotics,Master,Instructional Design,,96,Master Cycle - Robotics - EPFL,Robotics,0.035935136710568215
+Robotics,Master,Biology,,96,Master Cycle - Robotics - EPFL,Robotics,0.025385357659878167
+Robotics,Master,Desktop Virtualization,,96,Master Cycle - Robotics - EPFL,Robotics,0.04074861481837219
+Robotics,Master,Scheduling,,96,Master Cycle - Robotics - EPFL,Robotics,0.03211070437964055
+Robotics,Master,Machine Learning,,96,Master Cycle - Robotics - EPFL,Robotics,0.02929924421516154
+Robotics,Master,Ecology,,96,Master Cycle - Robotics - EPFL,Robotics,0.03164003375645315
+Robotics,Master,Data Science,,96,Master Cycle - Robotics - EPFL,Robotics,0.02910449890442515
+Robotics,Master,Systems Engineering,,96,Master Cycle - Robotics - EPFL,Robotics,0.0436802358032871
+Robotics,Master,Moodle,,96,Master Cycle - Robotics - EPFL,Robotics,0.0436802358032871
+Robotics,Master,Actuators,,96,Master Cycle - Robotics - EPFL,Robotics,0.04738450731377887
+Robotics,Master,Dynamical Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.04031415557994967
+Robotics,Master,Manufacturing,,96,Master Cycle - Robotics - EPFL,Robotics,0.035935136710568215
+Robotics,Master,Physics,,96,Master Cycle - Robotics - EPFL,Robotics,0.029496713324725782
+Robotics,Master,Financial Engineering,,96,Master Cycle - Robotics - EPFL,Robotics,0.04669564819841167
+Robotics,Master,Mobile Robots,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Data Analysis,,96,Master Cycle - Robotics - EPFL,Robotics,0.025992711997347834
+Robotics,Master,Data Collection,,96,Master Cycle - Robotics - EPFL,Robotics,0.02729190945340418
+Robotics,Master,Case Studies,,96,Master Cycle - Robotics - EPFL,Robotics,0.02929924421516154
+Robotics,Master,Forecasting Skills,,96,Master Cycle - Robotics - EPFL,Robotics,0.03336097307608423
+Robotics,Master,Ultrasounds,,96,Master Cycle - Robotics - EPFL,Robotics,0.05242033350001699
+Robotics,Master,Modulation,,96,Master Cycle - Robotics - EPFL,Robotics,0.045411234839182996
+Robotics,Master,Design Control,,96,Master Cycle - Robotics - EPFL,Robotics,0.05346664996581512
+Robotics,Master,Motor Control,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,Negotiation Skills,,96,Master Cycle - Robotics - EPFL,Robotics,0.03362488377264107
+Robotics,Master,Computational Science and Engineering,,96,Master Cycle - Robotics - EPFL,Robotics,0.04074861481837219
+Robotics,Master,Medical Equipment,,96,Master Cycle - Robotics - EPFL,Robotics,0.04967908139259296
+Robotics,Master,Internet of Things,,96,Master Cycle - Robotics - EPFL,Robotics,0.04165982201217354
+Robotics,Master,Conflict Resolution,,96,Master Cycle - Robotics - EPFL,Robotics,0.03869881743459188
+Robotics,Master,Control Theories,,96,Master Cycle - Robotics - EPFL,Robotics,0.05346664996581512
+Robotics,Master,Kinematics,,96,Master Cycle - Robotics - EPFL,Robotics,0.05242033350001699
+Robotics,Master,Reinforcement Learning,,96,Master Cycle - Robotics - EPFL,Robotics,0.0436802358032871
+Robotics,Master,Optics and Eyewear,,96,Master Cycle - Robotics - EPFL,Robotics,0.03502392951676687
+Robotics,Master,Polymer Chemistry,,96,Master Cycle - Robotics - EPFL,Robotics,0.045411234839182996
+Robotics,Master,Knowledge of Packaging and Processing,,96,Master Cycle - Robotics - EPFL,Robotics,0.05242033350001699
+Robotics,Master,Program Evaluations,,96,Master Cycle - Robotics - EPFL,Robotics,0.04165982201217354
+Robotics,Master,Physiology,,96,Master Cycle - Robotics - EPFL,Robotics,0.039483397670367626
+Robotics,Master,Clinical Works,,96,Master Cycle - Robotics - EPFL,Robotics,0.042633919337488974
+Robotics,Master,Measurement and Metrology,,96,Master Cycle - Robotics - EPFL,Robotics,0.034447571484129504
+Robotics,Master,Nervous Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.04423398564665752
+Robotics,Master,Imaging,,96,Master Cycle - Robotics - EPFL,Robotics,0.033893821640759075
+Robotics,Master,Entrepreneurship,,96,Master Cycle - Robotics - EPFL,Robotics,0.030527741417421643
+Robotics,Master,Sustainability,,96,Master Cycle - Robotics - EPFL,Robotics,0.030527741417421643
+Robotics,Master,Programming Tools,,96,Master Cycle - Robotics - EPFL,Robotics,0.05346664996581512
+Robotics,Master,Business Analytics Applications,,96,Master Cycle - Robotics - EPFL,Robotics,0.03625242671902698
+Robotics,Master,Remote Desktop Services,,96,Master Cycle - Robotics - EPFL,Robotics,0.05865848670274561
+Robotics,Master,Bayes' Theorem (Bayesian Statistics),,96,Master Cycle - Robotics - EPFL,Robotics,0.05459675784182291
+Robotics,Master,Motion Planning,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Kalman Filter,,96,Master Cycle - Robotics - EPFL,Robotics,0.051446236174701565
+Robotics,Master,Feature Extraction,,96,Master Cycle - Robotics - EPFL,Robotics,0.04669564819841167
+Robotics,Master,Convex Optimization,,96,Master Cycle - Robotics - EPFL,Robotics,0.051446236174701565
+Robotics,Master,Predictive Data Analysis,,96,Master Cycle - Robotics - EPFL,Robotics,0.04481034367929489
+Robotics,Master,Model Predictive Control,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Experimental Data,,96,Master Cycle - Robotics - EPFL,Robotics,0.04074861481837219
+Robotics,Master,Parametrization,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Robust Control,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,Complementary Metal-Oxide Semiconductor (CMOS),,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Satellites,,96,Master Cycle - Robotics - EPFL,Robotics,0.05865848670274561
+Robotics,Master,Assembly and Installation,,96,Master Cycle - Robotics - EPFL,Robotics,0.0436802358032871
+Robotics,Master,Biomechanics,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,Visual Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.04967908139259296
+Robotics,Master,Creation of Textures,,96,Master Cycle - Robotics - EPFL,Robotics,0.046038840881555
+Robotics,Master,Microsoft Excel,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Business Process Improvement,,96,Master Cycle - Robotics - EPFL,Robotics,0.05865848670274561
+Robotics,Master,Capacity Planning,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Digitization,,96,Master Cycle - Robotics - EPFL,Robotics,0.04738450731377887
+Robotics,Master,E-Business,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Operations Management,,96,Master Cycle - Robotics - EPFL,Robotics,0.04423398564665752
+Robotics,Master,Production Management,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,Production Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.05865848670274561
+Robotics,Master,Quality Management,,96,Master Cycle - Robotics - EPFL,Robotics,0.03562482067665498
+Robotics,Master,Supply Chain Management,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Probability and Statistics,,96,Master Cycle - Robotics - EPFL,Robotics,0.04119686869509812
+Robotics,Master,Transportation Management,,96,Master Cycle - Robotics - EPFL,Robotics,0.05459675784182291
+Robotics,Master,Mentoring,,96,Master Cycle - Robotics - EPFL,Robotics,0.031184548734278318
+Robotics,Master,Safety Principles,,96,Master Cycle - Robotics - EPFL,Robotics,0.0372494628165375
+Robotics,Master,Computer Simulation,,96,Master Cycle - Robotics - EPFL,Robotics,0.034447571484129504
+Robotics,Master,Deep Learning,,96,Master Cycle - Robotics - EPFL,Robotics,0.03657701138596905
+Robotics,Master,Performance Management,,96,Master Cycle - Robotics - EPFL,Robotics,0.04423398564665752
+Robotics,Master,Wireless Sensor Networks,,96,Master Cycle - Robotics - EPFL,Robotics,0.048872072540217575
+Robotics,Master,Programming Languages,,96,Master Cycle - Robotics - EPFL,Robotics,0.03211070437964055
+Robotics,Master,C++ (Programming Language),,96,Master Cycle - Robotics - EPFL,Robotics,0.048872072540217575
+Robotics,Master,Datasheets,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,Field-Programmable Gate Array (FPGA),,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Logic Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.05865848670274561
+Robotics,Master,VHSIC Hardware Description Language (VHDL),,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Computer Architecture,,96,Master Cycle - Robotics - EPFL,Robotics,0.046038840881555
+Robotics,Master,Medical Imaging,,96,Master Cycle - Robotics - EPFL,Robotics,0.045411234839182996
+Robotics,Master,Instrumentation,,96,Master Cycle - Robotics - EPFL,Robotics,0.03625242671902698
+Robotics,Master,Programmable Logic Controllers,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Life Cycle Assessment,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Modeling and Simulation,,96,Master Cycle - Robotics - EPFL,Robotics,0.048872072540217575
+Robotics,Master,Key Performance Indicators,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Technical Writing Skills,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Electrophysiology,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,Coatings,,96,Master Cycle - Robotics - EPFL,Robotics,0.05459675784182291
+Robotics,Master,Neuroscience,,96,Master Cycle - Robotics - EPFL,Robotics,0.051446236174701565
+Robotics,Master,Production Schedule,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Quantitative Research,,96,Master Cycle - Robotics - EPFL,Robotics,0.03795555050168177
+Robotics,Master,Blood Pressure,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Biomedical Engineering,,96,Master Cycle - Robotics - EPFL,Robotics,0.03869881743459188
+Robotics,Master,Project Engineering,,96,Master Cycle - Robotics - EPFL,Robotics,0.05346664996581512
+Robotics,Master,Data Warehousing,,96,Master Cycle - Robotics - EPFL,Robotics,0.042633919337488974
+Robotics,Master,Modelling Skills,,96,Master Cycle - Robotics - EPFL,Robotics,0.037598093151250844
+Robotics,Master,Mathematical Optimization,,96,Master Cycle - Robotics - EPFL,Robotics,0.048872072540217575
+Robotics,Master,Performance Tuning,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Heavy Equipment,,96,Master Cycle - Robotics - EPFL,Robotics,0.07010785730595626
+Robotics,Master,Physical Strength,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,Hidden Markov Model,,96,Master Cycle - Robotics - EPFL,Robotics,0.05053502898090022
+Robotics,Master,Support of Learning,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Quantum,,96,Master Cycle - Robotics - EPFL,Robotics,0.034447571484129504
+Robotics,Master,Boundary Value Problem,,96,Master Cycle - Robotics - EPFL,Robotics,0.048108707652055556
+Robotics,Master,Electromechanics,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,Micro Electro-Mechanical Systems (MEMS),,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Nanotechnology,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Pressure Sensor,,96,Master Cycle - Robotics - EPFL,Robotics,0.07416958616687895
+Robotics,Master,Consumer Electronics,,96,Master Cycle - Robotics - EPFL,Robotics,0.07416958616687895
+Robotics,Master,Global Positioning Systems (GPS),,96,Master Cycle - Robotics - EPFL,Robotics,0.05459675784182291
+Robotics,Master,Demonstration Skills,,96,Master Cycle - Robotics - EPFL,Robotics,0.05346664996581512
+Robotics,Master,GNSS,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Drones,,96,Master Cycle - Robotics - EPFL,Robotics,0.05242033350001699
+Robotics,Master,Anatomy,,96,Master Cycle - Robotics - EPFL,Robotics,0.042633919337488974
+Robotics,Master,Motion Capture,,96,Master Cycle - Robotics - EPFL,Robotics,0.05459675784182291
+Robotics,Master,Vibrations,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Justice,,96,Master Cycle - Robotics - EPFL,Robotics,0.028535879326999518
+Robotics,Master,Transmission,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Systems Controls,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Human Musculoskeletal Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Retina,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,Testing Skills,,96,Master Cycle - Robotics - EPFL,Robotics,0.04119686869509812
+Robotics,Master,Digital Cameras,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Geometry,,96,Master Cycle - Robotics - EPFL,Robotics,0.0436802358032871
+Robotics,Master,Pascal (Programming Language),,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,Infrared Technology,,96,Master Cycle - Robotics - EPFL,Robotics,0.04967908139259296
+Robotics,Master,Conceptual Design,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,Reverse Engineering,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,Innovation,,96,Master Cycle - Robotics - EPFL,Robotics,0.023972298206234276
+Robotics,Master,Six Sigma Methodology,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,User Experience,,96,Master Cycle - Robotics - EPFL,Robotics,0.04967908139259296
+Robotics,Master,Management of Changes,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,Corporate Social Responsibility,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Crisis Management,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Governance,,96,Master Cycle - Robotics - EPFL,Robotics,0.02891240327206386
+Robotics,Master,Graphic Design,,96,Master Cycle - Robotics - EPFL,Robotics,0.046038840881555
+Robotics,Master,Psychology,,96,Master Cycle - Robotics - EPFL,Robotics,0.03096220065584418
+Robotics,Master,Leadership Styles,,96,Master Cycle - Robotics - EPFL,Robotics,0.05242033350001699
+Robotics,Master,Lean Processes,,96,Master Cycle - Robotics - EPFL,Robotics,0.05865848670274561
+Robotics,Master,Operational Excellence,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Process Capability,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Standardization,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,System Dynamics,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Value Chain,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Quality Control,,96,Master Cycle - Robotics - EPFL,Robotics,0.03908565837768956
+Robotics,Master,Ecosystems,,96,Master Cycle - Robotics - EPFL,Robotics,0.04967908139259296
+Robotics,Master,Organizational Learning,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Team Management,,96,Master Cycle - Robotics - EPFL,Robotics,0.042633919337488974
+Robotics,Master,Recall of Memory,,96,Master Cycle - Robotics - EPFL,Robotics,0.051446236174701565
+Robotics,Master,Scientific Studies,,96,Master Cycle - Robotics - EPFL,Robotics,0.027122819873355623
+Robotics,Master,Batch Processing,,96,Master Cycle - Robotics - EPFL,Robotics,0.05242033350001699
+Robotics,Master,Natural Language Processing,,96,Master Cycle - Robotics - EPFL,Robotics,0.04481034367929489
+Robotics,Master,Pytorch,,96,Master Cycle - Robotics - EPFL,Robotics,0.051446236174701565
+Robotics,Master,Knowledge of Civil Engineering,,96,Master Cycle - Robotics - EPFL,Robotics,0.04669564819841167
+Robotics,Master,Systems Design,,96,Master Cycle - Robotics - EPFL,Robotics,0.04967908139259296
+Robotics,Master,Autonomous Vehicles,,96,Master Cycle - Robotics - EPFL,Robotics,0.05865848670274561
+Robotics,Master,Recurrent Neural Networks,,96,Master Cycle - Robotics - EPFL,Robotics,0.051446236174701565
+Robotics,Master,Distributed Control Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.051446236174701565
+Robotics,Master,Microprocessors,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,Logic Analyzer,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,System on a Chip,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,PIC Microcontroller,,96,Master Cycle - Robotics - EPFL,Robotics,0.05242033350001699
+Robotics,Master,Oscilloscope,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,Hardware Debugging,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,Assembly Language,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Biological Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.042138471619003866
+Robotics,Master,Aliasing,,96,Master Cycle - Robotics - EPFL,Robotics,0.051446236174701565
+Robotics,Master,Nuclear Engineering,,96,Master Cycle - Robotics - EPFL,Robotics,0.048108707652055556
+Robotics,Master,Image Acquisition,,96,Master Cycle - Robotics - EPFL,Robotics,0.04481034367929489
+Robotics,Master,Histogram,,96,Master Cycle - Robotics - EPFL,Robotics,0.05459675784182291
+Robotics,Master,Supervised Learning,,96,Master Cycle - Robotics - EPFL,Robotics,0.04119686869509812
+Robotics,Master,Interpolation,,96,Master Cycle - Robotics - EPFL,Robotics,0.04031415557994967
+Robotics,Master,Application Programming Interfaces (APIs),,96,Master Cycle - Robotics - EPFL,Robotics,0.048872072540217575
+Robotics,Master,Control Communications,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Human-Computer Interaction,,96,Master Cycle - Robotics - EPFL,Robotics,0.04738450731377887
+Robotics,Master,Software Architecture,,96,Master Cycle - Robotics - EPFL,Robotics,0.05053502898090022
+Robotics,Master,Systems Architecture,,96,Master Cycle - Robotics - EPFL,Robotics,0.05459675784182291
+Robotics,Master,Energy Production,,96,Master Cycle - Robotics - EPFL,Robotics,0.04738450731377887
+Robotics,Master,Auctioneering,,96,Master Cycle - Robotics - EPFL,Robotics,0.05865848670274561
+Robotics,Master,Communication Studies,,96,Master Cycle - Robotics - EPFL,Robotics,0.045411234839182996
+Robotics,Master,Conceptual Models,,96,Master Cycle - Robotics - EPFL,Robotics,0.04481034367929489
+Robotics,Master,Markup Languages,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,Financial Management,,96,Master Cycle - Robotics - EPFL,Robotics,0.05459675784182291
+Robotics,Master,Game Theory,,96,Master Cycle - Robotics - EPFL,Robotics,0.04669564819841167
+Robotics,Master,Mechanism Design,,96,Master Cycle - Robotics - EPFL,Robotics,0.05865848670274561
+Robotics,Master,Web Services,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Design Research,,96,Master Cycle - Robotics - EPFL,Robotics,0.045411234839182996
+Robotics,Master,Equations,,96,Master Cycle - Robotics - EPFL,Robotics,0.0372494628165375
+Robotics,Master,Transpose,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Life-Cycle Cost Analysis,,96,Master Cycle - Robotics - EPFL,Robotics,0.07010785730595626
+Robotics,Master,Product Lifecycle,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Software Tools,,96,Master Cycle - Robotics - EPFL,Robotics,0.0436802358032871
+Robotics,Master,Circular Economy,,96,Master Cycle - Robotics - EPFL,Robotics,0.05346664996581512
+Robotics,Master,Unsupervised Learning,,96,Master Cycle - Robotics - EPFL,Robotics,0.0372494628165375
+Robotics,Master,Mechatronics,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Construction,,96,Master Cycle - Robotics - EPFL,Robotics,0.026306476269446575
+Robotics,Master,Design Elements and Principles,,96,Master Cycle - Robotics - EPFL,Robotics,0.04119686869509812
+Robotics,Master,Pneumatic Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.07416958616687895
+Robotics,Master,Product Design,,96,Master Cycle - Robotics - EPFL,Robotics,0.03989266723006494
+Robotics,Master,Resource Management,,96,Master Cycle - Robotics - EPFL,Robotics,0.05053502898090022
+Robotics,Master,Budgeting Skills,,96,Master Cycle - Robotics - EPFL,Robotics,0.04738450731377887
+Robotics,Master,Electric Power Transmission,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Machinery,,96,Master Cycle - Robotics - EPFL,Robotics,0.048108707652055556
+Robotics,Master,Energy Transformation,,96,Master Cycle - Robotics - EPFL,Robotics,0.037598093151250844
+Robotics,Master,Tribology,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Industrial Processes,,96,Master Cycle - Robotics - EPFL,Robotics,0.05459675784182291
+Robotics,Master,Energy Technology,,96,Master Cycle - Robotics - EPFL,Robotics,0.04314738723861225
+Robotics,Master,Intelligent Transportation Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.07416958616687895
+Robotics,Master,Dynamic Programming,,96,Master Cycle - Robotics - EPFL,Robotics,0.0436802358032871
+Robotics,Master,Control Networks,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,Graph Theory,,96,Master Cycle - Robotics - EPFL,Robotics,0.045411234839182996
+Robotics,Master,Cochlear Implants,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Drawing Skills,,96,Master Cycle - Robotics - EPFL,Robotics,0.038322293489527544
+Robotics,Master,Elastomer,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Electrode,,96,Master Cycle - Robotics - EPFL,Robotics,0.05865848670274561
+Robotics,Master,Light-Emitting Diode,,96,Master Cycle - Robotics - EPFL,Robotics,0.05865848670274561
+Robotics,Master,Telemetry,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Wireless Communications,,96,Master Cycle - Robotics - EPFL,Robotics,0.051446236174701565
+Robotics,Master,Transducers,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Data Processing,,96,Master Cycle - Robotics - EPFL,Robotics,0.03187340784964552
+Robotics,Master,Finite Element Methods,,96,Master Cycle - Robotics - EPFL,Robotics,0.04669564819841167
+Robotics,Master,Partial Differential Equation,,96,Master Cycle - Robotics - EPFL,Robotics,0.048108707652055556
+Robotics,Master,Simulation Software,,96,Master Cycle - Robotics - EPFL,Robotics,0.05346664996581512
+Robotics,Master,Verification and Validation (Software),,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Operations Research,,96,Master Cycle - Robotics - EPFL,Robotics,0.038322293489527544
+Robotics,Master,Decision Analysis,,96,Master Cycle - Robotics - EPFL,Robotics,0.051446236174701565
+Robotics,Master,Knowledge of Finance,,96,Master Cycle - Robotics - EPFL,Robotics,0.026790597223441036
+Robotics,Master,Marketing,,96,Master Cycle - Robotics - EPFL,Robotics,0.03989266723006494
+Robotics,Master,Linear Programming,,96,Master Cycle - Robotics - EPFL,Robotics,0.045411234839182996
+Robotics,Master,Probability Theories,,96,Master Cycle - Robotics - EPFL,Robotics,0.0436802358032871
+Robotics,Master,Revenue Management,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,User Assistance,,96,Master Cycle - Robotics - EPFL,Robotics,0.07010785730595626
+Robotics,Master,Simplex Dental Software,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Commercialization Skills,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,Flexography,,96,Master Cycle - Robotics - EPFL,Robotics,0.07416958616687895
+Robotics,Master,Sintering,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Printmaking,,96,Master Cycle - Robotics - EPFL,Robotics,0.07010785730595626
+Robotics,Master,Production Line,,96,Master Cycle - Robotics - EPFL,Robotics,0.07010785730595626
+Robotics,Master,Printing,,96,Master Cycle - Robotics - EPFL,Robotics,0.04967908139259296
+Robotics,Master,Rheology,,96,Master Cycle - Robotics - EPFL,Robotics,0.07010785730595626
+Robotics,Master,Systems Integration,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,FOIL (Programming Language),,96,Master Cycle - Robotics - EPFL,Robotics,0.07416958616687895
+Robotics,Master,Customer Demand Planning,,96,Master Cycle - Robotics - EPFL,Robotics,0.05459675784182291
+Robotics,Master,Data Mining,,96,Master Cycle - Robotics - EPFL,Robotics,0.03795555050168177
+Robotics,Master,Demand Forecasting,,96,Master Cycle - Robotics - EPFL,Robotics,0.07010785730595626
+Robotics,Master,Distributed Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.042633919337488974
+Robotics,Master,Economic Order Quantity,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,Sales,,96,Master Cycle - Robotics - EPFL,Robotics,0.0436802358032871
+Robotics,Master,Material Requirements Planning,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Oscillation,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Procurement Management,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Visualization,,96,Master Cycle - Robotics - EPFL,Robotics,0.03336097307608423
+Robotics,Master,Safety Stock,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Salesforce.Com,,96,Master Cycle - Robotics - EPFL,Robotics,0.07010785730595626
+Robotics,Master,Stock Control,,96,Master Cycle - Robotics - EPFL,Robotics,0.05459675784182291
+Robotics,Master,Time Series,,96,Master Cycle - Robotics - EPFL,Robotics,0.04967908139259296
+Robotics,Master,Manufacturing Processes,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Logistics Operations,,96,Master Cycle - Robotics - EPFL,Robotics,0.05242033350001699
+Robotics,Master,Web Servers,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Multiprocessing,,96,Master Cycle - Robotics - EPFL,Robotics,0.051446236174701565
+Robotics,Master,Real-Time Operating Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,Polling,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Task Management,,96,Master Cycle - Robotics - EPFL,Robotics,0.06220674766254502
+Robotics,Master,Real Time Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,Fpga Hardware,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Environmental Monitoring,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,Stochastic Process,,96,Master Cycle - Robotics - EPFL,Robotics,0.04423398564665752
+Robotics,Master,Remote Sensing,,96,Master Cycle - Robotics - EPFL,Robotics,0.05459675784182291
+Robotics,Master,Space Exploration,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Technology Assessment,,96,Master Cycle - Robotics - EPFL,Robotics,0.07010785730595626
+Robotics,Master,Noise Reduction,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,Electric Power Distribution,,96,Master Cycle - Robotics - EPFL,Robotics,0.048108707652055556
+Robotics,Master,Flow Measurement,,96,Master Cycle - Robotics - EPFL,Robotics,0.05459675784182291
+Robotics,Master,Volumetric Flow Rate,,96,Master Cycle - Robotics - EPFL,Robotics,0.05717092147630689
+Robotics,Master,Respiratory Systems,,96,Master Cycle - Robotics - EPFL,Robotics,0.04967908139259296
+Robotics,Master,Signal Conditioning,,96,Master Cycle - Robotics - EPFL,Robotics,0.05582525504408302
+Robotics,Master,AngularJS,,96,Master Cycle - Robotics - EPFL,Robotics,0.046038840881555
+Robotics,Master,Linear Regression,,96,Master Cycle - Robotics - EPFL,Robotics,0.03869881743459188
+Robotics,Master,Linear Model,,96,Master Cycle - Robotics - EPFL,Robotics,0.0436802358032871
+Robotics,Master,Ordinary Least Squares (Regression Analysis),,96,Master Cycle - Robotics - EPFL,Robotics,0.04738450731377887
+Robotics,Master,Spectral Analysis,,96,Master Cycle - Robotics - EPFL,Robotics,0.04967908139259296
+Robotics,Master,Amputation,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Traumatic Brain Injury,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Neurodegeneration,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Clinical Research,,96,Master Cycle - Robotics - EPFL,Robotics,0.04074861481837219
+Robotics,Master,Deficits,,96,Master Cycle - Robotics - EPFL,Robotics,0.06032144314342824
+Robotics,Master,Caring for People with Dementia,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Design of Experiments,,96,Master Cycle - Robotics - EPFL,Robotics,0.03625242671902698
+Robotics,Master,Ethical Codes,,96,Master Cycle - Robotics - EPFL,Robotics,0.04669564819841167
+Robotics,Master,Neurology,,96,Master Cycle - Robotics - EPFL,Robotics,0.05346664996581512
+Robotics,Master,Neurotechnology,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Pathophysiology,,96,Master Cycle - Robotics - EPFL,Robotics,0.06438317200435092
+Robotics,Master,Personalized Medicine,,96,Master Cycle - Robotics - EPFL,Robotics,0.04967908139259296
+Robotics,Master,Retinal,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Spinal Cord Injury,,96,Master Cycle - Robotics - EPFL,Robotics,0.06695733563883491
+Robotics,Master,Project Scoping,,96,Master Cycle - Robotics - EPFL,Robotics,0.04669564819841167

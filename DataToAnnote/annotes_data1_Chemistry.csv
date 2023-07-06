@@ -1,0 +1,336 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Chemistry,Master,Biology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0280440520066919
+Chemistry,Bachelor,Instructional Design,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03969874509081843
+Chemistry,Master,Scientific Literature,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.031731131177171135
+Chemistry,Bachelor,Spectroscopy,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.050167307019311824
+Chemistry,Bachelor,Biochemistry,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.048255014601115066
+Chemistry,Master,Chemistry,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04602299604174772
+Chemistry,Master,Execution of Experiments,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.028887366680864633
+Chemistry,Bachelor,Chemical Engineering,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05791049228375007
+Chemistry,Master,Google Analytics,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.050167307019311824
+Chemistry,Master,Site Maps,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.05086064436471439
+Chemistry,Master,Administrative Operations,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.029416146879543803
+Chemistry,Master,Calculations,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03495380148068073
+Chemistry,Bachelor,Protein,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.054882139573732655
+Chemistry,Master,Continuous Training,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.054882139573732655
+Chemistry,Master,Search Engines,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04501635503734599
+Chemistry,Bachelor,Knowledge of Mathematics,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03033934660422855
+Chemistry,Bachelor,Chemical Biology,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.06480198836534881
+Chemistry,Master,Organic Chemistry,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.061672022774668184
+Chemistry,Bachelor,Chemical Reaction Engineering,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0603148609063243
+Chemistry,Bachelor,Physical Chemistry,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05906639301106886
+Chemistry,Bachelor,Data Collection,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03015028341644671
+Chemistry,Bachelor,Nuclear Magnetic Resonance,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0631586254026308
+Chemistry,Bachelor,Quantum,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03805538212810042
+Chemistry,Bachelor,Knowledge of Medicine,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03656877950013781
+Chemistry,Bachelor,Algorithms,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03445061197193771
+Chemistry,Bachelor,Linear Algebra,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04040784547143548
+Chemistry,Master,Polymer Chemistry,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.050167307019311824
+Chemistry,Master,Cell Biology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04655177624042688
+Chemistry,Master,Electronics,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03805538212810042
+Chemistry,Master,Raw Materials,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0360116659203392
+Chemistry,Master,Sales,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.048255014601115066
+Chemistry,Master,Molecular Modelling,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.06663911185725359
+Chemistry,Master,Molecular Biology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04233591687126849
+Chemistry,Master,Simulations,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.030724490172769417
+Chemistry,Master,Physics,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03258600385262651
+Chemistry,Master,Photovoltaics,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.048866760538054214
+Chemistry,Master,Imaging,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03744363619116127
+Chemistry,Bachelor,Thermodynamics,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05314729528122228
+Chemistry,Bachelor,Enzymes,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.061672022774668184
+Chemistry,Bachelor,Experimental Data,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04501635503734599
+Chemistry,Bachelor,Scheduling,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0354737670297796
+Chemistry,Bachelor,Machine Learning,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03236785313548742
+Chemistry,Bachelor,Nuclear Power,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03805538212810042
+Chemistry,Bachelor,Radiology,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.052347246992677
+Chemistry,Bachelor,Resonance,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0711262393162781
+Chemistry,Bachelor,RNA Sequencing,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.054882139573732655
+Chemistry,Bachelor,Drug Discovery,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05086064436471439
+Chemistry,Bachelor,Pharmacology,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04602299604174772
+Chemistry,Bachelor,Pharmaceutical Development,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05906639301106886
+Chemistry,Bachelor,Membranes,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.056834374451701516
+Chemistry,Bachelor,Fluorescence,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.061672022774668184
+Chemistry,Bachelor,Computational Science and Engineering,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04501635503734599
+Chemistry,Bachelor,Information Technology,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.028887366680864633
+Chemistry,Bachelor,Design of Experiments,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04004926595476059
+Chemistry,Bachelor,Probability and Statistics,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04551155605832556
+Chemistry,Bachelor,Knowledge of Statistics,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.02506406374478145
+Chemistry,Bachelor,Linear Programming,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.050167307019311824
+Chemistry,Bachelor,Simplex Dental Software,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.061672022774668184
+Chemistry,Master,Biotechnology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03969874509081843
+Chemistry,Master,Science Communication,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0495034824963705
+Chemistry,Master,Design Elements and Principles,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04551155605832556
+Chemistry,Master,Structural Biology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04602299604174772
+Chemistry,Master,Catalysis,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.06872187069370388
+Chemistry,Master,Tissue Engineering,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0495034824963705
+Chemistry,Master,Content Management,,97,Master&#39;s Programme in Chemistry,Chemistry,0.04766635900446572
+Chemistry,Master,Data Stores,,97,Master&#39;s Programme in Chemistry,Chemistry,0.0495034824963705
+Chemistry,Master,Retention Period,,97,Master&#39;s Programme in Chemistry,Chemistry,0.050167307019311824
+Chemistry,Master,Economy,,97,Master&#39;s Programme in Chemistry,Chemistry,0.021234864939409685
+Chemistry,Master,JSON,,97,Master&#39;s Programme in Chemistry,Chemistry,0.050167307019311824
+Chemistry,Master,JQuery,,97,Master&#39;s Programme in Chemistry,Chemistry,0.050167307019311824
+Chemistry,Master,Typing Skills,,97,Master&#39;s Programme in Chemistry,Chemistry,0.04766635900446572
+Chemistry,Master,Data Protection,,97,Master&#39;s Programme in Chemistry,Chemistry,0.04407076116377886
+Chemistry,Master,Architecture,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.029778896299202277
+Chemistry,Master,Knowledge of Finance,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.02959646706148169
+Chemistry,Master,Advanced Logic Research,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04551155605832556
+Chemistry,Master,Quality Control,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04317923154544122
+Chemistry,Master,Research and Development,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04655177624042688
+Chemistry,Master,Innovation,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.02648299805829041
+Chemistry,Master,Intellectual Property,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.050167307019311824
+Chemistry,Master,Toxicology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.050167307019311824
+Chemistry,Master,Artificial Intelligence,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.029416146879543803
+Chemistry,Master,Databases,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03033934660422855
+Chemistry,Master,Chemical Process,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0603148609063243
+Chemistry,Master,Electrochemistry,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04766635900446572
+Chemistry,Master,Batteries,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.054882139573732655
+Chemistry,Master,Fundamental Science,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03714653155071767
+Chemistry,Master,Biomaterial,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.050167307019311824
+Chemistry,Master,Bacteriology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.055827733447299785
+Chemistry,Master,Spectrometer,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.054882139573732655
+Chemistry,Master,Manufacturing,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03969874509081843
+Chemistry,Master,Automation,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03837049430029277
+Chemistry,Master,Optics and Eyewear,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.038692104086416705
+Chemistry,Master,Environmental Chemistry,,97,Master&#39;s Programme in Chemistry,Chemistry,0.0711262393162781
+Chemistry,Master,Ecology,,97,Master&#39;s Programme in Chemistry,Chemistry,0.03495380148068073
+Chemistry,Master,Instrumentation,,97,Master&#39;s Programme in Chemistry,Chemistry,0.04004926595476059
+Chemistry,Master,Organic Synthesis,,97,Master&#39;s Programme in Chemistry,Chemistry,0.07397000381258459
+Chemistry,Bachelor,Composite Materials,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.055827733447299785
+Chemistry,Bachelor,Measurement and Metrology,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03805538212810042
+Chemistry,Bachelor,Bash Shell,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0711262393162781
+Chemistry,Bachelor,Big Data,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03495380148068073
+Chemistry,Bachelor,Carpentry,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0711262393162781
+Chemistry,Bachelor,Computer Programming,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03349046138054572
+Chemistry,Bachelor,Electronic Lab Notebook,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.08193761772623188
+Chemistry,Bachelor,Infrastructure Management,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03521161763179392
+Chemistry,Bachelor,Python (Programming Language),,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03495380148068073
+Chemistry,Bachelor,Scientific Studies,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.029963484512913197
+Chemistry,Bachelor,Analytical Chemistry,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0631586254026308
+Chemistry,Bachelor,Mass Spectrometry,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0603148609063243
+Chemistry,Bachelor,Structural Engineering,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0603148609063243
+Chemistry,Bachelor,Biological Engineering,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.06872187069370388
+Chemistry,Bachelor,Cell Signaling,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.07397000381258459
+Chemistry,Bachelor,Microsoft PowerPoint,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04077486292286699
+Chemistry,Bachelor,Monoclonal Antibodies,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.07397000381258459
+Chemistry,Bachelor,Infectious Diseases,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05158624133282079
+Chemistry,Bachelor,Oncology,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05158624133282079
+Chemistry,Bachelor,Chromatin,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.08193761772623188
+Chemistry,Bachelor,Transcription (Genetics),,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.06480198836534881
+Chemistry,Bachelor,Machinery,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05314729528122228
+Chemistry,Bachelor,Genetic Engineering,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.055827733447299785
+Chemistry,Bachelor,Biophysics,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.08826186867716118
+Chemistry,Bachelor,Gel Electrophoresis,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.08193761772623188
+Chemistry,Bachelor,Enzymology,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.07745049026720738
+Chemistry,Bachelor,Moodle,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.048255014601115066
+Chemistry,Bachelor,Protein Purification,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.08193761772623188
+Chemistry,Bachelor,Sequence Analysis,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.06663911185725359
+Chemistry,Bachelor,Cloning (Biology),,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.08826186867716118
+Chemistry,Bachelor,Sensors,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04501635503734599
+Chemistry,Bachelor,Protein Expression,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.06872187069370388
+Chemistry,Bachelor,Ligand,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.061672022774668184
+Chemistry,Bachelor,Electron Microscope,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0603148609063243
+Chemistry,Bachelor,Stochastic Process,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.048866760538054214
+Chemistry,Bachelor,Signaling,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05906639301106886
+Chemistry,Bachelor,Chemical Synthesis,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.06480198836534881
+Chemistry,Bachelor,Medical Research,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.048866760538054214
+Chemistry,Bachelor,Clinical Works,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.047099113873796276
+Chemistry,Bachelor,Pre-Clinical Development,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.06480198836534881
+Chemistry,Bachelor,Knowledge Bases,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05158624133282079
+Chemistry,Bachelor,Medicinal Chemistry,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0711262393162781
+Chemistry,Bachelor,Monte Carlo Methods,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04655177624042688
+Chemistry,Bachelor,Computational Chemistry,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.08193761772623188
+Chemistry,Bachelor,Angiography,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0711262393162781
+Chemistry,Bachelor,Medical Imaging,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.050167307019311824
+Chemistry,Bachelor,Metabolism,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.052347246992677
+Chemistry,Bachelor,Contrast Medium,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.06663911185725359
+Chemistry,Bachelor,Magnetic Resonance Imaging,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0631586254026308
+Chemistry,Bachelor,Case Studies,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03236785313548742
+Chemistry,Bachelor,Justice,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03152453846131469
+Chemistry,Bachelor,Boundary Value Problem,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05314729528122228
+Chemistry,Bachelor,Equations,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04115072501418235
+Chemistry,Bachelor,MATLAB,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0445363934137851
+Chemistry,Bachelor,Numerical Analysis,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03837049430029277
+Chemistry,Bachelor,Ordinary Differential Equations (Differential Calculus),,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05314729528122228
+Chemistry,Bachelor,Partial Differential Equation,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05314729528122228
+Chemistry,Bachelor,Algebra,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.048866760538054214
+Chemistry,Bachelor,Computer Security,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05158624133282079
+Chemistry,Bachelor,Biomedical Sciences,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.06872187069370388
+Chemistry,Bachelor,Epidemiology,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.061672022774668184
+Chemistry,Bachelor,Clinical Study Design,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.052347246992677
+Chemistry,Bachelor,Engineering Economics,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.08193761772623188
+Chemistry,Bachelor,Health Interventions,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0711262393162781
+Chemistry,Bachelor,Probability Theories,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.048255014601115066
+Chemistry,Bachelor,Pharmaceuticals,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.055827733447299785
+Chemistry,Bachelor,Social Sciences,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.03015028341644671
+Chemistry,Bachelor,Causal Inference,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.056834374451701516
+Chemistry,Bachelor,Knowledge of Electrical Engineering,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04004926595476059
+Chemistry,Bachelor,Integer Programming,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.06480198836534881
+Chemistry,Bachelor,Operations Research,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04233591687126849
+Chemistry,Bachelor,Systems Engineering,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.048255014601115066
+Chemistry,Bachelor,Knowledge of Civil Engineering,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.05158624133282079
+Chemistry,Bachelor,Mechanical Engineering,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04115072501418235
+Chemistry,Bachelor,Optimization Algorithms,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.0495034824963705
+Chemistry,Bachelor,Analysis of Variance (ANOVA),,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.048255014601115066
+Chemistry,Bachelor,Confidence Intervals,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.054882139573732655
+Chemistry,Bachelor,Linear Regression,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.04275187544229301
+Chemistry,Bachelor,Logistic Regression,,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.043618627419173495
+Chemistry,Bachelor,Ordinary Least Squares (Regression Analysis),,97,Bachelor Cycle - Chemistry - EPFL,Chemistry,0.052347246992677
+Chemistry,Master,Program Management,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.07397000381258459
+Chemistry,Master,Journalism,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04233591687126849
+Chemistry,Master,Visualization,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03685498059451192
+Chemistry,Master,Assembly and Installation,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.048255014601115066
+Chemistry,Master,Computer Simulation,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03805538212810042
+Chemistry,Master,Industrial Processes,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0603148609063243
+Chemistry,Master,Biological Process,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.05314729528122228
+Chemistry,Master,Antibiotics,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.07397000381258459
+Chemistry,Master,Financial Derivatives,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.056834374451701516
+Chemistry,Master,Presentation Programs,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.08193761772623188
+Chemistry,Master,Laboratory Techniques,,97,Master&#39;s Programme in Chemistry,Chemistry,0.04655177624042688
+Chemistry,Master,Dentistry,,97,Chemistry (master's two years) – University of Oslo,Chemistry,0.0711262393162781
+Chemistry,Master,Nutrition and Dietetics,,97,Chemistry (master's two years) – University of Oslo,Chemistry,0.055827733447299785
+Chemistry,Master,Dental Health,,97,Chemistry (master's two years) – University of Oslo,Chemistry,0.07397000381258459
+Chemistry,Master,Physical Therapy,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.05086064436471439
+Chemistry,Master,Accounting,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04407076116377886
+Chemistry,Master,Applied Mathematics,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04233591687126849
+Chemistry,Master,Applied Mechanics,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.052347246992677
+Chemistry,Master,Banking Services,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04407076116377886
+Chemistry,Master,Biopharmaceuticals,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.050167307019311824
+Chemistry,Master,Corporate Finance,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.047099113873796276
+Chemistry,Master,Business Performance Management,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.048866760538054214
+Chemistry,Master,Urban Planning,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04233591687126849
+Chemistry,Master,Medical Laboratory,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.0495034824963705
+Chemistry,Master,Clinical Research,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04501635503734599
+Chemistry,Master,Combinatorics,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.043618627419173495
+Chemistry,Master,Computer Networks,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04317923154544122
+Chemistry,Master,Computer Engineering,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.0495034824963705
+Chemistry,Master,Control Systems,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04551155605832556
+Chemistry,Master,Data Transmissions,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04077486292286699
+Chemistry,Master,Mathematical Finance,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.048255014601115066
+Chemistry,Master,Digital Marketing,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.05086064436471439
+Chemistry,Master,Embedded Computers,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04501635503734599
+Chemistry,Master,Knowledge of Engineering,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.037746510212849575
+Chemistry,Master,Engineering Physics,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.048866760538054214
+Chemistry,Master,Fluid Mechanics,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04655177624042688
+Chemistry,Master,Gene Therapy,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.0495034824963705
+Chemistry,Master,Health Physics,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.048255014601115066
+Chemistry,Master,Marketing,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04407076116377886
+Chemistry,Master,Image Processing,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.038692104086416705
+Chemistry,Master,Industrial Engineering,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.05086064436471439
+Chemistry,Master,Infertility,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.05158624133282079
+Chemistry,Master,Market Research,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.047099113873796276
+Chemistry,Master,Project Management,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.03396314973653849
+Chemistry,Master,Medical Physics,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.05086064436471439
+Chemistry,Master,Microelectronics,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.0495034824963705
+Chemistry,Master,Nanostructure,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.048255014601115066
+Chemistry,Master,Operations Management,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.048866760538054214
+Chemistry,Master,Pharmaceutical Engineering,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.052347246992677
+Chemistry,Master,Energy Transformation,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04153586858272321
+Chemistry,Master,Product Design,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04407076116377886
+Chemistry,Master,Quality Management,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.03935592860935803
+Chemistry,Master,Robotic Automation Software,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.05158624133282079
+Chemistry,Master,Urban Design,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.050167307019311824
+Chemistry,Master,Brand Management,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04551155605832556
+Chemistry,Master,Data Science,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.03215271148983778
+Chemistry,Master,Risk Management,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04153586858272321
+Chemistry,Master,Contract Management,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.05906639301106886
+Chemistry,Master,Training Activities,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.08193761772623188
+Chemistry,Master,Computer Animation,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.055827733447299785
+Chemistry,Master,Applied Research,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.054882139573732655
+Chemistry,Master,Energy Conservation,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.056834374451701516
+Chemistry,Master,Fuel Cell,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.061672022774668184
+Chemistry,Master,Renewable Energy,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.048866760538054214
+Chemistry,Master,Labour Economics,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.07397000381258459
+Chemistry,Master,Maintenance,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.04551155605832556
+Chemistry,Master,Sustainability,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.0337250150038313
+Chemistry,Master,Coatings,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.0603148609063243
+Chemistry,Master,Business Administration,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.0631586254026308
+Chemistry,Master,Process Engineering,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.06480198836534881
+Chemistry,Master,European Train Control Systems,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.0711262393162781
+Chemistry,Master,Product Flow Diagram,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.08826186867716118
+Chemistry,Master,Product Management,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.06480198836534881
+Chemistry,Master,Knowledge of Purchasing Processes,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.06480198836534881
+Chemistry,Master,Technical Sales,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.07397000381258459
+Chemistry,Master,Regulatory Affairs,,97,Master in Chemistry - Catalogue des formations,Chemistry,0.08826186867716118
+Chemistry,Master,Business Process Modeling,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.05791049228375007
+Chemistry,Master,Entrepreneurship,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0337250150038313
+Chemistry,Master,Sciences,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.055827733447299785
+Chemistry,Master,Innovation Management,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.054882139573732655
+Chemistry,Master,Intellectual Property Laws,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.05158624133282079
+Chemistry,Master,Painting,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.05314729528122228
+Chemistry,Master,Media Technology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.07397000381258459
+Chemistry,Master,Natural Sciences,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04407076116377886
+Chemistry,Master,Knowledge of Dynamics of Groups,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0603148609063243
+Chemistry,Master,Human Resources,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.06663911185725359
+Chemistry,Master,Organization Development,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0711262393162781
+Chemistry,Master,Team Management,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.047099113873796276
+Chemistry,Master,Public Relations,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.048255014601115066
+Chemistry,Master,Information Sciences,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0495034824963705
+Chemistry,Master,Journalistic Writing,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.08193761772623188
+Chemistry,Master,Strategic Communication,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0631586254026308
+Chemistry,Master,Apache Kafka,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.06872187069370388
+Chemistry,Master,Public Law,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.05399060995539501
+Chemistry,Master,Museums,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03744363619116127
+Chemistry,Master,Diseases and Disorders,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.08826186867716118
+Chemistry,Master,Gene Expression,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.052347246992677
+Chemistry,Master,General Knowledge,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04602299604174772
+Chemistry,Master,Materials Technology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0603148609063243
+Chemistry,Master,Ab Initio,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0711262393162781
+Chemistry,Master,Peer Review,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04153586858272321
+Chemistry,Master,Surface Science,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.07397000381258459
+Chemistry,Master,Automotive Industry,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.061672022774668184
+Chemistry,Master,Research Methodologies,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04040784547143548
+Chemistry,Master,Light Therapy,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.06872187069370388
+Chemistry,Master,Biofuels,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.08193761772623188
+Chemistry,Master,DNA Sequencing,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0631586254026308
+Chemistry,Master,Energy Technology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04766635900446572
+Chemistry,Master,Nanomaterials,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.06663911185725359
+Chemistry,Master,Nanotechnology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0631586254026308
+Chemistry,Master,Data Analysis,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.02871501661765776
+Chemistry,Master,Bioinformatics,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0631586254026308
+Chemistry,Master,Biomedical Engineering,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04275187544229301
+Chemistry,Master,Health Informatics,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0711262393162781
+Chemistry,Master,Computational Biology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.06663911185725359
+Chemistry,Master,Regenerative Medicine,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0711262393162781
+Chemistry,Master,Construction Plant Operation,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.07397000381258459
+Chemistry,Master,Wound Healing,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.08193761772623188
+Chemistry,Master,Multidisciplinary Research,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0631586254026308
+Chemistry,Master,Alzheimer's Disease,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.07397000381258459
+Chemistry,Master,Nervous Systems,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.048866760538054214
+Chemistry,Master,Drawing Skills,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04233591687126849
+Chemistry,Master,Virology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.08193761772623188
+Chemistry,Master,Particle Physics,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04766635900446572
+Chemistry,Master,Antibiotic Resistance,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.07397000381258459
+Chemistry,Master,Field Research,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03445061197193771
+Chemistry,Master,Genomics,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04766635900446572
+Chemistry,Master,Physiology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.043618627419173495
+Chemistry,Master,Design Strategies,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.061672022774668184
+Chemistry,Master,Functional Magnetic Resonance Imaging,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.05906639301106886
+Chemistry,Master,Redox,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.06480198836534881
+Chemistry,Master,Antibodies,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.06663911185725359
+Chemistry,Master,Immunology,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0631586254026308
+Chemistry,Master,Immune Systems,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.05399060995539501
+Chemistry,Master,Knowledge of Immunization,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0631586254026308
+Chemistry,Master,Tomography,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0603148609063243
+Chemistry,Master,Cell Cultures,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.05791049228375007
+Chemistry,Master,Unix,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.07397000381258459
+Chemistry,Master,Desktop Computing,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.056834374451701516
+Chemistry,Master,Linux,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.06663911185725359
+Chemistry,Master,Multidisciplinary Approach,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03194049703233921
+Chemistry,Master,OpenMP,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.06872187069370388
+Chemistry,Master,Scientific Computating,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.054882139573732655
+Chemistry,Master,Shell Script,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.07745049026720738
+Chemistry,Master,Computer Architecture,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.05086064436471439
+Chemistry,Master,Programming Languages,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.0354737670297796
+Chemistry,Master,Electromagnetism,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.04655177624042688
+Chemistry,Master,Mentoring,,97,Chemistry (Master 2022-2023) - Prospectus - Universiteit Leiden,Chemistry,0.03445061197193771
+Chemistry,Master,Biological Systems,,97,Master&#39;s Programme in Chemistry,Chemistry,0.04655177624042688
+Chemistry,Master,Quantification,,97,Master&#39;s Programme in Chemistry,Chemistry,0.054882139573732655
+Chemistry,Master,Infrared Technology,,97,Master&#39;s Programme in Chemistry,Chemistry,0.054882139573732655
+Chemistry,Master,Data Processing,,97,Master&#39;s Programme in Chemistry,Chemistry,0.03521161763179392
+Chemistry,Master,Multivariate Analysis,,97,Master&#39;s Programme in Chemistry,Chemistry,0.056834374451701516
+Chemistry,Master,Construction,,97,Master&#39;s Programme in Chemistry,Chemistry,0.029061642482948843
+Chemistry,Master,Risk Analysis,,97,Chemistry (master's two years) – University of Oslo,Chemistry,0.03805538212810042
+Chemistry,Master,Electrostatic Discharge,,97,Chemistry (master's two years) – University of Oslo,Chemistry,0.08193761772623188
+Chemistry,Master,Electrical Installations,,97,Chemistry (master's two years) – University of Oslo,Chemistry,0.048866760538054214
+Chemistry,Master,Voltage,,97,Chemistry (master's two years) – University of Oslo,Chemistry,0.0631586254026308
+Chemistry,Master,First Aid and Preparedness,,97,Chemistry (master's two years) – University of Oslo,Chemistry,0.07397000381258459

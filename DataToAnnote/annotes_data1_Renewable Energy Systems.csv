@@ -1,0 +1,90 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Renewable Energy Systems,Master,Renewable Energy,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.09196447620208235
+Renewable Energy Systems,Master,Photovoltaics,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.09196447620208235
+Renewable Energy Systems,Master,Energy Conservation,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.10695907441324042
+Renewable Energy Systems,Master,Energy Production,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.09851455462356005
+Renewable Energy Systems,Master,Electrical Installations,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.09196447620208235
+Renewable Energy Systems,Master,Energy Technology,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.08970538848983929
+Renewable Energy Systems,Master,Systems Analysis,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.10506463304503776
+Renewable Energy Systems,Master,Wind Power,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.11886095658567981
+Renewable Energy Systems,Master,Physics,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.061325014034686404
+Renewable Energy Systems,Master,Economy,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.03996281336991883
+Renewable Energy Systems,Master,Fuel Cell,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.11606325462025577
+Renewable Energy Systems,Master,Python (Programming Language),,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.06578107509171038
+Renewable Energy Systems,Master,Subsystems,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.1457574369692773
+Renewable Energy Systems,Master,Batteries,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.1032850789202093
+Renewable Energy Systems,Master,Sustainability,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.06346856852357682
+Renewable Energy Systems,Master,Energy Market,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.10898426723687764
+Renewable Energy Systems,Master,Knowledge of Mathematics,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.05709693231247701
+Renewable Energy Systems,Master,Natural Sciences,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.08293867695808953
+Renewable Energy Systems,Master,Climate Change,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.06675962081153088
+Renewable Energy Systems,Master,Smartgrid,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.12195367262439848
+Renewable Energy Systems,Master,Data Processing,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.06626627048900088
+Renewable Energy Systems,Master,Field Research,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.06483410092987907
+Renewable Energy Systems,Master,MATLAB,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.08381497048569658
+Renewable Energy Systems,Master,Project Management,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.06391672460590778
+Renewable Energy Systems,Master,Microsoft Office,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.16610383893139705
+Renewable Energy Systems,Master,Microsoft Visio,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.16610383893139705
+Renewable Energy Systems,Master,Grid System,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.1457574369692773
+Renewable Energy Systems,Master,Alternative Fuels,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.15420195675895762
+Renewable Energy Systems,Master,Biomass,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.1457574369692773
+Renewable Energy Systems,Master,Calculations,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.06578107509171038
+Renewable Energy Systems,Master,Geothermal Energy,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.1392073585477996
+Renewable Energy Systems,Master,Heat Transfer,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.12195367262439848
+Renewable Energy Systems,Master,Hydroelectricity,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.111159606951625
+Renewable Energy Systems,Master,Turbines,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.12541103500715753
+Renewable Energy Systems,Master,Knowledge of Finance,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.05569887507934499
+Renewable Energy Systems,Master,Governance,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.06011020675139279
+Renewable Energy Systems,Master,Communications Protocols,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.111159606951625
+Renewable Energy Systems,Master,Control Systems,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.08565017136313481
+Renewable Energy Systems,Master,Distributed Control Systems,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.10695907441324042
+Renewable Energy Systems,Master,Information Technology,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.054364388316561485
+Renewable Energy Systems,Master,Thermodynamics,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.10002020019904573
+Renewable Energy Systems,Master,Electromagnetism,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.08760780684231267
+Renewable Energy Systems,Master,Cost Benefit Analysis,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.13385555479683786
+Renewable Energy Systems,Master,Modelling Skills,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.0781681526614403
+Renewable Energy Systems,Master,35 Mm Films,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.12195367262439848
+Renewable Energy Systems,Master,Semiconductors,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.1032850789202093
+Renewable Energy Systems,Master,Manufacturing,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.07471079027868124
+Renewable Energy Systems,Master,Quantum,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.0716180742399626
+Renewable Energy Systems,Master,Knowledge of Statistics,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.04716914868931088
+Renewable Energy Systems,Master,Value Chain,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.11886095658567981
+Renewable Energy Systems,Master,Building Cladding,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.1457574369692773
+Renewable Energy Systems,Master,Drawing Skills,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.07967379823692597
+Renewable Energy Systems,Master,Pharmacovigilance,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.12195367262439848
+Renewable Energy Systems,Master,Unix System V,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.15420195675895762
+Renewable Energy Systems,Master,Measurement and Metrology,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.0716180742399626
+Renewable Energy Systems,Master,Decision Support Systems,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.1293306691989974
+Renewable Energy Systems,Master,Infrastructure Management,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.06626627048900088
+Renewable Energy Systems,Master,Linear Programming,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.0944120310350281
+Renewable Energy Systems,Master,Scenario Analysis,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.1457574369692773
+Renewable Energy Systems,Master,Systems Design,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.1032850789202093
+Renewable Energy Systems,Master,Battery Technology (Battery),,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.15420195675895762
+Renewable Energy Systems,Master,Electrochemistry,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.08970538848983929
+Renewable Energy Systems,Master,Electrolytes,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.13385555479683786
+Renewable Energy Systems,Master,Knowledge of Engineering,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.07103679478565013
+Renewable Energy Systems,Master,Storage Systems,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.11606325462025577
+Renewable Energy Systems,Master,Automotive Industry,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.11606325462025577
+Renewable Energy Systems,Master,Fire Safety,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.13385555479683786
+Renewable Energy Systems,Master,Manufacturing Laboratory,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.11350915283471812
+Renewable Energy Systems,Master,Safety Principles,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.07744333427459678
+Renewable Energy Systems,Master,Access Network,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.1457574369692773
+Renewable Energy Systems,Master,Data Transmissions,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.07673598310231847
+Renewable Energy Systems,Master,Network Monitoring,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.1392073585477996
+Renewable Energy Systems,Master,Network Administration,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.15420195675895762
+Renewable Energy Systems,Master,Radio,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.12541103500715753
+Renewable Energy Systems,Master,Scientific Literature,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.05971619206752318
+Renewable Energy Systems,Master,Simulations,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.057821750699320544
+Renewable Energy Systems,Master,Wireless Communications,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.10695907441324042
+Renewable Energy Systems,Master,Wireless Networks,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.11886095658567981
+Renewable Energy Systems,Master,Computer Security,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.09708238506443824
+Renewable Energy Systems,Master,Semantics,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.10160727066227869
+Renewable Energy Systems,Master,System Safety,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.11886095658567981
+Renewable Energy Systems,Master,Internet of Things,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.08661267245112066
+Renewable Energy Systems,Master,HVAC,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.12541103500715753
+Renewable Energy Systems,Master,Computer Programming,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.06302715188639332
+Renewable Energy Systems,Master,Consulting,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.0553595227077535
+Renewable Energy Systems,Master,Supply and Demand,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.11886095658567981
+Renewable Energy Systems,Master,Knowledge of Electrical Engineering,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.07537045069601624
+Renewable Energy Systems,Master,Social Sciences,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.0567411260989689
+Renewable Energy Systems,Master,Energy Policy,,255,Renewable Energy Systems (master's 2-years) – University of Oslo,Renewable Energy Systems,0.1392073585477996

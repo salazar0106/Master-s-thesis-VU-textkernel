@@ -1,0 +1,113 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Mathematical Statistics,Master,Content Management,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08800196794091182
+Mathematical Statistics,Master,Data Stores,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09139367827949578
+Mathematical Statistics,Master,Retention Period,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09261923579230687
+Mathematical Statistics,Master,JSON,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09261923579230687
+Mathematical Statistics,Master,JQuery,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09261923579230687
+Mathematical Statistics,Master,Typing Skills,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08800196794091182
+Mathematical Statistics,Master,Data Protection,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08136374986608692
+Mathematical Statistics,Master,Economy,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.03920395731195768
+Mathematical Statistics,Master,Knowledge of Statistics,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.04627345113417585
+Mathematical Statistics,Master,Knowledge of Mathematics,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.05601271552885749
+Mathematical Statistics,Master,Numerical Analysis,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.07083987700791146
+Mathematical Statistics,Master,Computer Programming,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.06183032583757893
+Mathematical Statistics,Master,Probability Theories,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08908874805222096
+Mathematical Statistics,Master,Computational Science and Engineering,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08310951193990049
+Mathematical Statistics,Master,Algorithms,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.06360296262643476
+Mathematical Statistics,Master,Biology,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.05177512646592016
+Mathematical Statistics,Master,Mathematical Finance,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08908874805222096
+Mathematical Statistics,Master,Simulations,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.05672377029954401
+Mathematical Statistics,Master,Data Science,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.059360562561050746
+Mathematical Statistics,Master,Application Services,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.1429896409932241
+Mathematical Statistics,Master,Statistical Hypothesis Testing,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.07892881375172899
+Mathematical Statistics,Master,Linear Algebra,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.0746012490990855
+Mathematical Statistics,Master,Mathematical Sciences,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.15127380733281937
+Mathematical Statistics,Master,Stochastic Process,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09021815771251111
+Mathematical Statistics,Master,Knowledge of Finance,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.054641206081310977
+Mathematical Statistics,Master,Spatial Analysis,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09389928008594878
+Mathematical Statistics,Master,Time Series,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.10132379288386147
+Mathematical Statistics,Master,Stochastic Differential Equation,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.1166038993528676
+Mathematical Statistics,Master,Artificial Intelligence,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.054308297690541914
+Mathematical Statistics,Master,Financial Systems,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.11135372129727031
+Mathematical Statistics,Master,Machine Learning,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.05975775858354201
+Mathematical Statistics,Master,Monte Carlo Methods,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08594421738649569
+Mathematical Statistics,Master,Partial Differential Equation,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09812091112405118
+Mathematical Statistics,Master,Risk Management,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.07668381331731852
+Mathematical Statistics,Master,Differential Equations,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08310951193990049
+Mathematical Statistics,Master,Analysis of Variance (ANOVA),,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08908874805222096
+Mathematical Statistics,Master,Regression Analysis,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.10492802267468836
+Mathematical Statistics,Master,Linear Regression,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.07892881375172899
+Mathematical Statistics,Master,Contemporary Art,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.10492802267468836
+Mathematical Statistics,Master,Algebra,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09021815771251111
+Mathematical Statistics,Master,Big Data,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.06453195464389634
+Mathematical Statistics,Master,Computational Fluid Dynamics,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.1166038993528676
+Mathematical Statistics,Master,Combinatorics,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08052901736021129
+Mathematical Statistics,Master,Computer Networks,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.07971780160131654
+Mathematical Statistics,Master,Differential Geometry,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.1268748020183423
+Mathematical Statistics,Master,Data Warehousing,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08695471598279324
+Mathematical Statistics,Master,Finite Element Methods,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09523888232238853
+Mathematical Statistics,Master,Public Finance,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.13656394237064212
+Mathematical Statistics,Master,Graph Theory,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09261923579230687
+Mathematical Statistics,Master,Integer Programming,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.11963788763686561
+Mathematical Statistics,Master,Mathematical Modeling,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.07892881375172899
+Mathematical Statistics,Master,Mathematical Programming,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.1268748020183423
+Mathematical Statistics,Master,Physics,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.06016050997502469
+Mathematical Statistics,Master,Research and Development,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08594421738649569
+Mathematical Statistics,Master,Software Engineering,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08136374986608692
+Mathematical Statistics,Master,Topology,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.10691475900056777
+Mathematical Statistics,Master,Modelling Skills,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.07668381331731852
+Mathematical Statistics,Master,Information Technology,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.053332059960960056
+Mathematical Statistics,Master,Mentoring,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.06360296262643476
+Mathematical Statistics,Master,Modeling and Simulation,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09967784461909106
+Mathematical Statistics,Master,Continuous Optimization,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.11385932310372332
+Mathematical Statistics,Master,Strategies of Pricing,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09664385633509306
+Mathematical Statistics,Master,Data Analysis,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.05301386605956464
+Mathematical Statistics,Master,Construction,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.053653809175043185
+Mathematical Statistics,Master,Design of Experiments,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.07393923706817425
+Mathematical Statistics,Master,Execution of Experiments,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.053332059960960056
+Mathematical Statistics,Master,Linear Model,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08908874805222096
+Mathematical Statistics,Master,Factor Analysis,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.13656394237064212
+Mathematical Statistics,Master,Multivariate Analysis,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.10492802267468836
+Mathematical Statistics,Master,Ordinary Least Squares (Regression Analysis),,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09664385633509306
+Mathematical Statistics,Master,Principal Component Analysis,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09967784461909106
+Mathematical Statistics,Master,Applied Mathematics,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.07816086810627666
+Mathematical Statistics,Master,Strategic Management,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.10904879106999549
+Mathematical Statistics,Master,Automatic Control,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.10904879106999549
+Mathematical Statistics,Master,Frequency Domain,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.10132379288386147
+Mathematical Statistics,Master,Information Theory,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09523888232238853
+Mathematical Statistics,Master,Knowledge of Medicine,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.0675135384455923
+Mathematical Statistics,Master,Signal Processing,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.07668381331731852
+Mathematical Statistics,Master,Filtration,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.15127380733281937
+Mathematical Statistics,Master,Estimation Theories,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.10132379288386147
+Mathematical Statistics,Master,Spatial Data Infrastructures,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09021815771251111
+Mathematical Statistics,Master,Interpolation,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08222340340776953
+Mathematical Statistics,Master,Programming Environments,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.1429896409932241
+Mathematical Statistics,Master,Programming Languages,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.06549191870529844
+Mathematical Statistics,Master,Experimental Data,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08310951193990049
+Mathematical Statistics,Master,Social Sciences,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.055663665739079646
+Mathematical Statistics,Master,Causal Inference,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.10492802267468836
+Mathematical Statistics,Master,Balance Sheets,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.1268748020183423
+Mathematical Statistics,Master,Financial Institution,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.12302959797544955
+Mathematical Statistics,Master,Calculations,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.06453195464389634
+Mathematical Statistics,Master,Economic Capital,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.15127380733281937
+Mathematical Statistics,Master,Investment Strategies,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.13131376431504482
+Mathematical Statistics,Master,Quantitative Research,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.07741287137404172
+Mathematical Statistics,Master,Credit Risks,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.13656394237064212
+Mathematical Statistics,Master,Market Data,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.13656394237064212
+Mathematical Statistics,Master,Banking Services,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08136374986608692
+Mathematical Statistics,Master,Financial Instrument,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.1429896409932241
+Mathematical Statistics,Master,Risk Analysis,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.07025811469473657
+Mathematical Statistics,Master,Integral Calculus,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.1166038993528676
+Mathematical Statistics,Master,Artificial Neural Networks,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.0746012490990855
+Mathematical Statistics,Master,Support Vector Machine,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09261923579230687
+Mathematical Statistics,Master,Supervised Learning,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08402375555495126
+Mathematical Statistics,Master,Unsupervised Learning,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.07597275854663202
+Mathematical Statistics,Master,Genetic Engineering,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.10306955495767502
+Mathematical Statistics,Master,Bioinformatics,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.1166038993528676
+Mathematical Statistics,Master,Gene Expression,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.09664385633509306
+Mathematical Statistics,Master,Genetics,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.11963788763686561
+Mathematical Statistics,Master,Genomics,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08800196794091182
+Mathematical Statistics,Master,Structural Biology,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08496797965691383
+Mathematical Statistics,Master,Confidence Intervals,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.10132379288386147
+Mathematical Statistics,Master,MATLAB,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.08222340340776953
+Mathematical Statistics,Master,Scientific Studies,,144,Master&#39;s Programme in Mathematical Statistics,Mathematical Statistics,0.055318796286839465

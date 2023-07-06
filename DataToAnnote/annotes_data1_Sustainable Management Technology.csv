@@ -1,0 +1,143 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Sustainable Management Technology,Master,Sustainable Management,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.10500504376825055
+Sustainable Management Technology,Master,Instructional Design,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.060658541796475354
+Sustainable Management Technology,Master,Sustainability,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.05153085387250171
+Sustainable Management Technology,Master,Desktop Virtualization,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.06878369699875898
+Sustainable Management Technology,Master,Scheduling,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.054202896719573714
+Sustainable Management Technology,Master,Economy,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.03244626346558242
+Sustainable Management Technology,Master,Knowledge of Finance,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.04522255124613768
+Sustainable Management Technology,Master,Computer Programming,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.05117246267577661
+Sustainable Management Technology,Master,Github,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.12519832549315957
+Sustainable Management Technology,Master,Python (Programming Language),,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.05340840430122178
+Sustainable Management Technology,Master,Machine Learning,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.04945714953431195
+Sustainable Management Technology,Master,Probability and Statistics,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.06954034992972767
+Sustainable Management Technology,Master,Knowledge of Statistics,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.0382971692121315
+Sustainable Management Technology,Master,Data Science,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.049128419281631516
+Sustainable Management Technology,Master,Entrepreneurship,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.05153085387250171
+Sustainable Management Technology,Master,Governance,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.048804161688336185
+Sustainable Management Technology,Master,Metrics,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.078822294479371
+Sustainable Management Technology,Master,Venture Capital,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.10182264811207105
+Sustainable Management Technology,Master,Ethical Codes,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.078822294479371
+Sustainable Management Technology,Master,Business Model,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07373227575267222
+Sustainable Management Technology,Master,Artificial Neural Networks,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.0617420268027937
+Sustainable Management Technology,Master,Calibration,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.08848556821159452
+Sustainable Management Technology,Master,Linear Algebra,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.0617420268027937
+Sustainable Management Technology,Master,Linear Regression,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.06532363724499221
+Sustainable Management Technology,Master,Moodle,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07373227575267222
+Sustainable Management Technology,Master,Numerical Analysis,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.058629012754461966
+Sustainable Management Technology,Master,Deep Learning,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.0617420268027937
+Sustainable Management Technology,Master,Text Analysis,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.10182264811207105
+Sustainable Management Technology,Master,Data Analysis,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.043875720295539655
+Sustainable Management Technology,Master,Data Collection,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.046068766723185266
+Sustainable Management Technology,Master,Information Technology,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.04413906623981932
+Sustainable Management Technology,Master,Physics,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.049790477561765724
+Sustainable Management Technology,Master,Climate Change,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.054202896719573714
+Sustainable Management Technology,Master,Knowledge of Econometrics,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.11302404037423446
+Sustainable Management Technology,Master,Innovation,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.04046526007156632
+Sustainable Management Technology,Master,Risk Analysis,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.05814753040977374
+Sustainable Management Technology,Master,Contract Management,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09025175130932823
+Sustainable Management Technology,Master,Corporate Governance,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.11302404037423446
+Sustainable Management Technology,Master,Environmental Laws,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09215937437984753
+Sustainable Management Technology,Master,Intellectual Property,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07665420361993618
+Sustainable Management Technology,Master,Smart Contracts,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.12519832549315957
+Sustainable Management Technology,Master,Legal Knowledge,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07998508926092239
+Sustainable Management Technology,Master,Business Development,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.078822294479371
+Sustainable Management Technology,Master,Marketing,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.06733885673060833
+Sustainable Management Technology,Master,Strategic Management,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09025175130932823
+Sustainable Management Technology,Master,Case Studies,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.04945714953431195
+Sustainable Management Technology,Master,Product Information Management,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.12519832549315957
+Sustainable Management Technology,Master,Surface-Mount Technology,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.1348615992253831
+Sustainable Management Technology,Master,Data Mining,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.0640690020204487
+Sustainable Management Technology,Master,Euclidean Geometry,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.06013472806328015
+Sustainable Management Technology,Master,Logistic Regression,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.06664800936044586
+Sustainable Management Technology,Master,Principal Component Analysis,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.082496100647624
+Sustainable Management Technology,Master,Decision Trees,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07998508926092239
+Sustainable Management Technology,Master,Application Programming Interfaces (APIs),,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.082496100647624
+Sustainable Management Technology,Master,Algorithms,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.05263954519049145
+Sustainable Management Technology,Master,Association Rule Learning,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09901557620428003
+Sustainable Management Technology,Master,Big Data,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.05340840430122178
+Sustainable Management Technology,Master,Cluster Analysis,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09901557620428003
+Sustainable Management Technology,Master,Recommender Systems,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.0756398988231915
+Sustainable Management Technology,Master,Operations Research,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.06468806450060517
+Sustainable Management Technology,Master,Mathematical Modeling,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.06532363724499221
+Sustainable Management Technology,Master,Mathematical Programming,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.10500504376825055
+Sustainable Management Technology,Master,Supply Chain Management,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09423307871803731
+Sustainable Management Technology,Master,Knowledge of Packaging and Processing,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.08848556821159452
+Sustainable Management Technology,Master,Logistics Operations,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.08848556821159452
+Sustainable Management Technology,Master,Energy Supply,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.10867884993650355
+Sustainable Management Technology,Master,Variable Cost,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.11834212366872707
+Sustainable Management Technology,Master,Economic Growth,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07665420361993618
+Sustainable Management Technology,Master,Energy Technology,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07283282691540048
+Sustainable Management Technology,Master,Renewable Energy,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07466700596642976
+Sustainable Management Technology,Master,Energy Transformation,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.06346561370426636
+Sustainable Management Technology,Master,Electrical Installations,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07466700596642976
+Sustainable Management Technology,Master,Pumps,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09901557620428003
+Sustainable Management Technology,Master,Storage Systems,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09423307871803731
+Sustainable Management Technology,Master,Elementary Mathematics,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.11834212366872707
+Sustainable Management Technology,Master,Cloud Computing,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.0812075400572612
+Sustainable Management Technology,Master,Computer Security,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.078822294479371
+Sustainable Management Technology,Master,Distributed Systems,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07196609265493849
+Sustainable Management Technology,Master,Security Engineering,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.11834212366872707
+Sustainable Management Technology,Master,Mobile Computing,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.1348615992253831
+Sustainable Management Technology,Master,Anonymization,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09025175130932823
+Sustainable Management Technology,Master,Architecture,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.04550129787945967
+Sustainable Management Technology,Master,Manufacturing,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.060658541796475354
+Sustainable Management Technology,Master,Knowledge of Mathematics,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.04635764984158117
+Sustainable Management Technology,Master,Robotics Design and Production,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.060658541796475354
+Sustainable Management Technology,Master,Air Pollution,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.08385833228726436
+Sustainable Management Technology,Master,Chemistry,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07032181552869887
+Sustainable Management Technology,Master,Atmospheric Sciences,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.12519832549315957
+Sustainable Management Technology,Master,Ecology,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.05340840430122178
+Sustainable Management Technology,Master,Knowledge of Engineering,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.0576755829983848
+Sustainable Management Technology,Master,Greenhouse Gas,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09423307871803731
+Sustainable Management Technology,Master,Administrative Operations,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.04494702718945013
+Sustainable Management Technology,Master,Algebra,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07466700596642976
+Sustainable Management Technology,Master,Data Visualization,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.058629012754461966
+Sustainable Management Technology,Master,Causal Inference,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.0868412910853549
+Sustainable Management Technology,Master,Educational Technologies,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.0756398988231915
+Sustainable Management Technology,Master,Data Modeling,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09025175130932823
+Sustainable Management Technology,Master,Game Theory,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.078822294479371
+Sustainable Management Technology,Master,Strategies of Pricing,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07998508926092239
+Sustainable Management Technology,Master,Public Policies,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.078822294479371
+Sustainable Management Technology,Master,Knowledge of Socioeconomics,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.0812075400572612
+Sustainable Management Technology,Master,Economic Development,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07466700596642976
+Sustainable Management Technology,Master,Social Entrepreneurship,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.10867884993650355
+Sustainable Management Technology,Master,Generation of Ideas,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09650456481757842
+Sustainable Management Technology,Master,Business Ethics,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.10182264811207105
+Sustainable Management Technology,Master,Microsoft PowerPoint,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.06230281892271498
+Sustainable Management Technology,Master,Intellectual Property Laws,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.078822294479371
+Sustainable Management Technology,Master,Tax Management,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.10867884993650355
+Sustainable Management Technology,Master,Tax Laws,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.10867884993650355
+Sustainable Management Technology,Master,Contract Law,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.11302404037423446
+Sustainable Management Technology,Master,Data Protection,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.06733885673060833
+Sustainable Management Technology,Master,Medical Emergencies,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.082496100647624
+Sustainable Management Technology,Master,Marketing Mix,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.1348615992253831
+Sustainable Management Technology,Master,Business Analysis,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09423307871803731
+Sustainable Management Technology,Master,Conceptual Framework,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.10500504376825055
+Sustainable Management Technology,Master,Design Thinking,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07032181552869887
+Sustainable Management Technology,Master,Digitization,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07998508926092239
+Sustainable Management Technology,Master,Execution of Experiments,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.04413906623981932
+Sustainable Management Technology,Master,Market Research,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07196609265493849
+Sustainable Management Technology,Master,Market Data,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.11302404037423446
+Sustainable Management Technology,Master,Technology Strategies,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.10500504376825055
+Sustainable Management Technology,Master,Structural Engineering,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09215937437984753
+Sustainable Management Technology,Master,Accounting,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.06733885673060833
+Sustainable Management Technology,Master,Asset Allocation,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.12519832549315957
+Sustainable Management Technology,Master,Asset Classes,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.1348615992253831
+Sustainable Management Technology,Master,Corporate Finance,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07196609265493849
+Sustainable Management Technology,Master,ESG Criteria,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.1348615992253831
+Sustainable Management Technology,Master,Optics and Eyewear,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.059120423266535466
+Sustainable Management Technology,Master,Psychology,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.052264221442102965
+Sustainable Management Technology,Master,Business Partnerships,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.08530317255541502
+Sustainable Management Technology,Master,Negotiation Skills,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.05675883284241228
+Sustainable Management Technology,Master,Strategic Alliances,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.10182264811207105
+Sustainable Management Technology,Master,Ecosystems,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.08385833228726436
+Sustainable Management Technology,Master,Project Management,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.05189471690152356
+Sustainable Management Technology,Master,Technical Management,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.1348615992253831
+Sustainable Management Technology,Master,Development Planning,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.10867884993650355
+Sustainable Management Technology,Master,Knowledge of Dynamics of Groups,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.09215937437984753
+Sustainable Management Technology,Master,Leadership Development,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.1348615992253831
+Sustainable Management Technology,Master,Feedback Management,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.06597662509096798
+Sustainable Management Technology,Master,Content Management,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.07283282691540048
+Sustainable Management Technology,Master,Leadership Styles,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.08848556821159452
+Sustainable Management Technology,Master,Mentoring,,274,Master Cycle - Sustainable Management and Technology - EPFL,Sustainable Management Technology,0.05263954519049145

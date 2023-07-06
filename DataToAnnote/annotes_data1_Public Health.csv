@@ -1,0 +1,102 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Public Health,Master,Public Health,,17,Public Health - master | UiT,Public Health,0.08706788660492204
+Public Health,Master,Global Health,,17,Public Health - master | UiT,Public Health,0.11108487236392288
+Public Health,Master,Health Promotion,,17,Public Health - master | UiT,Public Health,0.13010017839839783
+Public Health,Master,Financial Stocks,,17,Public Health - master | UiT,Public Health,0.09996163139401831
+Public Health,Master,Healthcare Systems,,17,Public Health - master | UiT,Public Health,0.12086963872241151
+Public Health,Master,Knowledge of Finance,,17,Public Health - master | UiT,Public Health,0.05205496074350591
+Public Health,Master,Knowledge of Pedagogy,,17,Master&#39;s Programme in Public Health,Public Health,0.11397525770396741
+Public Health,Master,Economy,,17,Public Health - master | UiT,Public Health,0.03734837872771705
+Public Health,Master,Health Economics,,17,Public Health - master | UiT,Public Health,0.12509849867387196
+Public Health,Master,Knowledge of Medicine,,17,Public Health - master | UiT,Public Health,0.06431802746467057
+Public Health,Master,Public Relations,,17,Master&#39;s Programme in Public Health,Public Health,0.08487205197567237
+Public Health,Master,Quantitative Research,,17,Public Health - master | UiT,Public Health,0.0737488110057678
+Public Health,Master,Knowledge of Statistics,,17,Public Health - master | UiT,Public Health,0.044083263438065574
+Public Health,Master,Biostatistics,,17,Public Health - master | UiT,Public Health,0.1362217396437765
+Public Health,Master,Behavioural Science,,17,Master&#39;s Programme in Public Health,Public Health,0.11720643360930157
+Public Health,Master,Content Management,,17,Master&#39;s Programme in Public Health,Public Health,0.08383671069958788
+Public Health,Master,Data Stores,,17,Master&#39;s Programme in Public Health,Public Health,0.08706788660492204
+Public Health,Master,Retention Period,,17,Master&#39;s Programme in Public Health,Public Health,0.08823543675239419
+Public Health,Master,Health Education,,17,Master&#39;s Programme in Public Health,Public Health,0.1362217396437765
+Public Health,Master,Health Risks,,17,Master&#39;s Programme in Public Health,Public Health,0.13010017839839783
+Public Health,Master,JSON,,17,Master&#39;s Programme in Public Health,Public Health,0.08823543675239419
+Public Health,Master,JQuery,,17,Master&#39;s Programme in Public Health,Public Health,0.08823543675239419
+Public Health,Master,Knowledge of Laws,,17,Master&#39;s Programme in Public Health,Public Health,0.058096889748014656
+Public Health,Master,Multidisciplinary Approach,,17,Master&#39;s Programme in Public Health,Public Health,0.05617769565849143
+Public Health,Master,Public Services,,17,Master&#39;s Programme in Public Health,Public Health,0.09206956632944792
+Public Health,Master,Shared Vision Planning,,17,Master&#39;s Programme in Public Health,Public Health,0.1362217396437765
+Public Health,Master,Social Sciences,,17,Master&#39;s Programme in Public Health,Public Health,0.05302902594381946
+Public Health,Master,Typing Skills,,17,Master&#39;s Programme in Public Health,Public Health,0.08383671069958788
+Public Health,Master,Data Protection,,17,Master&#39;s Programme in Public Health,Public Health,0.07751268884733174
+Public Health,Master,Epidemiology,,17,Public Health - master | UiT,Public Health,0.10847020077899917
+Public Health,Master,Economic Theories,,17,Public Health - master | UiT,Public Health,0.10388735801014733
+Public Health,Master,Primary Care,,17,Public Health - master | UiT,Public Health,0.12086963872241151
+Public Health,Master,Data Analysis,,17,Master&#39;s Programme in Public Health,Public Health,0.050504645019832387
+Public Health,Master,Consulting,,17,Master&#39;s Programme in Public Health,Public Health,0.05173780937633294
+Public Health,Master,Research Methodologies,,17,Master&#39;s Programme in Public Health,Public Health,0.07107026677798085
+Public Health,Master,Scientific Literature,,17,Master&#39;s Programme in Public Health,Public Health,0.05580945807968971
+Public Health,Master,Scientific Studies,,17,Master&#39;s Programme in Public Health,Public Health,0.05270047964908207
+Public Health,Master,Social Work,,17,Master&#39;s Programme in Public Health,Public Health,0.09996163139401831
+Public Health,Master,Sustainability,,17,Master&#39;s Programme in Public Health,Public Health,0.05931634774014468
+Public Health,Master,SPSS (Software),,17,Public Health - master | UiT,Public Health,0.10847020077899917
+Public Health,Master,Linear Regression,,17,Public Health - master | UiT,Public Health,0.07519300169296639
+Public Health,Master,Health Care,,17,Public Health - master | UiT,Public Health,0.09495995166949243
+Public Health,Master,Environmental Health,,17,Public Health - master | UiT,Public Health,0.11720643360930157
+Public Health,Master,Infectious Diseases,,17,Public Health - master | UiT,Public Health,0.090731091718032
+Public Health,Master,Academic Writing,,17,Public Health - master | UiT,Public Health,0.05655094342591396
+Public Health,Master,Educational Technologies,,17,Master&#39;s Programme in Public Health,Public Health,0.08706788660492204
+Public Health,Master,Collaborative Learning,,17,Master&#39;s Programme in Public Health,Public Health,0.11397525770396741
+Public Health,Master,Continuous Training,,17,Master&#39;s Programme in Public Health,Public Health,0.0965279948818067
+Public Health,Master,Population Health,,17,Master&#39;s Programme in Public Health,Public Health,0.12509849867387196
+Public Health,Master,Social Justice,,17,Master&#39;s Programme in Public Health,Public Health,0.106083192639397
+Public Health,Master,Deep Learning,,17,Master&#39;s Programme in Public Health,Public Health,0.07107026677798085
+Public Health,Master,Curriculum Development,,17,Master&#39;s Programme in Public Health,Public Health,0.08187635638071246
+Public Health,Master,Business Administration,,17,Master&#39;s Programme in Public Health,Public Health,0.11108487236392288
+Public Health,Master,Business Economics,,17,Master&#39;s Programme in Public Health,Public Health,0.11108487236392288
+Public Health,Master,Natural Resource Management,,17,Master&#39;s Programme in Public Health,Public Health,0.12086963872241151
+Public Health,Master,Economic Analysis,,17,Master&#39;s Programme in Public Health,Public Health,0.106083192639397
+Public Health,Master,Entrepreneurship,,17,Master&#39;s Programme in Public Health,Public Health,0.05931634774014468
+Public Health,Master,Project Management,,17,Master&#39;s Programme in Public Health,Public Health,0.05973518469581871
+Public Health,Master,Advanced Logic Research,,17,Master&#39;s Programme in Public Health,Public Health,0.08004679271585333
+Public Health,Master,Biomedical Engineering,,17,Public Health - master | UiT,Public Health,0.07519300169296639
+Public Health,Master,Clinical Practices,,17,Public Health - master | UiT,Public Health,0.12086963872241151
+Public Health,Master,Disease Prevention,,17,Public Health - master | UiT,Public Health,0.11720643360930157
+Public Health,Master,Editing,,17,Public Health - master | UiT,Public Health,0.06922013071791923
+Public Health,Master,Clinical Study Design,,17,Public Health - master | UiT,Public Health,0.09206956632944792
+Public Health,Master,Confidence Intervals,,17,Public Health - master | UiT,Public Health,0.0965279948818067
+Public Health,Master,Statistical Hypothesis Testing,,17,Public Health - master | UiT,Public Health,0.07519300169296639
+Public Health,Master,Payment Systems,,17,Public Health - master | UiT,Public Health,0.14411380470834692
+Public Health,Master,Subsidies,,17,Public Health - master | UiT,Public Health,0.12086963872241151
+Public Health,Master,Biology,,17,Public Health - master | UiT,Public Health,0.04932453671800182
+Public Health,Master,Medical Emergencies,,17,Public Health - master | UiT,Public Health,0.09495995166949243
+Public Health,Master,Health Assessment,,17,Public Health - master | UiT,Public Health,0.15523704567825147
+Public Health,Master,Health Impact Assessments,,17,Public Health - master | UiT,Public Health,0.13010017839839783
+Public Health,Master,Information Retrieval,,17,Public Health - master | UiT,Public Health,0.090731091718032
+Public Health,Master,International Health,,17,Public Health - master | UiT,Public Health,0.14411380470834692
+Public Health,Master,Climate Change,,17,Public Health - master | UiT,Public Health,0.06239209383753405
+Public Health,Master,Clinical Works,,17,Public Health - master | UiT,Public Health,0.08283902665346159
+Public Health,Master,Logistic Regression,,17,Public Health - master | UiT,Public Health,0.0767174654080829
+Public Health,Master,Regression Analysis,,17,Public Health - master | UiT,Public Health,0.09996163139401831
+Public Health,Master,Raw Data,,17,Public Health - master | UiT,Public Health,0.12086963872241151
+Public Health,Master,Air Pollution,,17,Public Health - master | UiT,Public Health,0.0965279948818067
+Public Health,Master,Architecture,,17,Public Health - master | UiT,Public Health,0.0523758215674781
+Public Health,Master,Pediatrics,,17,Public Health - master | UiT,Public Health,0.14411380470834692
+Public Health,Master,Nutrition and Dietetics,,17,Public Health - master | UiT,Public Health,0.0981911275748266
+Public Health,Master,Environmental Protection,,17,Public Health - master | UiT,Public Health,0.07446140399785547
+Public Health,Master,Family Planning,,17,Public Health - master | UiT,Public Health,0.14411380470834692
+Public Health,Master,Governance,,17,Public Health - master | UiT,Public Health,0.05617769565849143
+Public Health,Master,Knowledge of Hygiene,,17,Public Health - master | UiT,Public Health,0.106083192639397
+Public Health,Master,Knowledge of Immunization,,17,Public Health - master | UiT,Public Health,0.11108487236392288
+Public Health,Master,Reproductive Health,,17,Public Health - master | UiT,Public Health,0.1362217396437765
+Public Health,Master,Health Policies,,17,Public Health - master | UiT,Public Health,0.14411380470834692
+Public Health,Master,Health Technology,,17,Public Health - master | UiT,Public Health,0.14411380470834692
+Public Health,Master,Risk Analysis,,17,Public Health - master | UiT,Public Health,0.06693269904959427
+Public Health,Master,Artificial Intelligence,,17,Public Health - master | UiT,Public Health,0.05173780937633294
+Public Health,Master,Databases,,17,Public Health - master | UiT,Public Health,0.053361554714823824
+Public Health,Master,Knowledge Bases,,17,Public Health - master | UiT,Public Health,0.090731091718032
+Public Health,Master,Library Services (Library Law),,17,Public Health - master | UiT,Public Health,0.14411380470834692
+Public Health,Master,Research Experiences,,17,Public Health - master | UiT,Public Health,0.07917582154035165
+Public Health,Master,Copyright Law,,17,Public Health - master | UiT,Public Health,0.10847020077899917
+Public Health,Master,Protocol Development,,17,Public Health - master | UiT,Public Health,0.15523704567825147
+Public Health,Master,Antibiotic Resistance,,17,Master&#39;s Programme in Public Health (one-year),Public Health,0.13010017839839783
+Public Health,Master,Qualitative Research,,17,Master&#39;s Programme in Public Health (one-year),Public Health,0.08283902665346159

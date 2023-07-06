@@ -1,0 +1,317 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Computational Science,Master,Computational Science and Engineering,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04620758045472284
+Computational Science,Master,Instructional Design,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0407492556030737
+Computational Science,Master,Algorithms,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.035362246078944226
+Computational Science,Master,Knowledge of Statistics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.02572731046412973
+Computational Science,Master,Knowledge of Mathematics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03114218816684685
+Computational Science,Master,Numerical Analysis,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0393858565625173
+Computational Science,Master,Information Technology,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.02965178586590934
+Computational Science,Master,Linear Algebra,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04147712023939652
+Computational Science,Master,Computer Programming,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.034376687926499665
+Computational Science,Master,Data Science,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03300353842001693
+Computational Science,Master,Equations,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04223965790401121
+Computational Science,Master,Simulations,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03153752342700301
+Computational Science,Master,Financial Engineering,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0529513194652376
+Computational Science,Master,Biology,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.028786155349552405
+Computational Science,Master,Machine Learning,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03322437315646482
+Computational Science,Master,Mechanical Engineering,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04223965790401121
+Computational Science,Master,Ecology,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03587875101786979
+Computational Science,Master,Computer Simulation,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.039062405873611886
+Computational Science,Master,Desktop Virtualization,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04620758045472284
+Computational Science,Master,Robotics Design and Production,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0407492556030737
+Computational Science,Master,Knowledge of Electrical Engineering,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.041109051970599
+Computational Science,Master,Applied Mathematics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04345621237727225
+Computational Science,Master,Physics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.033448296590627744
+Computational Science,Master,Intelligent Systems,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04834545337720225
+Computational Science,Master,Python (Programming Language),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03587875101786979
+Computational Science,Master,MATLAB,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04571491805863434
+Computational Science,Master,Communication Studies,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.051494837229013934
+Computational Science,Master,Fluid Dynamics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05220652170776336
+Computational Science,Master,Quantum,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.039062405873611886
+Computational Science,Master,Data Analysis,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.02947487506525919
+Computational Science,Master,Monte Carlo Methods,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.047783632063396815
+Computational Science,Master,Signal Processing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04263499316416736
+Computational Science,Master,Forecasting Skills,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03783023924450016
+Computational Science,Master,Interpolation,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04571491805863434
+Computational Science,Master,Mathematical Modeling,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.043883178068308354
+Computational Science,Master,Ordinary Differential Equations (Differential Calculus),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.054553682114436605
+Computational Science,Master,Probability and Statistics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04671588551405497
+Computational Science,Master,Programming Languages,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03641247592571134
+Computational Science,Master,Stochastic Process,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05015987561077624
+Computational Science,Master,Thermodynamics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.054553682114436605
+Computational Science,Master,Calculations,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03587875101786979
+Computational Science,Master,Differential Equations,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04620758045472284
+Computational Science,Master,Partial Differential Equation,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.054553682114436605
+Computational Science,Master,Program Evaluations,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04724085925220271
+Computational Science,Master,Entrepreneurship,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.034617448321469985
+Computational Science,Master,Deep Learning,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04147712023939652
+Computational Science,Master,Scientific Computating,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05633443395798515
+Computational Science,Master,Big Data,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03587875101786979
+Computational Science,Master,Molecular Biology,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04345621237727225
+Computational Science,Master,Knowledge of Engineering,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.038745360571691784
+Computational Science,Master,Fluid Mechanics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.047783632063396815
+Computational Science,Master,Execution of Experiments,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.02965178586590934
+Computational Science,Master,Computer Security,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0529513194652376
+Computational Science,Master,Data Structures,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04724085925220271
+Computational Science,Master,Java (Programming Language),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04834545337720225
+Computational Science,Master,Computer Vision,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05081344654275819
+Computational Science,Master,Image Processing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03971597680559383
+Computational Science,Master,Architecture,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.030566907193100953
+Computational Science,Master,Infrastructure Management,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03614338951503835
+Computational Science,Master,Multiprocessing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05833832898936707
+Computational Science,Master,Concurrency,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06840251992905157
+Computational Science,Master,Computer Architecture,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05220652170776336
+Computational Science,Master,Artificial Neural Networks,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04147712023939652
+Computational Science,Master,Algebra,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05015987561077624
+Computational Science,Master,Knowledge of Finance,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.030379650502232167
+Computational Science,Master,Data Collection,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03094812197794266
+Computational Science,Master,Chemical Engineering,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.059442923114366615
+Computational Science,Master,Systems Engineering,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.049531941617108506
+Computational Science,Master,Dispersion (Optics),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.059442923114366615
+Computational Science,Master,Finite Element Methods,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0529513194652376
+Computational Science,Master,Molecular Modelling,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06840251992905157
+Computational Science,Master,Microsoft Basic Data Partition,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.057305050191887204
+Computational Science,Master,Dynamic Programming,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.049531941617108506
+Computational Science,Master,Aliasing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05833832898936707
+Computational Science,Master,Medical Imaging,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.051494837229013934
+Computational Science,Master,Image Analysis,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04304033796797949
+Computational Science,Master,Nuclear Engineering,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.054553682114436605
+Computational Science,Master,Creating Prototypes,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.038745360571691784
+Computational Science,Master,Software Engineering,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0452369642208208
+Computational Science,Master,System Programming,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0665167823679579
+Computational Science,Master,Data Mining,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04304033796797949
+Computational Science,Master,Euclidean Geometry,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04039736749184957
+Computational Science,Master,Linear Model,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.049531941617108506
+Computational Science,Master,Logistic Regression,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.044772866086646775
+Computational Science,Master,Programming Concepts,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,Scheduling,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03641247592571134
+Computational Science,Master,Knowledge of Civil Engineering,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0529513194652376
+Computational Science,Master,Computer Networks,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04432184289362918
+Computational Science,Master,Geometry,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.049531941617108506
+Computational Science,Master,Randomization (Randomness),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.061910916279922554
+Computational Science,Master,Performance Management,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05015987561077624
+Computational Science,Master,Systems Design,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05633443395798515
+Computational Science,Master,Data Processing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03614338951503835
+Computational Science,Master,Databases,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03114218816684685
+Computational Science,Master,Visualization,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03783023924450016
+Computational Science,Master,Artificial Intelligence,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03019455867710344
+Computational Science,Master,Financial Derivatives,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05833832898936707
+Computational Science,Master,Chemistry,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04724085925220271
+Computational Science,Master,Modelling Skills,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04263499316416736
+Computational Science,Master,Design Methods,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.047783632063396815
+Computational Science,Master,Dynamical Systems,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04571491805863434
+Computational Science,Master,Moodle,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.049531941617108506
+Computational Science,Master,Estimation Theories,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05633443395798515
+Computational Science,Master,Imaging,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03843447187994414
+Computational Science,Master,Fortran (Programming Language),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07300838601708691
+Computational Science,Master,Probability Theories,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.049531941617108506
+Computational Science,Master,Optimization Algorithms,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05081344654275819
+Computational Science,Master,Electromagnetism,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.047783632063396815
+Computational Science,Master,Functional Analysis,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.057305050191887204
+Computational Science,Master,Modeling and Simulation,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.055419312630793534
+Computational Science,Master,Elasticity,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.053732462901331726
+Computational Science,Master,Scalability,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.059442923114366615
+Computational Science,Master,Biochemistry,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.049531941617108506
+Computational Science,Master,Biological Systems,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.047783632063396815
+Computational Science,Master,Spanning Tree Protocols,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,Applied Physics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.054553682114436605
+Computational Science,Master,Computational Physics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06482993263849608
+Computational Science,Master,Thermostat,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,Distribution Function,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06482993263849608
+Computational Science,Master,Visual Systems,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05633443395798515
+Computational Science,Master,Image Acquisition,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05081344654275819
+Computational Science,Master,Histogram,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.061910916279922554
+Computational Science,Master,Edge Detection,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.059442923114366615
+Computational Science,Master,Hardware Design,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,CPU Design,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07949998966621592
+Computational Science,Master,Graphics Processing Unit (GPU),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07054039285153098
+Computational Science,Master,Knowledge Discovery,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.055419312630793534
+Computational Science,Master,Linear Regression,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.043883178068308354
+Computational Science,Master,Pattern Recognition,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04724085925220271
+Computational Science,Master,Unsupervised Learning,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04223965790401121
+Computational Science,Master,Failure Analysis,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06062941135427286
+Computational Science,Master,Octave,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.08410585575425127
+Computational Science,Master,Profiling,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07949998966621592
+Computational Science,Master,General-Purpose Computing on Graphics Processing Units,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07949998966621592
+Computational Science,Master,OpenMP,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07054039285153098
+Computational Science,Master,Parallel Computing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06482993263849608
+Computational Science,Master,High Performance Computing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07054039285153098
+Computational Science,Master,Object-Oriented Software Development,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,Object-Oriented Programming (OOP),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05833832898936707
+Computational Science,Master,Testing (Software),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05633443395798515
+Computational Science,Master,Computer-Aided Design,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.061910916279922554
+Computational Science,Master,Agile Methodology,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0665167823679579
+Computational Science,Master,Static Program Analysis,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07054039285153098
+Computational Science,Master,Content Creation,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.054553682114436605
+Computational Science,Master,Continuous Integration,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07054039285153098
+Computational Science,Master,Corona (Software Development Kit),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06840251992905157
+Computational Science,Master,Software Debugging,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05633443395798515
+Computational Science,Master,Software Design Patterns,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,DevOps,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07054039285153098
+Computational Science,Master,Expediting,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06482993263849608
+Computational Science,Master,Fault Tolerance,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06330399144492772
+Computational Science,Master,Software Architecture,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.057305050191887204
+Computational Science,Master,Software Project Management,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0665167823679579
+Computational Science,Master,Software Systems,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05220652170776336
+Computational Science,Master,Usability Testing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05833832898936707
+Computational Science,Master,Testing Skills,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04671588551405497
+Computational Science,Master,Software Verification,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,Functional Programming,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06062941135427286
+Computational Science,Master,Code Restructuring,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,Software Version Control,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.055419312630793534
+Computational Science,Master,Operations Research,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04345621237727225
+Computational Science,Master,Algorithm Design,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.053732462901331726
+Computational Science,Master,Combinatorics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.044772866086646775
+Computational Science,Master,Graph Theory,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.051494837229013934
+Computational Science,Master,Linear Programming,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.051494837229013934
+Computational Science,Master,Innovation,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0271837927003534
+Computational Science,Master,Benchmarking Skills,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.057305050191887204
+Computational Science,Master,Cloud Computing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.054553682114436605
+Computational Science,Master,Data Centers,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.061910916279922554
+Computational Science,Master,Independent Studies,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03783023924450016
+Computational Science,Master,Information Systems,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05081344654275819
+Computational Science,Master,Data Quality,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0529513194652376
+Computational Science,Master,Data Visualization,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0393858565625173
+Computational Science,Master,Project Portfolio Management,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.059442923114366615
+Computational Science,Master,Software Tools,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.049531941617108506
+Computational Science,Master,Text Mining,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.055419312630793534
+Computational Science,Master,Internet of Things,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04724085925220271
+Computational Science,Master,Social Network Analysis,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.054553682114436605
+Computational Science,Master,Data Reporting,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05833832898936707
+Computational Science,Master,Crowd Sourcing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.059442923114366615
+Computational Science,Master,Justice,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03235874264010789
+Computational Science,Master,Reinforcement Learning,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.049531941617108506
+Computational Science,Master,Buffers,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.059442923114366615
+Computational Science,Master,Raw Materials,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03696460872814323
+Computational Science,Master,Microstructure,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0665167823679579
+Computational Science,Master,Arbitrage,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06840251992905157
+Computational Science,Master,Calibration,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.059442923114366615
+Computational Science,Master,Mathematical Finance,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.049531941617108506
+Computational Science,Master,Financial Modeling,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07054039285153098
+Computational Science,Master,Valuation of Options,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0665167823679579
+Computational Science,Master,Strategies of Pricing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.053732462901331726
+Computational Science,Master,Computational Finance,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,Stochastic Calculus,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07300838601708691
+Computational Science,Master,Nuclear Power,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.039062405873611886
+Computational Science,Master,Ab Initio,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07300838601708691
+Computational Science,Master,Batch Processing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.059442923114366615
+Computational Science,Master,Natural Language Processing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05081344654275819
+Computational Science,Master,Pytorch,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05833832898936707
+Computational Science,Master,Distributed Control Systems,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05833832898936707
+Computational Science,Master,Wireless Sensor Networks,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.055419312630793534
+Computational Science,Master,Design Control,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06062941135427286
+Computational Science,Master,Autonomous System,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06330399144492772
+Computational Science,Master,Frequency Domain,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05633443395798515
+Computational Science,Master,Systems Theories,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.061910916279922554
+Computational Science,Master,Topology,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.059442923114366615
+Computational Science,Master,Qualitative Analysis,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.054553682114436605
+Computational Science,Master,Computational Fluid Dynamics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06482993263849608
+Computational Science,Master,Information Theory,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0529513194652376
+Computational Science,Master,Property Testing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0665167823679579
+Computational Science,Master,Digital Modeling and Fabrication,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06840251992905157
+Computational Science,Master,Mathematical Optimization,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.055419312630793534
+Computational Science,Master,Lubricating and Greasing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07949998966621592
+Computational Science,Master,Business Analytics Applications,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.041109051970599
+Computational Science,Master,Supervised Learning,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04671588551405497
+Computational Science,Master,Creation of Textures,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05220652170776336
+Computational Science,Master,Feature Extraction,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0529513194652376
+Computational Science,Master,Access Controls,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06062941135427286
+Computational Science,Master,Cryptography,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.054553682114436605
+Computational Science,Master,Operations Security,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06840251992905157
+Computational Science,Master,Blockchain,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.057305050191887204
+Computational Science,Master,Risk Analysis,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.039062405873611886
+Computational Science,Master,Anonymization,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06062941135427286
+Computational Science,Master,Scientific Literature,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.03257080222448287
+Computational Science,Master,Electronics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.039062405873611886
+Computational Science,Master,X-Ray Computed Tomography,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.059442923114366615
+Computational Science,Master,Open Access,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06482993263849608
+Computational Science,Master,Enterprise Application Software,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.059442923114366615
+Computational Science,Master,Convex Optimization,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05833832898936707
+Computational Science,Master,Generalized Linear Model,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05633443395798515
+Computational Science,Master,Integrated Systems,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.057305050191887204
+Computational Science,Master,Continuous Optimization,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06330399144492772
+Computational Science,Master,Polymer Chemistry,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.051494837229013934
+Computational Science,Master,Commercial Software,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.08410585575425127
+Computational Science,Master,Verification and Validation (Software),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,Discretization,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,Stochastic Differential Equation,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06482993263849608
+Computational Science,Master,Mathematical Analysis,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06840251992905157
+Computational Science,Master,Plasma (Physics),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06482993263849608
+Computational Science,Master,Biotechnology,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0407492556030737
+Computational Science,Master,Biochemical Engineering,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07949998966621592
+Computational Science,Master,Bioreactors,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07949998966621592
+Computational Science,Master,Metabolism,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.053732462901331726
+Computational Science,Master,Design Elements and Principles,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04671588551405497
+Computational Science,Master,Mass Balance,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06840251992905157
+Computational Science,Master,Metabolomics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.057305050191887204
+Computational Science,Master,Physical Chemistry,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06062941135427286
+Computational Science,Master,Quality Management,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04039736749184957
+Computational Science,Master,Bower,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,Systems Biology,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.059442923114366615
+Computational Science,Master,Protein Expression,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07054039285153098
+Computational Science,Master,Signaling,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06062941135427286
+Computational Science,Master,Modulation,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.051494837229013934
+Computational Science,Master,Audio Signal Processing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06062941135427286
+Computational Science,Master,Data Transmissions,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04185384972807324
+Computational Science,Master,Digital Signal Processing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05633443395798515
+Computational Science,Master,Filter Design,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07054039285153098
+Computational Science,Master,Ordinary Least Squares (Regression Analysis),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.053732462901331726
+Computational Science,Master,Statistical Hypothesis Testing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.043883178068308354
+Computational Science,Master,Whiteboard Programming,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06840251992905157
+Computational Science,Master,Economy,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.021796783176223928
+Computational Science,Master,Engineering Physics,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05015987561077624
+Computational Science,Master,Assembly and Installation,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.049531941617108506
+Computational Science,Master,Crystallography,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07054039285153098
+Computational Science,Master,Drug Discovery,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05220652170776336
+Computational Science,Master,Nuclear Magnetic Resonance,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06482993263849608
+Computational Science,Master,Organic Chemistry,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06330399144492772
+Computational Science,Master,Pharmacology,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04724085925220271
+Computational Science,Master,Radiology,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.053732462901331726
+Computational Science,Master,Structural Biology,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04724085925220271
+Computational Science,Master,Protein,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05633443395798515
+Computational Science,Master,Business Transaction Management,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.061910916279922554
+Computational Science,Master,Concurrency Controls,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0665167823679579
+Computational Science,Master,Data Management,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04571491805863434
+Computational Science,Master,Data Systems,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07054039285153098
+Computational Science,Master,Database Tuning,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07300838601708691
+Computational Science,Master,File Systems,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06330399144492772
+Computational Science,Master,Distributed Data Store,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06482993263849608
+Computational Science,Master,Distributed Systems,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04834545337720225
+Computational Science,Master,Management Systems,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06840251992905157
+Computational Science,Master,Query Optimization,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06840251992905157
+Computational Science,Master,Scala (Programming Language),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.051494837229013934
+Computational Science,Master,Data Streaming,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06330399144492772
+Computational Science,Master,Parallel Processing,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06062941135427286
+Computational Science,Master,Operational Systems,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05633443395798515
+Computational Science,Master,Domain Name System (DNS),,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,Carpentry,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07300838601708691
+Computational Science,Master,Environmental Protection,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.04345621237727225
+Computational Science,Master,Environmental Chemistry,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07300838601708691
+Computational Science,Master,Geochemistry,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.07592740237566045
+Computational Science,Master,Microbiology,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06330399144492772
+Computational Science,Master,Redox,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0665167823679579
+Computational Science,Master,Quantification,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05633443395798515
+Computational Science,Master,Dissolution,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.0665167823679579
+Computational Science,Master,Water Resource Management,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.05081344654275819
+Computational Science,Master,Water Quality,,154,Master Cycle - Computational science and Engineering - EPFL,Computational Science,0.06062941135427286
+Computational Science,Master,Computer Clusters,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.07300838601708691
+Computational Science,Master,Data Architecture,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.07949998966621592
+Computational Science,Master,Desktop Computing,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.05833832898936707
+Computational Science,Master,Digital Systems,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.061910916279922554
+Computational Science,Master,Fundamental Science,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.03812950523914482
+Computational Science,Master,Support Vector Machine,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.051494837229013934
+Computational Science,Master,Bagging,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.07300838601708691
+Computational Science,Master,Decision Trees,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.053732462901331726
+Computational Science,Master,Academic Writing,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.03300353842001693
+Computational Science,Master,LaTeX,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.08410585575425127
+Computational Science,Master,Natural Sciences,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.0452369642208208
+Computational Science,Master,Reproducibility,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.05015987561077624
+Computational Science,Master,Trigonometry,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.07949998966621592
+Computational Science,Master,Typesetting,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.08410585575425127
+Computational Science,Master,Dentistry,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.07300838601708691
+Computational Science,Master,Nutrition and Dietetics,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.057305050191887204
+Computational Science,Master,Dental Health,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.07592740237566045
+Computational Science,Master,Knowledge of Medicine,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.03753646468004352
+Computational Science,Master,Medical Emergencies,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.055419312630793534
+Computational Science,Master,Fire Alarm Systems,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.07949998966621592
+Computational Science,Master,Fire Safety,,154,Computational Science (master's two years) – University of Oslo,Computational Science,0.07300838601708691

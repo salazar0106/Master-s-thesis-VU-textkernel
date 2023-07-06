@@ -1,0 +1,941 @@
+index,degree_topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,weight_y_ignore,source_ignore,tfidf,ans1,ans12,textrank
+0,Law,Bachelor,Entrepreneurship,0.0,45.0,24.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0886525011190121," No, a Bachelor of Law degree does not typically teach entrepreneurship. However, some universities may offer courses related to entrepreneurship as part of their law degree program.", Maybe,0.05589648476803202
+1,Law,Bachelor,International Business,1.0,45.0,22.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1751733524158256," No, a Bachelor of Law degree does not typically teach International Business.", Yes,0.08206590783805753
+2,Law,Bachelor,Civil Law,1.0,45.0,3.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1397075925349704, Yes., Yes.,0.18278318887191392
+3,Law,Bachelor,Criminal Codes,1.0,45.0,3.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1621164310059431," No. A Bachelor of Law degree typically focuses on civil law, not criminal law.", Yes.,0.08896688895710744
+4,Law,Bachelor,International Laws,1.0,45.0,3.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1268473189837665, Yes, Yes,0.16371718322379586
+5,Law,Bachelor,Administrative Laws,1.0,45.0,3.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1660242436822016, Yes., Yes.,0.16371718322379586
+6,Law,Bachelor,Constitutional Law,1.0,45.0,2.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1751733524158256, Yes, Yes,0.18278318887191392
+7,Law,Bachelor,European Union Laws,1.0,45.0,2.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1621164310059431, Yes. Bachelor Law degrees typically include courses on European Union laws., Maybe,0.16110395355157642
+8,Law,Bachelor,Economy,0.0,45.0,2.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0558198087558812, No. A Bachelor of Laws (LLB) degree typically focuses on the study of law and does not include courses in economics., Maybe,0.05589648476803202
+9,Law,Bachelor,Psychology,0.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0899141698941033, No, No.,0.05589648476803202
+10,Law,Bachelor,Drones,0.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1522285455293189," No, a Bachelor of Law degree does not teach drones.", Maybe,0.05589648476803202
+11,Law,Bachelor,Justice,0.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0828681375204888," No. A Bachelor of Laws (LLB) degree typically focuses on the study of legal theory and practice, rather than justice.", Yes.,0.05589648476803202
+12,Law,Bachelor,Public Law,1.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1419244026709268, Yes., Yes,0.18278318887191392
+13,Law,Bachelor,Competition Law,1.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1621164310059431, Yes, Yes,0.18278318887191392
+14,Law,Bachelor,Tax Laws,1.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.186968605050617, Yes, Yes.,0.16371718322379586
+15,Law,Bachelor,Continuing Legal Education,0.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.2035930799230664, No. Bachelor Law degrees do not typically teach Continuing Legal Education (CLE). CLE courses are typically offered by law schools or other organizations that specialize in providing legal education., Yes,0.09864716271616619
+16,Law,Bachelor,Databases,0.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0797526393531896, No. Bachelor Law degrees typically do not teach databases., Maybe,0.05589648476803202
+17,Law,Bachelor,Knowledge of Labour Laws,1.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.2035930799230664, Yes, Yes.,
+18,Law,Bachelor,Property Laws,1.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1944439711894424, Yes, Yes.,0.16371718322379586
+19,Law,Bachelor,Private Law,1.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.186968605050617, Yes., Yes,0.18278318887191392
+20,Law,Bachelor,Webcast,0.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.2153883325578578," No, a Bachelor of Law degree does not typically teach webcasting.", No.,0.05589648476803202
+21,Law,Bachelor,Civil Procedure Law,1.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.2035930799230664, Yes, Yes,0.1821768479005641
+22,Law,Bachelor,Criminal Procedure,1.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1944439711894424, Yes, Yes.,0.09328435058994324
+23,Law,Bachelor,Common Law,1.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1944439711894424, Yes., Yes.,0.18278318887191392
+24,Law,Bachelor,Environmental Laws,1.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1585488775433762, Yes, Yes,0.16371718322379586
+25,Law,Bachelor,Knowledge of Laws,1.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0868299344045964, Yes, Yes.,
+26,Law,Bachelor,Legal Knowledge,1.0,45.0,1.0,Law (bachelor) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1376045161749609, Yes, Yes,0.08703904143540833
+27,Law,Master,E-books,0.0,45.0,1.0,Civil Law (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1493997688097522," No, master law degrees typically do not teach e-books. Most law schools offer traditional textbooks and other printed materials for their courses.", No.,
+28,Law,Master,Negotiation Skills,0.0,45.0,1.0,Civil Law (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0976465964357111, Yes, Yes,0.08896688895710744
+29,Law,Master,Contract Law,1.0,45.0,1.0,Civil Law (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1944439711894424, Yes, Yes,0.18278318887191392
+30,Law,Master,Family Law,1.0,45.0,1.0,Civil Law (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1944439711894424, Yes, Yes,0.18278318887191392
+31,Law,Master,Academic Writing,0.0,45.0,1.0,Civil Law (Master 2022-2023) - Prospectus - Universiteit Leiden,0.084519407656551, Yes, Yes.,0.08896688895710744
+32,Law,Master,Legal Lawsuits,0.0,45.0,1.0,Civil Law (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1703441301781676," No. A Master of Laws (LLM) degree typically focuses on a specific area of law, such as international law, tax law, or corporate law. It does not typically cover legal lawsuits.", Yes.,0.08896688895710744
+33,Law,Master,Conflict Resolution,0.0,45.0,1.0,Civil Law (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1123812898246948, Yes. Many master's degree programs in law offer courses in conflict resolution., Yes,0.08896688895710744
+34,Law,Master,Legal Research,1.0,45.0,1.0,Civil Law (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1585488775433762, Yes, Yes.,0.08703904143540833
+35,Law,Master,Legal Systems,1.0,45.0,1.0,Civil Law (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1621164310059431, Yes, Yes,0.08703904143540833
+36,Law,Master,Insurance Law,1.0,45.0,1.0,Civil Law (Master 2022-2023) - Prospectus - Universiteit Leiden,0.2153883325578578, Yes, Yes,0.18278318887191392
+37,Law,Master,Copyright Law,1.0,45.0,1.0,Civil Law (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1621164310059431, Yes, Yes,0.18278318887191392
+38,Law,Master,Knowledge of Patents,1.0,45.0,1.0,Civil Law (Master 2022-2023) - Prospectus - Universiteit Leiden,0.186968605050617, Yes, Yes.,
+0,Architecture,Master,Architecture,1.0,65.0,110.0,Master Cycle - Architecture - EPFL,0.0388633760925617, Yes, Yes.,0.045238412133457286
+1,Architecture,Master,Construction,1.0,65.0,32.0,Master Cycle - Architecture - EPFL,0.037927313703452," No, a Master's degree in Architecture does not typically teach Construction. However, some programs may offer courses related to Construction as part of their curriculum.", Maybe,0.045238412133457286
+2,Architecture,Master,Instructional Design,0.0,65.0,30.0,Master Cycle - Architecture - EPFL,0.0518094171579, No, Maybe,0.11019292403336775
+3,Architecture,Master,Sustainability,1.0,65.0,30.0,Master Cycle - Architecture - EPFL,0.044013314954735, Yes, Yes.,0.045238412133457286
+4,Architecture,Master,Urban Planning,1.0,65.0,24.0,Master Cycle - Architecture - EPFL,0.0552510960466863," No, a Master's degree in Architecture does not typically teach Urban Planning. Urban Planning is typically taught in a Master's degree program in Urban Planning or a related field.", Yes,0.07200327260981183
+5,Architecture,Master,Integrated Design,0.0,65.0,20.0,Master Cycle - Architecture - EPFL,0.0770854440996097," No, a Master of Architecture degree does not typically teach Integrated Design.", Yes.,0.11019292403336775
+6,Architecture,Master,Drawing Skills,1.0,65.0,10.0,Master Cycle - Architecture - EPFL,0.0552510960466863, No, Maybe,0.0909775786546142
+7,Architecture,Master,Metabolism,0.0,65.0,8.0,Master Cycle - Architecture - EPFL,0.0683165261346884, No, No.,0.045238412133457286
+8,Architecture,Master,Knowledge of Civil Engineering,1.0,65.0,8.0,Master Cycle - Architecture - EPFL,0.0673233647740253, No, Maybe,
+9,Architecture,Master,Manufacturing,0.0,65.0,8.0,Master Cycle - Architecture - EPFL,0.0518094171579," No, a Master's degree in Architecture does not typically teach Manufacturing.", No.,0.045238412133457286
+10,Architecture,Master,Assembly and Installation,0.0,65.0,6.0,Master Cycle - Architecture - EPFL,0.0629758995079153," No, a Master Architecture degree does not typically teach Assembly and Installation.", No.,
+11,Architecture,Master,Economy,0.0,65.0,6.0,Master Cycle - Architecture - EPFL,0.0277128653165409," No, a Master's degree in Architecture does not typically teach Economy.", Maybe,0.045238412133457286
+12,Architecture,Master,Design Elements and Principles,1.0,65.0,6.0,Master Cycle - Architecture - EPFL,0.059395509554187, Yes, Yes.,
+13,Architecture,Master,Simulations,0.0,65.0,6.0,Master Cycle - Architecture - EPFL,0.0400974369512997," No, a Master's degree in Architecture does not typically teach simulations.", Maybe,0.045238412133457286
+14,Architecture,Master,Digital Image,1.0,65.0,6.0,Master Cycle - Architecture - EPFL,0.0741725162379886," No, a Master's degree in Architecture does not typically teach Digital Image.", Maybe,0.0644488563338792
+15,Architecture,Master,Ecology,0.0,65.0,6.0,Master Cycle - Architecture - EPFL,0.0456169603856281, No, Maybe,0.045238412133457286
+16,Architecture,Master,Infrastructure Management,0.0,65.0,6.0,Master Cycle - Architecture - EPFL,0.0459534270545998," No, a Master's degree in Architecture does not typically teach Infrastructure Management.", Yes.,0.07200327260981183
+17,Architecture,Master,Creating Prototypes,1.0,65.0,6.0,Master Cycle - Architecture - EPFL,0.0492616250059943," No, a Master's degree in Architecture does not typically teach students how to create prototypes.", Maybe,
+18,Architecture,Master,Architectural Design,1.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0896864638541139, Yes, Yes.,0.11019292403336775
+19,Architecture,Master,Climate Change,0.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0462955488896065," No, a Master's degree in Architecture does not typically teach Climate Change. However, some universities may offer courses related to Climate Change as part of their Architecture program.", Maybe,0.07200327260981183
+20,Architecture,Master,Private Property,1.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.115187418719904," No, a Master's degree in Architecture does not typically teach Private Property.", No.,0.08204081631840152
+21,Architecture,Master,Data Collection,0.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.039348060181199, No, Maybe,0.07200327260981183
+22,Architecture,Master,Measurement and Metrology,1.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0496647227328616, No. Master Architecture degrees typically do not teach Measurement and Metrology., Maybe,
+23,Architecture,Master,Physics,1.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.042526832101303, No, No,
+24,Architecture,Master,Sustainable Design,1.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0896864638541139, Yes. Many master's degree programs in architecture offer courses in sustainable design., Yes.,0.11019292403336775
+25,Architecture,Master,Biology,0.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0365992926448595, No, No,0.045238412133457286
+26,Architecture,Master,Design Methods,1.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0607530638352421," No. Master Architecture degrees typically focus on the history, theory, and practice of architecture, rather than design methods.", Yes.,0.11973489318159199
+27,Architecture,Master,Conceptual Design,1.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0896864638541139," No. Master Architecture degrees typically focus on the technical aspects of architecture, such as building design, construction, and engineering. Conceptual design is usually taught at the undergraduate level.", Yes.,0.11019292403336775
+28,Architecture,Master,Program Evaluations,0.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0600629716462942," No, a Master's degree in Architecture does not typically teach Program Evaluations.", Maybe,0.07200327260981183
+29,Architecture,Master,3D Computer Graphics,1.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0845707651514212," No, a Master Architecture degree does not typically teach 3D Computer Graphics.", Maybe,0.08813884200853768
+30,Architecture,Master,3d Models,1.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0600629716462942, No, Maybe,0.07200327260981183
+31,Architecture,Master,Cinema 4D,0.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.115187418719904, No, No,
+32,Architecture,Master,Creation of Textures,0.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0663764140348236," No, a Master Architecture degree does not typically teach the creation of textures. However, some programs may offer courses in computer-aided design (CAD) software that could include instruction in creating textures.", Maybe,
+33,Architecture,Master,Photography Skills,0.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0663764140348236, No, No,0.0909775786546142
+34,Architecture,Master,Logic Synthesis of Circuits,0.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0755769192624195," No. Master Architecture degrees typically focus on the design of computer systems, not the synthesis of circuits.", Maybe,
+35,Architecture,Master,Digital Modeling and Fabrication,1.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0869683295365152," No, a Master Architecture degree does not typically teach Digital Modeling and Fabrication. However, some universities may offer courses in this area as part of their architecture program.", Yes.,
+36,Architecture,Master,Robotics Design and Production,0.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0518094171579, No. Master Architecture degrees typically do not teach Robotics Design and Production., Maybe,
+37,Architecture,Master,Technical Skills,0.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0716247240860829," No. A Master's degree in Architecture typically focuses on the theoretical and design aspects of architecture, rather than technical skills.", Maybe,0.0909775786546142
+38,Architecture,Master,Scheduling,0.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0462955488896065," No, a Master's degree in Architecture does not typically teach Scheduling.", Maybe,0.045238412133457286
+39,Architecture,Master,ArchiCAD,0.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.1069338642315098, No, Maybe,0.045238412133457286
+40,Architecture,Master,Autodesk Revit,0.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.1010778741282096," No, a Master Architecture degree does not typically teach Autodesk Revit. However, some universities may offer courses that cover Autodesk Revit as part of their architecture curriculum.", Maybe,0.07200327260981183
+41,Architecture,Master,Building Information Modeling,1.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.1010778741282096, No, Yes,0.09057224215032583
+42,Architecture,Master,Maquette,1.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.1069338642315098," No, a master's degree in architecture does not typically teach maquette. Maquette is a type of model-making, and is usually taught in a studio or workshop setting.", Maybe,0.045238412133457286
+43,Architecture,Master,Mapping,1.0,65.0,4.0,Master Cycle - Architecture - EPFL,0.0965356153180771," No, a Master Architecture degree does not typically teach mapping.", No.,0.045238412133457286
+44,Architecture,Master,Agriculture,0.0,65.0,2.0,Master Cycle - Architecture - EPFL,0.0824260707263828, No, No,0.045238412133457286
+45,Architecture,Master,Insurance Claim Processing,0.0,65.0,2.0,Master Cycle - Architecture - EPFL,0.0513620195876253, No, No,0.08813884200853768
+46,Architecture,Master,Contemporary Art,0.0,65.0,2.0,Master Cycle - Architecture - EPFL,0.0741725162379886, No, No.,0.07200327260981183
+47,Architecture,Master,Ethical Codes,0.0,65.0,2.0,Master Cycle - Architecture - EPFL,0.0673233647740253, No, Maybe,0.07200327260981183
+48,Architecture,Master,Intellectual Property,0.0,65.0,2.0,Master Cycle - Architecture - EPFL,0.0654715641793197, No. Master's degrees in architecture typically do not include courses on intellectual property., Maybe,0.08204081631840152
+49,Architecture,Master,Punctuation,0.0,65.0,2.0,Master Cycle - Architecture - EPFL,0.1069338642315098, No, No.,0.045238412133457286
+0,Economics,Bachelor,Google Analytics,0.0,145.0,10.0,Bachelor Economics and management - Catalogue des formations,0.1735467888598772, No, No,0.09304287570771505
+1,Economics,Bachelor,Site Maps,0.0,145.0,9.0,Bachelor Economics and management - Catalogue des formations,0.1759452925277127, No, No.,0.09304287570771505
+2,Economics,Bachelor,Search Engines,0.0,145.0,9.0,Bachelor Economics and management - Catalogue des formations,0.1557277902100698, No, No.,0.09304287570771505
+3,Economics,Master,Public Health,0.0,145.0,2.0,Master&#39;s Programme in Economics,0.1712503806775812," No. Master's degrees in economics typically focus on economic theory and analysis, while public health is a field of study that focuses on the health of populations.", No.,0.08582572154245413
+4,Economics,Master,Public Relations,1.0,145.0,2.0,Master&#39;s Programme in Economics,0.1669314804397664," No. Master's degrees in economics typically focus on economic theory, quantitative analysis, and economic policy. Public relations is not typically included in the curriculum.", No,0.08582572154245413
+5,Economics,Master,Economy,1.0,145.0,2.0,Master&#39;s Programme in Economics,0.0734590481543909," Yes. Master's degree programs in economics typically teach students about the principles of economics, macroeconomics, microeconomics, international economics, and other related topics.", Yes.,0.05845735097564718
+6,Economics,Master,IBM System I,0.0,145.0,1.0,Master&#39;s Programme in Economics,0.2241734241029165, No. Master's degrees in economics typically do not teach IBM System I., No,
+7,Economics,Master,Consulting,1.0,145.0,1.0,Master&#39;s Programme in Economics,0.1017610498727813," No, a Master's degree in Economics does not typically teach Consulting. However, some universities may offer courses related to Consulting as part of their Economics curriculum.", Maybe,
+8,Economics,Master,Infrastructure Management,1.0,145.0,1.0,Master&#39;s Programme in Economics,0.1218096711511204, No, No,0.1280722849410907
+9,Economics,Master,Administrative Operations,1.0,145.0,1.0,Master&#39;s Programme in Economics,0.1017610498727813, No, Maybe,0.09304287570771505
+10,Economics,Master,Adobe InDesign,0.0,145.0,1.0,Master&#39;s Programme in Economics,0.1810879865992571, No, No,0.09304287570771505
+11,Economics,Master,Business Development,1.0,145.0,1.0,Master&#39;s Programme in Economics,0.1784553938527221," No. A Master's degree in Economics typically focuses on economic theory and analysis, not business development.", Maybe,0.09102672155417348
+12,Economics,Bachelor,Distance Learning,0.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.2679291490835419, Yes, Yes,0.09304287570771505
+13,Economics,Bachelor,Cultural Activities,0.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.1669314804397664, No, No.,0.09304287570771505
+14,Economics,Bachelor,Geology,0.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.1810879865992571, No, No,0.05845735097564718
+15,Economics,Bachelor,Physics,0.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.1127267271536413, No, No,0.05845735097564718
+16,Economics,Bachelor,Performance Management,1.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.1690477300306204, No, Yes,0.1280722849410907
+17,Economics,Bachelor,Business Intelligence,1.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.2558888925149052, No, Maybe,0.09102672155417348
+18,Economics,Bachelor,Strategic Management,1.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.2043319333975905," No. Strategic management is typically taught in business or management degree programs, not economics degree programs.", Maybe,0.1280722849410907
+19,Economics,Bachelor,Entrepreneurship,1.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.1166669770795759," No, a Bachelor's degree in Economics does not typically teach Entrepreneurship. However, some universities may offer courses in Entrepreneurship as part of their Economics curriculum.", Maybe,0.05845735097564718
+20,Economics,Bachelor,Forecasting Skills,1.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.1274946556969557, Yes, Yes,0.09304287570771505
+21,Economics,Bachelor,Foreign Languages,0.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.1966105770667685, No, No,0.09304287570771505
+22,Economics,Bachelor,International Financial Economics,1.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.2184884395570812, Yes, Yes,0.10686182269619487
+23,Economics,Bachelor,Innovation Management,1.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.1898570932881529, No. A Bachelor's degree in Economics does not typically teach Innovation Management., Maybe,0.1280722849410907
+24,Economics,Bachelor,International Business,1.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.2305286961257179, Yes, Yes,0.0819792251576194
+25,Economics,Bachelor,International Sales,1.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.1669314804397664," No. A Bachelor's degree in Economics typically does not teach International Sales. However, some universities may offer courses in International Sales as part of their Economics curriculum.", Maybe,0.0819792251576194
+26,Economics,Bachelor,Knowledge of Purchasing Processes,1.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.2241734241029165, No, Maybe,
+27,Economics,Bachelor,Services Marketing,1.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.305329602041366, No. Services marketing is not typically taught in a Bachelor's degree in Economics., Maybe,0.09304287570771505
+28,Economics,Bachelor,Knowledge of Sociology,1.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.1436875336414331, No, Maybe,
+29,Economics,Bachelor,Target Market Selection,1.0,145.0,1.0,Bachelor Economics and management - Catalogue des formations,0.1524566403303289, No, Maybe,0.11389305413466233
+0,Mathematics,Master,Knowledge of Mathematics,1.0,44.0,42.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0295547808617492, Yes., Yes.,
+1,Mathematics,Master,Economy,0.0,44.0,35.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0206857381637092," No, a Master's degree in Mathematics does not typically teach Economy.", No.,0.04806265570566213
+2,Mathematics,Master,Knowledge of Statistics,1.0,44.0,27.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0244159151198953, Yes., Yes.,
+3,Mathematics,Master,Numerical Analysis,1.0,44.0,21.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0373782456621558, Yes, Yes,0.0966588467096908
+4,Mathematics,Master,Linear Algebra,1.0,44.0,14.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0393629115874648, Yes, Yes,0.07056490362880656
+5,Mathematics,Master,Simulations,0.0,44.0,11.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0299299647415151, No. A Master's degree in Mathematics typically does not teach simulations., Maybe,0.04806265570566213
+6,Mathematics,Master,Algorithms,1.0,44.0,10.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0335597302297164, Yes, Maybe,0.04806265570566213
+7,Mathematics,Master,Physics,0.0,44.0,9.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.031743340276493, No. A Master's degree in Mathematics does not typically teach Physics., Maybe,0.04806265570566213
+8,Mathematics,Master,Probability Theories,1.0,44.0,9.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0470071554480244, Yes., Yes.,0.07649909168587367
+9,Mathematics,Master,Differential Equations,1.0,44.0,9.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0438522465786402, Yes, Yes,0.1112845390624952
+10,Mathematics,Master,Algebra,1.0,44.0,8.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0476030818318438, Yes, Yes,0.05737431876440526
+11,Mathematics,Master,Dynamical Systems,1.0,44.0,7.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0433846966082524," No, a Master's degree in Mathematics typically does not teach Dynamical Systems.", Yes,0.09597893590117959
+12,Mathematics,Master,Partial Differential Equation,1.0,44.0,7.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0517729233236775, Yes, Yes,0.11473237346339459
+13,Mathematics,Master,Geometry,1.0,44.0,6.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0470071554480244, Yes, Yes,0.04806265570566213
+14,Mathematics,Master,Computer Programming,0.0,44.0,5.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0326244088237203, No. A Master's degree in Mathematics typically does not teach Computer Programming., Maybe,0.07649909168587367
+15,Mathematics,Master,Mathematical Modeling,1.0,44.0,5.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.041646325697392," No. A Master's degree in Mathematics typically does not teach Mathematical Modeling. However, some universities may offer courses in Mathematical Modeling as part of a Master's degree in Mathematics.", Yes,0.07056490362880656
+16,Mathematics,Master,Integral Calculus,1.0,44.0,5.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0615253636689689, Yes, Yes,0.09841979329735669
+17,Mathematics,Master,Stochastic Differential Equation,1.0,44.0,4.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0615253636689689, Yes, Yes,0.11473237346339459
+18,Mathematics,Master,Biology,0.0,44.0,4.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0273188418440678, No., No,0.04806265570566213
+19,Mathematics,Master,Machine Learning,0.0,44.0,4.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0315308308667162," No. A Master's degree in Mathematics typically does not teach Machine Learning. However, some universities may offer courses in Machine Learning as part of a Mathematics degree program.", Maybe,0.12473449600888493
+20,Mathematics,Master,Topology,1.0,44.0,4.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0564129455841249, Yes, Yes.,0.04806265570566213
+21,Mathematics,Master,Complex Networks,0.0,44.0,3.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0564129455841249, No. A Master's degree in Mathematics typically does not teach Complex Networks., Maybe,0.09597893590117959
+22,Mathematics,Master,Knowledge of Finance,0.0,44.0,3.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0288311119449802, No. A Master's degree in Mathematics does not typically teach knowledge of finance., Maybe,
+23,Mathematics,Master,Information Technology,0.0,44.0,3.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0281403486720757, No. A Master's degree in Mathematics does not typically teach Information Technology., No,0.07649909168587367
+24,Mathematics,Master,Mathematical Analysis,1.0,44.0,3.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0649158458636094, Yes, Yes,0.0966588467096908
+25,Mathematics,Master,Boundary Value Problem,1.0,44.0,3.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0517729233236775, Yes, Yes.,0.09364164116631901
+26,Mathematics,Master,Combinatorics,1.0,44.0,3.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0424906637469998, Yes, Yes.,0.04806265570566213
+27,Mathematics,Master,Knowledge of Medicine,0.0,44.0,3.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0356231226270893, No, No,
+28,Mathematics,Master,Functional Analysis,1.0,44.0,2.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0543840462211248, Yes. Functional analysis is a branch of mathematics that is often taught in master's degree programs in mathematics., Yes.,0.0966588467096908
+29,Mathematics,Master,Data Analysis,0.0,44.0,2.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0279724555260553," No. A Master's degree in Mathematics typically focuses on theoretical mathematics, rather than data analysis.", Maybe,0.0966588467096908
+30,Mathematics,Master,Artificial Neural Networks,0.0,44.0,2.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0393629115874648," No. Master's degrees in mathematics typically focus on topics such as algebra, calculus, geometry, and analysis. Artificial neural networks are typically studied in computer science or engineering programs.", Maybe,0.10120003621846935
+31,Mathematics,Master,Computer Simulation,0.0,44.0,2.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0370712821893592, No. A Master's degree in Mathematics typically does not include courses in computer simulation., Maybe,0.07056490362880656
+32,Mathematics,Master,Equations,0.0,44.0,2.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0400865805042338," No. A Master's degree in Mathematics typically focuses on advanced topics in mathematics, such as abstract algebra, real analysis, and topology. It does not typically focus on equations.", Yes.,0.04806265570566213
+33,Mathematics,Master,Data Science,0.0,44.0,2.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0313212527148082," No. A Master's degree in Mathematics does not typically teach Data Science. Data Science is a field that requires knowledge of mathematics, statistics, and computer science, but a Master's degree in Mathematics does not typically cover all of these topics.", Maybe,0.07056490362880656
+34,Mathematics,Master,Support Vector Machine,0.0,44.0,2.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.048869996599505," No. Master Mathematics degrees typically do not teach Support Vector Machines. However, some universities may offer courses in Machine Learning or Data Science that include instruction on Support Vector Machines.", Maybe,0.09364164116631901
+35,Mathematics,Master,Supervised Learning,0.0,44.0,2.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0443346418605321, No, Maybe,0.11044840146707192
+36,Mathematics,Master,Unsupervised Learning,0.0,44.0,2.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0400865805042338, No, No,0.11044840146707192
+37,Mathematics,Master,Calculations,0.0,44.0,2.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0340499074196483," No. A Master's degree in Mathematics typically focuses on theoretical mathematics, rather than calculations.", Yes.,0.04806265570566213
+38,Mathematics,Master,Mentoring,0.0,44.0,2.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0335597302297164, Yes. Many master's degree programs in mathematics include courses in mentoring and teaching., Maybe,
+39,Mathematics,Master,Applied Mathematics,1.0,44.0,2.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0412411236811929," No, a Master's degree in Mathematics typically does not teach Applied Mathematics. Applied Mathematics is usually taught at the undergraduate level.", Yes,0.07929983436977774
+40,Mathematics,Master,Linear Programming,0.0,44.0,2.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.048869996599505, Yes, Yes.,0.07649909168587367
+41,Mathematics,Master,Multidisciplinary Approach,0.0,44.0,1.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0311145260549074," No. A Master's degree in Mathematics typically focuses on a single discipline, rather than a multidisciplinary approach.", Maybe,0.07649909168587367
+42,Mathematics,Master,World Wide Web,0.0,44.0,1.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0720571633114535, No. A Master's degree in Mathematics does not typically teach World Wide Web technologies., No,0.09364164116631901
+43,Mathematics,Master,Euclidean Geometry,1.0,44.0,1.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0383381969570204, Yes, Yes,0.07649909168587367
+44,Mathematics,Master,Ordinary Differential Equations (Differential Calculus),1.0,44.0,1.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0517729233236775, Yes, Yes,
+45,Mathematics,Master,High Frequency,0.0,44.0,1.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0798187372926166, No. Master's degrees in mathematics typically do not teach high frequency trading., Maybe,0.07649909168587367
+46,Mathematics,Master,Linguistics,0.0,44.0,1.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0438522465786402, No., No,0.04806265570566213
+47,Mathematics,Master,Biological Systems,0.0,44.0,1.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0453479622833816, No, No,0.1004224155323088
+48,Mathematics,Master,Gene Expression,0.0,44.0,1.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0509935640264843, No, No.,0.07649909168587367
+49,Mathematics,Master,Parallel Processing,0.0,44.0,1.0,Mathematics (Master 2022-2023) - Prospectus - Universiteit Leiden,0.057538955090509, No. A Master's degree in Mathematics typically does not teach Parallel Processing., Maybe,0.07649909168587367
+0,Ecology,Master,Biology,1.0,101.0,5.0,Master&#39;s Programme in Ecology,0.0470633794632514, Yes, Yes,0.052379123937493284
+1,Ecology,Master,Content Management,0.0,101.0,5.0,Master&#39;s Programme in Ecology,0.0799934310820502, No, Maybe,0.08336866560932878
+2,Ecology,Master,Data Stores,0.0,101.0,5.0,Master&#39;s Programme in Ecology,0.0830764819906613, No, Maybe,0.07274638709848448
+3,Ecology,Master,Retention Period,0.0,101.0,5.0,Master&#39;s Programme in Ecology,0.0841905087872435," No, a Master's degree in Ecology does not typically teach Retention Period.", No,0.08336866560932878
+4,Ecology,Master,Economy,0.0,101.0,5.0,Master&#39;s Programme in Ecology,0.0356362378109931," No. Master Ecology degrees typically focus on the study of ecosystems and the environment, while Economy degrees focus on the study of economic systems and markets.", Maybe,0.052379123937493284
+5,Ecology,Master,JSON,0.0,101.0,5.0,Master&#39;s Programme in Ecology,0.0841905087872435, No, No.,0.052379123937493284
+6,Ecology,Master,JQuery,0.0,101.0,5.0,Master&#39;s Programme in Ecology,0.0841905087872435, No, No,0.052379123937493284
+7,Ecology,Master,Typing Skills,0.0,101.0,5.0,Master&#39;s Programme in Ecology,0.0799934310820502, No, No,0.08336866560932878
+8,Ecology,Master,Data Protection,0.0,101.0,5.0,Master&#39;s Programme in Ecology,0.0739593178400297, No, Maybe,0.07274638709848448
+9,Ecology,Master,Data Analysis,1.0,101.0,4.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0481893887177188, No, Yes.,0.07274638709848448
+10,Ecology,Master,Sustainability,1.0,101.0,4.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0565971414598153, Yes, Yes,0.052379123937493284
+11,Ecology,Master,Scientific Studies,1.0,101.0,4.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0502845609235067, Yes, Yes,0.09499055935974367
+12,Ecology,Master,Medical Research,0.0,101.0,4.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0820079385744077, No, No,0.0893687327116063
+13,Ecology,Master,Design of Experiments,1.0,101.0,3.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0672104658914414, No, Yes,
+14,Ecology,Master,Biodiversity,1.0,101.0,3.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1059924704529885, Yes, Yes.,0.052379123937493284
+15,Ecology,Master,Biotechnology,0.0,101.0,3.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0666222236350955, No, Maybe,0.052379123937493284
+16,Ecology,Master,Molecular Genetics,1.0,101.0,3.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0991249077395143, No, Maybe,0.07690187529886135
+17,Ecology,Master,Algorithms,0.0,101.0,3.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0578148344465217, No, No,0.052379123937493284
+18,Ecology,Master,Immune Systems,0.0,101.0,3.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0906067555136763, No, Maybe,0.08336866560932878
+19,Ecology,Master,Oncology,0.0,101.0,3.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0865717568327886, No, No,0.052379123937493284
+20,Ecology,Master,Ecology,1.0,101.0,2.0,Master&#39;s Programme in Ecology,0.0586592844135325, Yes, Yes,0.052379123937493284
+21,Ecology,Master,Geography,1.0,101.0,2.0,Master&#39;s Programme in Ecology,0.0643931601972601, No, Maybe,0.052379123937493284
+22,Ecology,Master,Knowledge of Mathematics,0.0,101.0,2.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.050915330693339," No. Master Ecology degrees typically focus on the study of ecosystems and the environment, and do not typically include courses in mathematics.", Yes,
+23,Ecology,Master,Calculations,0.0,101.0,2.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0586592844135325, No, Maybe,0.052379123937493284
+24,Ecology,Master,Business Studies,0.0,101.0,2.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0936898064222874, No, No,0.09499055935974367
+25,Ecology,Master,Science Communication,1.0,101.0,2.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0830764819906613, No, Maybe,0.08336866560932878
+26,Ecology,Master,Data Processing,0.0,101.0,2.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0590919501120806, No, Yes.,0.07274638709848448
+27,Ecology,Master,Data Mining,0.0,101.0,2.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0703679853532473, No, Maybe,0.07274638709848448
+28,Ecology,Master,Drug Discovery,0.0,101.0,2.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0853540638460823, No, Maybe,0.08336866560932878
+29,Ecology,Master,Anatomy,0.0,101.0,2.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0790414833097737, No, No,0.052379123937493284
+30,Ecology,Master,Physiology,0.0,101.0,2.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0732005493858339, No, Maybe,0.052379123937493284
+31,Ecology,Master,Genetic Engineering,0.0,101.0,2.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0936898064222874, No, Maybe,0.08336866560932878
+32,Ecology,Master,Management of Facilities,0.0,101.0,2.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1153286792190556, No, Maybe,
+33,Ecology,Master,Medical Surveillance,0.0,101.0,2.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1059924704529885, No, No,0.07690187529886135
+34,Ecology,Master,Animal Experimentation,1.0,101.0,2.0,Biology: Biodiversity and Sustainability (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1118334043769283, No, Maybe,0.08336866560932878
+35,Ecology,Master,MATLAB,0.0,101.0,1.0,Master&#39;s Programme in Ecology,0.0747407394144563, No, Maybe,0.052379123937493284
+36,Ecology,Master,Mathematical Modeling,0.0,101.0,1.0,Master&#39;s Programme in Ecology,0.0717459708114283, No, Yes,0.08336866560932878
+37,Ecology,Master,Scientific Literature,1.0,101.0,1.0,Master&#39;s Programme in Ecology,0.0532510161881408, Yes, Yes,0.08336866560932878
+38,Ecology,Master,Ecosystems,1.0,101.0,1.0,Master&#39;s Programme in Ecology,0.0921029157946706, Yes, Yes.,0.052379123937493284
+39,Ecology,Master,Molecular Biology,1.0,101.0,1.0,Master&#39;s Programme in Ecology,0.0710479113418322, No, Maybe,0.07690187529886135
+40,Ecology,Master,Computer Simulation,0.0,101.0,1.0,Master&#39;s Programme in Ecology,0.0638643406197668, No, Maybe,0.08336866560932878
+41,Ecology,Master,Environmental Monitoring,1.0,101.0,1.0,Master&#39;s Programme in Ecology,0.1118334043769283, Yes, Yes,0.08336866560932878
+42,Ecology,Master,Euclidean Geometry,0.0,101.0,1.0,Master&#39;s Programme in Ecology,0.0660469108326026, No, No,0.08336866560932878
+43,Ecology,Master,Genomics,1.0,101.0,1.0,Master&#39;s Programme in Ecology,0.0799934310820502, No, Maybe,0.052379123937493284
+44,Ecology,Master,Simulations,0.0,101.0,1.0,Master&#39;s Programme in Ecology,0.0515616765890657, No, Maybe,0.052379123937493284
+45,Ecology,Master,Landscape Ecology,1.0,101.0,1.0,Master&#39;s Programme in Ecology,0.1481206002862102, Yes, Yes,0.08336866560932878
+46,Ecology,Master,Execution of Experiments,1.0,101.0,1.0,Master&#39;s Programme in Ecology,0.0484786256804546, Yes, Yes,
+47,Ecology,Master,Field Research,1.0,101.0,1.0,Master&#39;s Programme in Ecology,0.0578148344465217, Yes, Yes,0.0893687327116063
+48,Ecology,Master,Knowledge of Statistics,1.0,101.0,1.0,Master&#39;s Programme in Ecology,0.0420623789540218, Yes, Yes.,
+49,Ecology,Master,Geology,1.0,101.0,1.0,Master&#39;s Programme in Ecology,0.0878488724983476, No, Maybe,0.052379123937493284
+0,Education Child Studies,Master,Child Development,1.0,5.0,29.0,Education and Child Studies: Pre-master programme (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,0.1168725027559625, Yes, Yes,0.08469453036482867
+1,Education Child Studies,Master,SPSS (Software),0.0,5.0,4.0,Education and Child Studies: Pre-master programme (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,0.1013376177481748, Yes, Maybe,
+2,Education Child Studies,Master,Psychology,1.0,5.0,4.0,Education and Child Studies: Pre-master programme (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,0.0562045914922656, Yes, Yes,0.046702168129112216
+3,Education Child Studies,Master,Psychological Testing,1.0,5.0,4.0,Education and Child Studies: Pre-master programme (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,0.1450292548766475, No, Maybe,0.07433256778037314
+4,Education Child Studies,Master,Scientific Studies,1.0,5.0,3.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0492350988886352, No, Yes,0.06856685943206242
+5,Education Child Studies,Master,Behavioural Science,1.0,5.0,2.0,Education and Child Studies: Pre-master programme (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,0.1094993895228948, Yes, Yes,0.06856685943206242
+6,Education Child Studies,Master,Knowledge of Statistics,1.0,5.0,2.0,Education and Child Studies: Pre-master programme (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,0.0411845176582699, Yes, Yes,
+7,Education Child Studies,Master,Cognition Processing,1.0,5.0,2.0,Education and Child Studies: Pre-master programme (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,0.0783239311914689, No, Yes,0.07433256778037314
+8,Education Child Studies,Master,Cognitive Neuroscience,1.0,5.0,2.0,Education and Child Studies: Pre-master programme (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,0.1013376177481748, No, Yes,0.07433256778037314
+9,Education Child Studies,Master,Continuous Training,1.0,5.0,2.0,Education and Child Studies: Pre-master programme (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,0.0901806853594777, No, Maybe,0.08469453036482867
+10,Education Child Studies,Master,Scientific Literature,0.0,5.0,2.0,Education and Child Studies: Pre-master programme (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,0.0521396428603952, No, Yes,0.07433256778037314
+11,Education Child Studies,Master,Empirical Research,1.0,5.0,2.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0635777047253334, Yes, Yes,0.08469453036482867
+12,Education Child Studies,Master,Child Care,1.0,5.0,2.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.134637435432839, No, Yes,0.07433256778037314
+13,Education Child Studies,Master,Clinical Works,1.0,5.0,2.0,Education and Child Studies: Orthopedagogiek (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0773918510093202, No. A Master of Education in Child Studies degree does not typically teach clinical work., Yes,0.06653401690534215
+14,Education Child Studies,Master,Microsoft Windows,0.0,5.0,1.0,Education and Child Studies: Pre-master programme (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,0.1094993895228948, No, No,0.06856685943206242
+15,Education Child Studies,Master,Social Research,1.0,5.0,1.0,Education and Child Studies: Pre-master programme (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,0.1037803585904257, Yes, Yes,0.08469453036482867
+16,Education Child Studies,Master,Human Development (Economics),0.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1013376177481748, No, Yes,
+17,Education Child Studies,Master,Mediation,0.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0901806853594777, No, Maybe,0.046702168129112216
+18,Education Child Studies,Master,Behaviour Therapy,1.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.134637435432839, No, Yes,0.07433256778037314
+19,Education Child Studies,Master,Health Care,0.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0887157506352775, No, Yes,0.07433256778037314
+20,Education Child Studies,Master,Health Psychology,1.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1272643221997711, No, Yes,0.07968216270453085
+21,Education Child Studies,Master,Psychopathology,1.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.134637435432839, No, Yes,0.046702168129112216
+22,Education Child Studies,Master,Digital Media,0.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0756236064697407, No, Maybe,0.07433256778037314
+23,Education Child Studies,Master,Computer Gaming,0.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0933885391466171, No, Maybe,0.07433256778037314
+24,Education Child Studies,Master,Television,0.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0783239311914689, No. A Master's degree in Education and Child Studies does not typically teach Television., Maybe,0.046702168129112216
+25,Education Child Studies,Master,Time and Activity Management,0.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.134637435432839, No, Yes,
+26,Education Child Studies,Master,Toilet Training,0.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1450292548766475, No, Maybe,0.08469453036482867
+27,Education Child Studies,Master,Biology,1.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0460811449747258, No, Yes,0.046702168129112216
+28,Education Child Studies,Master,Clinical Study Design,1.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0860154259135493, No, Maybe,0.08728545583123147
+29,Education Child Studies,Master,Microsoft PowerPoint,0.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0670000315655116, No, Maybe,0.06856685943206242
+30,Education Child Studies,Master,Data Collection,1.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0495420412432134, No, Maybe,0.07433256778037314
+31,Education Child Studies,Master,Project Planning,0.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0695651085840713, No, Maybe,0.06856685943206242
+32,Education Child Studies,Master,Team Management,0.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0773918510093202, No, Maybe,0.09326078289485792
+33,Education Child Studies,Master,Project Scoping,0.0,5.0,1.0,Education and Child Studies: Parenting and child development (Master 2022-2023) - Prospectus - Universiteit Leiden,0.084764964242388, No, Maybe,0.06856685943206242
+34,Education Child Studies,Master,Knowledge of Learning Disabilities,1.0,5.0,1.0,Education and Child Studies: Orthopedagogiek (Master 2022-2023) - Prospectus - Universiteit Leiden,0.134637435432839, Yes, Yes,
+35,Education Child Studies,Master,Etiology,1.0,5.0,1.0,Education and Child Studies: Orthopedagogiek (Master 2022-2023) - Prospectus - Universiteit Leiden,0.134637435432839, No, Maybe,0.046702168129112216
+36,Education Child Studies,Master,Pathology,1.0,5.0,1.0,Education and Child Studies: Orthopedagogiek (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0887157506352775, No, Maybe,0.046702168129112216
+37,Education Child Studies,Master,Neuroscience,1.0,5.0,1.0,Education and Child Studies: Orthopedagogiek (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0933885391466171, No, Yes,0.046702168129112216
+38,Education Child Studies,Master,Neurology,1.0,5.0,1.0,Education and Child Studies: Orthopedagogiek (Master 2022-2023) - Prospectus - Universiteit Leiden,0.097056125085908, No, Maybe,0.046702168129112216
+39,Education Child Studies,Master,Neuropsychology,1.0,5.0,1.0,Education and Child Studies: Orthopedagogiek (Master 2022-2023) - Prospectus - Universiteit Leiden,0.134637435432839, No, Yes,0.046702168129112216
+40,Education Child Studies,Master,Behavioural Problems,1.0,5.0,1.0,Education and Child Studies: Orthopedagogiek (Master 2022-2023) - Prospectus - Universiteit Leiden,0.134637435432839, No, Maybe,0.06856685943206242
+41,Education Child Studies,Master,Peer Review,1.0,5.0,1.0,Education and Child Studies: Orthopedagogiek (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0682504932366729, Yes, Maybe,0.07433256778037314
+42,Education Child Studies,Master,Attention Deficit Hyperactivity Disorder,1.0,5.0,1.0,Education and Child Studies: Leerproblemen (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1450292548766475, No, Yes,0.10228646194712276
+43,Education Child Studies,Master,Early Childhood Education,1.0,5.0,1.0,Education and Child Studies: Leerproblemen (Master 2022-2023) - Prospectus - Universiteit Leiden,0.134637435432839, Yes, Yes,0.03942079705538289
+44,Education Child Studies,Master,Knowledge of Mathematics,0.0,5.0,1.0,Education and Child Studies: Leerproblemen (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0498527042017431, Yes, Maybe,
+45,Education Child Studies,Master,Measurement and Metrology,0.0,5.0,1.0,Education and Child Studies: Leerproblemen (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0625314623042038, No, No,
+46,Education Child Studies,Master,Scientific Reasoning,1.0,5.0,1.0,Education and Child Studies: Leerproblemen (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1168725027559625, Yes, Yes,0.06856685943206242
+47,Education Child Studies,Master,Cognitive Development,1.0,5.0,1.0,Education and Child Studies: Learning problems and impairments (International track) (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1272643221997711, Yes, Yes,0.08469453036482867
+48,Education Child Studies,Master,Educational Psychology,1.0,5.0,1.0,Education and Child Studies: Learning problems and impairments (International track) (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1272643221997711, Yes, Yes,0.07968216270453085
+49,Education Child Studies,Master,Performance Management,0.0,5.0,1.0,Education and Child Studies: Learning problems and impairments (International track) (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0802963949810802, No, Maybe,0.07433256778037314
+0,Bio Pharmaceutical Sciences,Master,Scientific Literature,1.0,168.0,11.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0484297835586956, Yes, Yes,0.07855540648898529
+1,Bio Pharmaceutical Sciences,Master,Drug Discovery,1.0,168.0,8.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0776262902348414, Yes, Yes,0.07855540648898529
+2,Bio Pharmaceutical Sciences,Master,Scientific Studies,1.0,168.0,7.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.045731904782163, Yes, Yes,0.07855540648898529
+3,Bio Pharmaceutical Sciences,Master,Pharmaceutical Development,1.0,168.0,7.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0901503515001365, Yes, Yes,0.07246204290052326
+4,Bio Pharmaceutical Sciences,Master,Execution of Experiments,1.0,168.0,7.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0440894750371037, Yes, Yes,
+5,Bio Pharmaceutical Sciences,Master,Clinical Works,1.0,168.0,5.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0718852371816915, No, Yes,0.07855540648898529
+6,Bio Pharmaceutical Sciences,Master,Biology,1.0,168.0,4.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.042802362172642, Yes, Yes,0.04935514848135369
+7,Bio Pharmaceutical Sciences,Master,Data Analysis,1.0,168.0,3.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0438264249677308, No, Yes.,0.07855540648898529
+8,Bio Pharmaceutical Sciences,Master,Knowledge of Immunization,1.0,168.0,3.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0963961398361606, Yes, Yes,
+9,Bio Pharmaceutical Sciences,Master,Oncology,1.0,168.0,3.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0787337359139768, No, Yes,
+10,Bio Pharmaceutical Sciences,Master,Pharmaceuticals,1.0,168.0,3.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0852073325822834, Yes, Yes,
+11,Bio Pharmaceutical Sciences,Master,Academic Writing,1.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0490732224320548, No, Yes,0.07855540648898529
+12,Bio Pharmaceutical Sciences,Master,Entrepreneurship,0.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0514729578353129, No, Maybe,0.04935514848135369
+13,Bio Pharmaceutical Sciences,Master,Risk Analysis,0.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0580822003923172, No, Maybe,0.07855540648898529
+14,Bio Pharmaceutical Sciences,Master,Safety Principles,1.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0628064815777527, Yes, Yes,0.07855540648898529
+15,Bio Pharmaceutical Sciences,Master,Applied Research,1.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0837641156236572, Yes, Yes,0.09925607688186891
+16,Bio Pharmaceutical Sciences,Master,Research Experiences,1.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0687064170163764, Yes, Yes,0.12800752922804925
+17,Bio Pharmaceutical Sciences,Master,Spelling and Grammar,0.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0633943087043468, No, No,
+18,Bio Pharmaceutical Sciences,Master,Databases,0.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0463055660118458, No, Maybe,0.04935514848135369
+19,Bio Pharmaceutical Sciences,Master,Machine Learning,0.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0494015833491333, No, Maybe,0.07855540648898529
+20,Bio Pharmaceutical Sciences,Master,Immunology,1.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0963961398361606, Yes, Yes,0.04935514848135369
+21,Bio Pharmaceutical Sciences,Master,Biomedical Engineering,0.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0652502447151381, No, Maybe,0.07855540648898529
+22,Bio Pharmaceutical Sciences,Master,Mass Spectrometry,0.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0920558313145687, Yes, Yes,0.07855540648898529
+23,Bio Pharmaceutical Sciences,Master,Pharmaceutical Sciences,1.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1182091637140972, Yes, Yes,0.07246204290052326
+24,Bio Pharmaceutical Sciences,Master,Protein,0.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0837641156236572, Yes, Yes,0.04935514848135369
+25,Bio Pharmaceutical Sciences,Master,Artificial Intelligence,0.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.044896528225002, No, Maybe,0.07855540648898529
+26,Bio Pharmaceutical Sciences,Master,Computer Simulation,0.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0580822003923172, No, Maybe,0.07855540648898529
+27,Bio Pharmaceutical Sciences,Master,Innovation,0.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0404197964701334, Yes, Maybe,0.04935514848135369
+28,Bio Pharmaceutical Sciences,Master,Pharmacology,1.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0702428074366322, Yes, Yes,0.04935514848135369
+29,Bio Pharmaceutical Sciences,Master,Simulations,0.0,168.0,2.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0468933931384399, No, Maybe,0.04935514848135369
+30,Bio Pharmaceutical Sciences,Master,Project Management,0.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.051836412056293, No, Maybe,0.07855540648898529
+31,Bio Pharmaceutical Sciences,Master,Biosafety,1.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1182091637140972, Yes, Yes,0.04935514848135369
+32,Bio Pharmaceutical Sciences,Master,Laboratory Techniques,1.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0710498606245305, Yes, Yes,0.09785675128535129
+33,Bio Pharmaceutical Sciences,Master,Manufacturing Laboratory,0.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0920558313145687, No, Yes,0.07855540648898529
+34,Bio Pharmaceutical Sciences,Master,Health Research,1.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1085567468804756, No, Yes,0.09925607688186891
+35,Bio Pharmaceutical Sciences,Master,Modelling Skills,0.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0633943087043468, Yes, Maybe,0.07855540648898529
+36,Bio Pharmaceutical Sciences,Master,Knowledge of Cardiovascular Disease,1.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1085567468804756, Yes, Yes,
+37,Bio Pharmaceutical Sciences,Master,Metabolism,1.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0798952242702537, Yes, Yes,0.04935514848135369
+38,Bio Pharmaceutical Sciences,Master,Pathology,1.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0824034144809471, No, Yes,0.04935514848135369
+39,Bio Pharmaceutical Sciences,Master,Lesion,0.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1182091637140972, No, No.,0.04935514848135369
+40,Bio Pharmaceutical Sciences,Master,Primary Research,0.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0867437230025391, Yes, Yes,0.09925607688186891
+41,Bio Pharmaceutical Sciences,Master,Risk Factors,0.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0963961398361606, Yes, Maybe,0.07246204290052326
+42,Bio Pharmaceutical Sciences,Master,Chromatography,1.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1017082481481903, Yes, Yes,0.04935514848135369
+43,Bio Pharmaceutical Sciences,Master,Bioanalysis,1.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0989043300468541, Yes, Yes,0.04935514848135369
+44,Bio Pharmaceutical Sciences,Master,Data Processing,1.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0537418918707252, No, Maybe,0.07246204290052326
+45,Bio Pharmaceutical Sciences,Master,Instrumentation,1.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0611253746689344, No, Yes,0.04935514848135369
+46,Bio Pharmaceutical Sciences,Master,Electrophoresis,1.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1085567468804756, Yes, Yes,0.04935514848135369
+47,Bio Pharmaceutical Sciences,Master,Microsoft Software,0.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1182091637140972, No, Maybe,0.07855540648898529
+48,Bio Pharmaceutical Sciences,Master,Infectious Diseases,1.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0787337359139768, No, Yes,0.07855540648898529
+49,Bio Pharmaceutical Sciences,Master,Multidisciplinary Approach,1.0,168.0,1.0,Bio-Pharmaceutical Sciences: Systems Biomedicine and Pharmacology (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0487493291492312, Yes, Yes,0.07855540648898529
+0,International Studies,Bachelor,International Studies,1.0,28.0,178.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0845695521217681, Yes, Yes,0.10816710006749095
+1,International Studies,Bachelor,Economy,1.0,28.0,54.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0269484836643518, Yes, Yes,0.0514365040083636
+2,International Studies,Bachelor,Language Development,0.0,28.0,53.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0708491797388456, No, Maybe,0.08486629433522032
+3,International Studies,Bachelor,Fundamental Science,0.0,28.0,37.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0471414676541698, No, No,0.08186897228357021
+4,International Studies,Bachelor,Multidisciplinary Approach,1.0,28.0,36.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.040534656799715, Yes, Yes,0.08186897228357021
+5,International Studies,Bachelor,Knowledge of Vocabularies,0.0,28.0,34.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0597719695630299, No, Maybe,
+6,International Studies,Bachelor,Spelling and Grammar,0.0,28.0,31.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0527118340135437, No, No.,
+7,International Studies,Bachelor,Multimedia,0.0,28.0,30.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.057757251033927, No, Maybe,0.0514365040083636
+8,International Studies,Bachelor,Social Sciences,1.0,28.0,29.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0382627543166413, Yes, Yes,0.08186897228357021
+9,International Studies,Bachelor,Illustration,0.0,28.0,29.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0938729511623112, No, No,0.0514365040083636
+10,International Studies,Bachelor,Data Collection,0.0,28.0,27.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0382627543166413, No, Maybe,0.07551827619801357
+11,International Studies,Bachelor,International Relations,1.0,28.0,26.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0559287846043, Yes, Yes,0.07551827619801357
+12,International Studies,Bachelor,Multimethodology,1.0,28.0,26.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0801525787793887," No. A Bachelor of International Studies degree typically focuses on the study of international relations, politics, economics, and culture. It does not typically teach multimethodology.", Yes,0.0514365040083636
+13,International Studies,Bachelor,Quantitative Research,0.0,28.0,26.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0532129826342207, No, Maybe,0.09328218366046666
+14,International Studies,Bachelor,Linguistics,0.0,28.0,22.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0571288073559231," It depends on the program. Some Bachelor of International Studies programs may include courses in linguistics, while others may not.", Maybe,0.0514365040083636
+15,International Studies,Bachelor,Cultural Studies,1.0,28.0,12.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0590773609882249, Yes, Yes,0.10816710006749095
+16,International Studies,Bachelor,Knowledge of Laws,1.0,28.0,12.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0419194390133497," No. A Bachelor of International Studies degree typically focuses on international relations, economics, and culture, rather than law.", Maybe,
+17,International Studies,Bachelor,Intercultural Communication,1.0,28.0,9.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.082238117824811, Yes, Yes,0.08186897228357021
+18,International Studies,Bachelor,Climate Change,0.0,28.0,8.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0450186160374804, No, Yes,0.08186897228357021
+19,International Studies,Bachelor,Governance,0.0,28.0,8.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.040534656799715, No, Yes,0.0514365040083636
+20,International Studies,Bachelor,Economic Growth,0.0,28.0,7.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0636657147362121, No, Yes,0.07213356187306436
+21,International Studies,Bachelor,Knowledge of Politics,1.0,28.0,7.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0604918421019486, Yes, Yes,
+22,International Studies,Bachelor,Economic Development,1.0,28.0,7.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0620152330540868," No. A Bachelor of International Studies degree typically focuses on international relations, global studies, and foreign languages. It does not typically include courses in economic development.", Yes,0.08486629433522032
+23,International Studies,Bachelor,Knowledge of Sociology,1.0,28.0,6.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0527118340135437, Yes, Yes,
+24,International Studies,Bachelor,Case Studies,0.0,28.0,5.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0410770006760434, Yes, Yes,0.10816710006749095
+25,International Studies,Bachelor,Islam,0.0,28.0,5.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0620152330540868, No, Maybe,0.0514365040083636
+26,International Studies,Bachelor,Qualitative Research,0.0,28.0,5.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0597719695630299, No, Yes,0.09328218366046666
+27,International Studies,Bachelor,Nuclear Power,0.0,28.0,5.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0482948606711642, No, Maybe,0.08186897228357021
+28,International Studies,Bachelor,Knowledge of Finance,1.0,28.0,4.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0375599238047727, No, Maybe,
+29,International Studies,Bachelor,Geography,0.0,28.0,4.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0486947593872142, Yes, Yes,0.0514365040083636
+30,International Studies,Bachelor,Interviewing,0.0,28.0,4.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0765436487818283, No, Maybe,
+31,International Studies,Bachelor,Visual Perception,0.0,28.0,4.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0801525787793887, No, Maybe,0.08186897228357021
+32,International Studies,Bachelor,Cisco Nexus Switches,0.0,28.0,4.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0708491797388456, No, No,0.10021481729295319
+33,International Studies,Bachelor,Mentoring,0.0,28.0,4.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0437201628831502, No. A Bachelor of International Studies degree does not typically teach mentoring., Maybe,0.0514365040083636
+34,International Studies,Bachelor,Sustainability,0.0,28.0,3.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0427993311237907," It depends on the specific program. Some Bachelor of International Studies programs may include courses related to sustainability, while others may not.", Yes,0.0514365040083636
+35,International Studies,Bachelor,Immigration,0.0,28.0,3.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0721266754394489, No, Maybe,0.0514365040083636
+36,International Studies,Bachelor,Surveys,0.0,28.0,3.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0597719695630299, No, No,0.0514365040083636
+37,International Studies,Bachelor,Blended Learning,0.0,28.0,3.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.082238117824811, No, Maybe,0.08186897228357021
+38,International Studies,Bachelor,Economic Order Quantity,1.0,28.0,3.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0845695521217681, No, No,0.09402806386651882
+39,International Studies,Bachelor,Literature Reviews,1.0,28.0,3.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0845695521217681, No, Maybe,0.08186897228357021
+40,International Studies,Bachelor,Foreign Policies,1.0,28.0,3.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0636657147362121, No, Yes,0.08186897228357021
+41,International Studies,Bachelor,Content Analysis,0.0,28.0,3.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.064545606846653, No, Maybe,0.08776130813528539
+42,International Studies,Bachelor,Knowledge of Socioeconomics,1.0,28.0,3.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0674475219304276, Yes, Yes,
+43,International Studies,Bachelor,Psychology,0.0,28.0,3.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0434084349730006, No, Maybe,0.0514365040083636
+44,International Studies,Bachelor,Consulting,0.0,28.0,3.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0373310852653625, No, Maybe,0.0514365040083636
+45,International Studies,Bachelor,Justice,0.0,28.0,2.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0400067771645826," No. A Bachelor of International Studies degree does not typically teach justice. It may include courses related to international law, but it is not focused on justice.", Maybe,0.0514365040083636
+46,International Studies,Bachelor,Food Production,0.0,28.0,2.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0902640211647508, No, Maybe,0.08186897228357021
+47,International Studies,Bachelor,Gender Studies,0.0,28.0,2.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0734923419459524, No, Yes,0.10816710006749095
+48,International Studies,Bachelor,Data Analysis,0.0,28.0,2.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0364413034154223, No, Maybe,0.08776130813528539
+49,International Studies,Bachelor,Cultural Activities,0.0,28.0,2.0,International Studies (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0612388859741605, No, Maybe,0.08186897228357021
+0,Biology,Master,Biology,1.0,6.0,27.0,Master in Biology - Catalogue des formations,0.03381018622269, Yes, Yes,0.050088129647436766
+1,Biology,Master,Physiology,1.0,6.0,14.0,Master in Biology - Catalogue des formations,0.0525870482435449, Yes, Yes,0.050088129647436766
+2,Biology,Master,Ecology,0.0,6.0,13.0,Master in Biology - Catalogue des formations,0.0421406484687289, Yes, Yes,0.050088129647436766
+3,Biology,Master,Google Analytics,0.0,6.0,9.0,Master in Biology - Catalogue des formations,0.0604822010816788, No, No,0.0797219340983193
+4,Biology,Master,Site Maps,0.0,6.0,9.0,Master in Biology - Catalogue des formations,0.0613180954366605," No, a master's degree in biology does not typically teach site maps. Site maps are typically taught in courses related to web design or computer programming.", No,0.0797219340983193
+5,Biology,Master,Administrative Operations,0.0,6.0,9.0,Master in Biology - Catalogue des formations,0.0354643973600553, No, Maybe,0.0797219340983193
+6,Biology,Master,Continuous Training,0.0,6.0,8.0,Master in Biology - Catalogue des formations,0.0661664497999358, No. A Master's degree in Biology does not typically include courses in Continuous Training., Maybe,0.0797219340983193
+7,Biology,Master,Infectious Diseases,1.0,6.0,8.0,Master in Biology - Catalogue des formations,0.0621928823115544, Yes, Yes,0.0797219340983193
+8,Biology,Master,Search Engines,0.0,6.0,8.0,Master in Biology - Catalogue des formations,0.0542721624719643, No, No,0.0797219340983193
+9,Biology,Master,Biotechnology,1.0,6.0,7.0,Master in Biology - Catalogue des formations,0.047861199373307, Yes, Yes,0.050088129647436766
+10,Biology,Master,Execution of Experiments,1.0,6.0,7.0,Master in Biology - Catalogue des formations,0.0348268947272707, Yes, Yes,
+11,Biology,Master,Knowledge of Statistics,1.0,6.0,6.0,Master in Biology - Catalogue des formations,0.0302174829267262, Yes, Yes.,
+12,Biology,Master,Sciences,0.0,6.0,5.0,Master in Biology - Catalogue des formations,0.0673064671180006, Yes, Yes,0.050088129647436766
+13,Biology,Master,Oncology,1.0,6.0,4.0,Master in Biology - Catalogue des formations,0.0621928823115544," No, a master's degree in biology does not typically teach oncology. Oncology is a specialty field that requires additional training and education beyond a master's degree in biology.", Yes,0.050088129647436766
+14,Biology,Master,Business Planning,0.0,6.0,4.0,Master in Biology - Catalogue des formations,0.0685200834602502, No, Maybe,0.0797219340983193
+15,Biology,Master,European Train Control Systems,0.0,6.0,4.0,Master in Biology - Catalogue des formations,0.0857504969691664, No, No,0.11575564381348458
+16,Biology,Master,Cell Biology,1.0,6.0,3.0,Master in Biology - Catalogue des formations,0.0561232814469984, Yes, Yes,0.10930368052674107
+17,Biology,Master,Nervous Systems,1.0,6.0,3.0,Master in Biology - Catalogue des formations,0.0589142493922407, Yes, Yes,0.10802853952841382
+18,Biology,Master,Microbiology,1.0,6.0,3.0,Master in Biology - Catalogue des formations,0.0743524000826968, Yes, Yes,
+19,Biology,Master,Pharmaceuticals,1.0,6.0,3.0,Master in Biology - Catalogue des formations,0.0673064671180006," No, a Master's degree in Biology does not typically teach Pharmaceuticals. However, some universities may offer courses in Pharmaceuticals as part of a Biology degree program.", Maybe,
+20,Biology,Master,Molecular Biology,1.0,6.0,3.0,Master in Biology - Catalogue des formations,0.0510405997316063, Yes, Yes,0.10930368052674107
+21,Biology,Master,Control Systems,0.0,6.0,2.0,Master in Biology - Catalogue des formations,0.0548691817162942, No, Maybe,0.11626817594305591
+22,Biology,Master,Sales,0.0,6.0,2.0,Master in Biology - Catalogue des formations,0.0581767224455658, No, No,0.050088129647436766
+23,Biology,Master,Project Management,0.0,6.0,2.0,Master in Biology - Catalogue des formations,0.0409463089366495, No, Maybe,0.0797219340983193
+24,Biology,Master,Pharmacology,1.0,6.0,2.0,Master in Biology - Catalogue des formations,0.0554857788142138, Yes, Yes,
+25,Biology,Master,Physics,1.0,6.0,2.0,Master in Biology - Catalogue des formations,0.0392860082504375, No, No,
+26,Biology,Master,Structural Biology,1.0,6.0,2.0,Master in Biology - Catalogue des formations,0.0554857788142138, Yes, Yes,0.10930368052674107
+27,Biology,Master,Imaging,0.0,6.0,2.0,Master in Biology - Catalogue des formations,0.0451424177995295," No, a Master's degree in Biology does not typically teach Imaging.", Maybe,0.050088129647436766
+28,Biology,Master,Anatomy,1.0,6.0,2.0,Master in Biology - Catalogue des formations,0.0567831571064249, Yes, Yes,0.050088129647436766
+29,Biology,Master,Biochemistry,1.0,6.0,2.0,Master in Biology - Catalogue des formations,0.0581767224455658, Yes, Yes,0.050088129647436766
+30,Biology,Master,Molecular and Cellular Biology,1.0,6.0,2.0,Master in Biology - Catalogue des formations,0.0987848016152028, Yes, Yes,
+31,Biology,Master,Pathology,1.0,6.0,2.0,Master in Biology - Catalogue des formations,0.0650916128822233," No, a master's degree in biology does not typically teach pathology. Pathology is a medical specialty that requires additional training beyond a master's degree in biology.", Yes,0.050088129647436766
+32,Biology,Master,Optics and Eyewear,0.0,6.0,2.0,Master in Biology - Catalogue des formations,0.0466475830310575, No, No,
+33,Biology,Master,Economy,0.0,6.0,2.0,Master in Biology - Catalogue des formations,0.025600963007906, No, No,0.050088129647436766
+34,Biology,Master,Innovation,0.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0319281641566018," No. A Master's degree in Biology typically focuses on advanced topics in the field of biology, such as genetics, cell biology, and biochemistry. It does not typically teach innovation.", Maybe,0.050088129647436766
+35,Biology,Master,Physical Therapy,1.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0613180954366605, No, No,0.0797219340983193
+36,Biology,Master,Accounting,0.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0531321451538994, No, No,0.050088129647436766
+37,Biology,Master,Operations Research,0.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0510405997316063, No, No,0.09931003452764989
+38,Biology,Master,Artificial Intelligence,0.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0354643973600553, No, No,0.0797219340983193
+39,Biology,Master,Knowledge of Electrical Engineering,0.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0482837907906242, No, No,
+40,Biology,Master,Applied Mathematics,1.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0510405997316063, No, Maybe,0.0735381279385228
+41,Biology,Master,Applied Mechanics,0.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0631103582551206, No, No,0.0735381279385228
+42,Biology,Master,Architecture,0.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0359017316449831, No, No,0.050088129647436766
+43,Biology,Master,Automation,0.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0462598470948492, No. A Master's degree in Biology typically focuses on the study of living organisms and their interactions with the environment. Automation is not typically a part of this curriculum., No,0.050088129647436766
+44,Biology,Master,Banking Services,0.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0531321451538994, No, No,0.0797219340983193
+45,Biology,Master,Raw Materials,0.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0434160202906995," No, a Master's degree in Biology does not typically teach Raw Materials.", Maybe,0.0797219340983193
+46,Biology,Master,Fundamental Science,0.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0447842255091063, Yes, Yes,0.0797219340983193
+47,Biology,Master,Biopharmaceuticals,1.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0604822010816788, Yes. Many master's degree programs in biology offer courses in biopharmaceuticals., Yes,0.050088129647436766
+48,Biology,Master,Biomaterial,1.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0604822010816788," No. A Master's degree in Biology typically does not teach Biomaterials. However, some universities may offer courses in Biomaterials as part of a Biology degree program.", Yes,
+49,Biology,Master,Corporate Finance,0.0,6.0,1.0,Master in Biology - Catalogue des formations,0.0567831571064249, No, No,0.0797219340983193
+0,Medicine,Bachelor,Clinical Works,1.0,72.0,19.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.059268470119712, Yes, Yes,0.08714445788429044
+1,Medicine,Master,Knowledge of Medicine,1.0,72.0,12.0,Medicine (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0460173331694905, Yes, Yes,
+2,Medicine,Bachelor,Anatomy,1.0,72.0,10.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.059268470119712, Yes, Yes,0.05291852281922457
+3,Medicine,Bachelor,Physiology,1.0,72.0,7.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0548887039102964, Yes, Yes,0.05291852281922457
+4,Medicine,Bachelor,Clinical Medicine,1.0,72.0,7.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1110667589292511, Yes, Yes,0.08953956135223667
+5,Medicine,Bachelor,Oncology,1.0,72.0,7.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0649149708254608, No, Yes,0.05291852281922457
+6,Medicine,Bachelor,Immune Systems,1.0,72.0,6.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0679405744545579, Yes, Yes,0.0842277756655424
+7,Medicine,Bachelor,Psychology,1.0,72.0,5.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0430427765715126, No, Maybe,0.05291852281922457
+8,Medicine,Bachelor,Life Support,0.0,72.0,4.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1110667589292511, No, Yes,0.0842277756655424
+9,Medicine,Bachelor,Diagnostic Tests,1.0,72.0,4.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0930821962482877, No, Yes.,0.07769412413789557
+10,Medicine,Bachelor,Infectious Diseases,1.0,72.0,4.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0649149708254608, No, Yes,0.0842277756655424
+11,Medicine,Bachelor,Mentoring,0.0,72.0,4.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0433518785881142, No. A Bachelor of Medicine degree does not typically teach mentoring., Maybe,0.05291852281922457
+12,Medicine,Bachelor,Innovation,0.0,72.0,4.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0333256116729498, No, Maybe,0.05291852281922457
+13,Medicine,Bachelor,Imaging,0.0,72.0,3.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0471182332371625, No, Maybe,0.05291852281922457
+14,Medicine,Bachelor,Maintenance,0.0,72.0,3.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0572707229178928, No, No.,0.05291852281922457
+15,Medicine,Bachelor,Diagnostic Skills,1.0,72.0,3.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0631294156622069, Yes, Yes,0.07769412413789557
+16,Medicine,Bachelor,Health Care,1.0,72.0,3.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0679405744545579, Yes, Yes,0.13053285092973227
+17,Medicine,Bachelor,Medical Microbiology,1.0,72.0,3.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1110667589292511, Yes, Yes,0.07539051555877564
+18,Medicine,Bachelor,Academic Writing,0.0,72.0,3.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0404602520826486, No, Yes.,0.0842277756655424
+19,Medicine,Bachelor,Knowledge of Statistics,1.0,72.0,3.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0315400565096959, Yes, Yes.,
+20,Medicine,Bachelor,Pre-Clinical Development,1.0,72.0,3.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0815453709261056, No, Maybe,0.10509718966111321
+21,Medicine,Bachelor,Clinical Research,1.0,72.0,3.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0566475730430603, No, Yes,0.09110132116835817
+22,Medicine,Bachelor,Cell Biology,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0585797126994414, Yes, Yes,0.09596979071346023
+23,Medicine,Bachelor,Immunology,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.07947739977674, Yes, Yes,0.05291852281922457
+24,Medicine,Bachelor,Transplanting,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0930821962482877," No, a Bachelor of Medicine degree does not teach transplanting. Transplanting is a specialized field of medicine that requires additional training and certification.", No.,0.05291852281922457
+25,Medicine,Bachelor,Molecular Biology,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0532745696829634, No, Yes,0.09596979071346023
+26,Medicine,Bachelor,Epidemiology,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0776066923220015, Yes, Yes,0.05291852281922457
+27,Medicine,Bachelor,Pathology,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0679405744545579, Yes, Yes,0.05291852281922457
+28,Medicine,Bachelor,Neurology,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0743278261802579, No, Yes,0.05291852281922457
+29,Medicine,Bachelor,Medical Research,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0614928370957767," No. A Bachelor of Medicine degree does not teach Medical Research. Medical Research is typically taught at the graduate level, such as a Master's or Doctoral degree in a related field.", Yes,0.07897136817280806
+30,Medicine,Bachelor,Clinical Study Design,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0658726033051923, No, Yes,0.1056221195218031
+31,Medicine,Bachelor,Knowledge of Finance,0.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0372435313407963, No, No,
+32,Medicine,Bachelor,Differential Diagnosis,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1031084631634522, Yes, Yes,0.0842277756655424
+33,Medicine,Bachelor,Laboratory Techniques,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0585797126994414, Yes, Yes,0.0842277756655424
+34,Medicine,Bachelor,Clinical Practices,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0864780630628074, Yes, Yes,0.08714445788429044
+35,Medicine,Bachelor,Population Health,0.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0895036666919045, No, Yes,0.09596979071346023
+36,Medicine,Bachelor,Knowledge of Cardiovascular Disease,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0895036666919045, Yes, Yes,
+37,Medicine,Bachelor,Biology,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.035290007002, Yes, Yes,0.05291852281922457
+38,Medicine,Bachelor,Fundamental Science,0.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0467443634112515, Yes, Yes,0.0842277756655424
+39,Medicine,Bachelor,Nutrition and Dietetics,1.0,72.0,2.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.070252369514608, Yes, Yes,
+40,Medicine,Master,Cardiology,1.0,72.0,1.0,Medicine (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0974619624577034, Yes, Yes,0.05291852281922457
+41,Medicine,Master,Endocrinology,1.0,72.0,1.0,Medicine (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0743278261802579, Yes, Yes,0.05291852281922457
+42,Medicine,Master,Public Health,1.0,72.0,1.0,Medicine (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0622940737488091, No, Yes,0.09596979071346023
+43,Medicine,Master,Databases,0.0,72.0,1.0,Medicine (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0381783543206897," No, a Master of Medicine degree does not typically teach databases.", No.,0.05291852281922457
+44,Medicine,Master,Primary Care,0.0,72.0,1.0,Medicine (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0864780630628074, No, Yes,0.11316828221636517
+45,Medicine,Master,Biomedical Sciences,1.0,72.0,1.0,Medicine (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0864780630628074, Yes, Yes,0.0842277756655424
+46,Medicine,Bachelor,Genomics,1.0,72.0,1.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.059982278688759, No. Bachelor of Medicine degrees typically do not teach genomics., Maybe,0.05291852281922457
+47,Medicine,Bachelor,Medical Genetics,1.0,72.0,1.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1031084631634522, Yes, Yes,0.07539051555877564
+48,Medicine,Bachelor,Histology,1.0,72.0,1.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0895036666919045, No, Yes,0.05291852281922457
+49,Medicine,Bachelor,Buffers,0.0,72.0,1.0,Medicine (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0728732665912597, No, Maybe,0.05291852281922457
+0,Psychology,Master,Public Relations,0.0,57.0,3.0,Master&#39;s Programme in Psychology with Specialisation in Health Psychology,0.141597003928256," No. Master's degrees in psychology typically focus on clinical or counseling psychology, not public relations.", No,0.08540717050262273
+1,Psychology,Master,Health Psychology,1.0,57.0,3.0,Master&#39;s Programme in Psychology with Specialisation in Health Psychology,0.2272666885558812, Yes. Many master's degree programs in psychology offer courses in health psychology., Yes,0.089551778566096
+2,Psychology,Master,Psychology,1.0,57.0,2.0,Psychology - master | UiT,0.1003693035824476, Yes, Yes,0.05366026441885735
+3,Psychology,Master,Knowledge of Statistics,1.0,57.0,2.0,Psychology - master | UiT,0.0735466844609735, Yes, Yes.,
+4,Psychology,Master,Behavioural Science,1.0,57.0,2.0,Master&#39;s Programme in Psychology with Specialisation in Health Psychology,0.1955423423125228, Yes, Yes,0.09731286444517569
+5,Psychology,Master,Curriculum Development,0.0,57.0,2.0,Master&#39;s Programme in Psychology with Specialisation in Health Psychology,0.1365991099095161," No, a master's degree in psychology does not typically teach curriculum development.", Maybe,0.08540717050262273
+6,Psychology,Master,Databases,0.0,57.0,1.0,Psychology - master | UiT,0.0890261999879366, No, No,0.05366026441885735
+7,Psychology,Master,Information Literacy,1.0,57.0,1.0,Psychology - master | UiT,0.2404334818869809, No, Yes,0.08540717050262273
+8,Psychology,Master,Quality Management,0.0,57.0,1.0,Psychology - master | UiT,0.1154839890520033, No, No,0.1079129389822472
+9,Psychology,Master,Reference Management,0.0,57.0,1.0,Psychology - master | UiT,0.2272666885558812, No, Maybe,0.1079129389822472
+10,Psychology,Master,Administrative Operations,0.0,57.0,1.0,Psychology - master | UiT,0.0863172107538989, No, Maybe,0.08540717050262273
+11,Psychology,Master,Data Analysis,1.0,57.0,1.0,Psychology - master | UiT,0.0842598505962625," No. Master's degrees in psychology typically focus on topics such as clinical psychology, counseling psychology, and research methods. Data analysis is not typically a focus of these degrees.", Yes.,0.11138653095925717
+12,Psychology,Master,Analysis of Variance (ANOVA),1.0,57.0,1.0,Psychology - master | UiT,0.141597003928256, Yes, Yes,
+13,Psychology,Master,Confidence Intervals,0.0,57.0,1.0,Psychology - master | UiT,0.1610432946099108, No, No,0.08540717050262273
+14,Psychology,Master,SPSS (Software),0.0,57.0,1.0,Psychology - master | UiT,0.1809671745677266, Yes, Yes,
+15,Psychology,Master,Linear Regression,1.0,57.0,1.0,Psychology - master | UiT,0.1254488787327564," No. Linear regression is typically taught in statistics courses, not psychology courses.", Maybe,0.08540717050262273
+16,Psychology,Master,Regression Analysis,1.0,57.0,1.0,Psychology - master | UiT,0.1667718310525927, Yes, Maybe,0.12075747634162709
+17,Psychology,Master,Probability and Statistics,1.0,57.0,1.0,Psychology - master | UiT,0.1335467419343161, Yes, Yes,
+18,Psychology,Master,Diagnostic Skills,1.0,57.0,1.0,Psychology - master | UiT,0.1472083352953617, Yes, Yes,0.08540717050262273
+19,Psychology,Master,Knowledge of Advertising,0.0,57.0,1.0,Psychology - master | UiT,0.1667718310525927, No. A master's degree in psychology does not typically teach knowledge of advertising., No,
+20,Psychology,Master,Applied Psychology,1.0,57.0,1.0,Psychology - master | UiT,0.2589910347992397, Yes, Yes,0.089551778566096
+21,Psychology,Master,Career Counseling,0.0,57.0,1.0,Psychology - master | UiT,0.2589910347992397, Yes, Yes,0.08540717050262273
+22,Psychology,Master,Consulting,0.0,57.0,1.0,Psychology - master | UiT,0.0863172107538989," No, a master's degree in psychology does not typically teach consulting. However, some programs may offer courses related to consulting, such as counseling or clinical psychology.", Yes,0.05366026441885735
+23,Psychology,Master,Data Collection,0.0,57.0,1.0,Psychology - master | UiT,0.0884714228074855," No. A master's degree in psychology typically does not teach data collection. However, some programs may offer courses in research methods or statistics that may include instruction in data collection.", Yes.,0.07878248769005416
+24,Psychology,Master,Empirical Research,1.0,57.0,1.0,Psychology - master | UiT,0.1135360969135472, Yes, Yes,0.08540717050262273
+25,Psychology,Master,Event Management,0.0,57.0,1.0,Psychology - master | UiT,0.1809671745677266, No, No,0.1079129389822472
+26,Psychology,Master,Independent Studies,0.0,57.0,1.0,Psychology - master | UiT,0.1081453373323881, No. Master's degree programs in psychology typically do not include independent studies as part of the curriculum., Maybe,0.09155375022299525
+27,Psychology,Master,Microsoft PowerPoint,0.0,57.0,1.0,Psychology - master | UiT,0.1196476360682706, No. A master's degree in psychology does not typically teach Microsoft PowerPoint., No,0.08540717050262273
+28,Psychology,Master,Scientific Reasoning,1.0,57.0,1.0,Psychology - master | UiT,0.2087091356436225, Yes, Yes,0.07878248769005416
+29,Psychology,Master,Scientific Studies,1.0,57.0,1.0,Psychology - master | UiT,0.0879232898249122, Yes, Yes,0.09155375022299525
+30,Psychology,Master,Biology,1.0,57.0,1.0,Master&#39;s Programme in Psychology with Specialisation in Health Psychology,0.0822910069550369, No, Maybe,0.05366026441885735
+31,Psychology,Master,Health Impact Assessments,0.0,57.0,1.0,Master&#39;s Programme in Psychology with Specialisation in Health Psychology,0.2170537302082098, No, Maybe,0.10028974812865762
+32,Psychology,Master,Risk Analysis,0.0,57.0,1.0,Master&#39;s Programme in Psychology with Specialisation in Health Psychology,0.1116677331304631," No, a master's degree in psychology does not typically teach risk analysis.", Maybe,0.11138653095925717
+33,Psychology,Master,Sustainability,0.0,57.0,1.0,Master&#39;s Programme in Psychology with Specialisation in Health Psychology,0.098960929168751," No. Master's degrees in psychology typically focus on topics such as clinical psychology, counseling psychology, and educational psychology. Sustainability is not typically a topic covered in these programs.", Maybe,0.05366026441885735
+34,Psychology,Master,Psychosomatics,1.0,57.0,1.0,Master&#39;s Programme in Psychology with Specialisation in Health Psychology,0.2589910347992397," No, master's degree programs in psychology typically do not teach psychosomatics. Psychosomatics is a specialty area of medicine, and is typically taught in medical school.", Maybe,0.05366026441885735
+35,Psychology,Master,Epidemiology,0.0,57.0,1.0,Master&#39;s Programme in Psychology with Specialisation in Health Psychology,0.1809671745677266, No. Master's degrees in psychology typically do not include courses in epidemiology., Maybe,0.05366026441885735
+36,Psychology,Master,Cognitive Science,1.0,57.0,1.0,Master&#39;s Programme in Psychology with Specialisation in Health Psychology,0.1667718310525927, Yes, Yes,0.09731286444517569
+37,Psychology,Master,Grading of Landscape,0.0,57.0,1.0,Master&#39;s Programme in Psychology with Specialisation in Health Psychology,0.1306852754121094, No. Master Psychology degrees do not typically teach Grading of Landscape., No,
+38,Psychology,Master,Causal Inference,0.0,57.0,1.0,Master&#39;s Programme in Psychology with Specialisation in Health Psychology,0.1667718310525927, No. Master's degrees in psychology typically do not teach causal inference., Maybe,0.08540717050262273
+0,Business Studies,Master,Knowledge of Finance,1.0,201.0,8.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0415474984156287, Yes, Yes,
+1,Business Studies,Master,Risk Analysis,1.0,201.0,4.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.053422117085425, Yes, Yes.,0.0770999789612817
+2,Business Studies,Master,Marketing,1.0,201.0,4.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.061866501695084, Yes, Yes.,0.05818767513132247
+3,Business Studies,Master,Artificial Intelligence,0.0,201.0,3.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.041294365078538, No, Maybe,0.07901657489458244
+4,Business Studies,Master,Business Ethics,1.0,201.0,3.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0935479355882804, Yes, Yes.,0.06669591437730436
+5,Business Studies,Master,Business Development,1.0,201.0,3.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0724167271583906, Yes, Yes.,0.06669591437730436
+6,Business Studies,Master,Business Analysis,1.0,201.0,3.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0865751396339422, Yes, Yes.,0.0770999789612817
+7,Business Studies,Master,Business Model,1.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0677403535537258, Yes, Yes.,0.06669591437730436
+8,Business Studies,Master,Calculations,0.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0490681204828263, No, No.,0.04874385959661688
+9,Business Studies,Master,Cash Management,1.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0964717108915217," No, a Master of Business Studies degree does not typically teach Cash Management. Cash Management is usually taught in a Master of Finance or Master of Accounting degree program.", Yes,0.14051770208603673
+10,Business Studies,Master,Financial Management,1.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0846699568140591, Yes, Yes,0.14051770208603673
+11,Business Studies,Master,Market Research,1.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0661177009737021, Yes, Yes.,0.07758356684176329
+12,Business Studies,Master,Multidisciplinary Approach,0.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.04483804594274, Yes, Yes,0.07758356684176329
+13,Business Studies,Master,Business Process Modeling,1.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0812947059326119, No, Yes,0.08538967882404064
+14,Business Studies,Master,Machine Learning,0.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0454379681220182, No, Maybe,0.07758356684176329
+15,Business Studies,Master,Customer Relationship Management,1.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1038390362546723, No, Yes,0.13856185408962043
+16,Business Studies,Master,Information Technology,0.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0405520638295003, No. A Master of Business Studies degree typically does not include courses in Information Technology., Maybe,0.07758356684176329
+17,Business Studies,Master,Simulations,0.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0431310164190331, No, Maybe,0.04874385959661688
+18,Business Studies,Master,Business Processes,1.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0886620312957625, Yes, Yes.,0.06669591437730436
+19,Business Studies,Master,Business Intelligence,1.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1038390362546723, No, Yes,0.07901657489458244
+20,Business Studies,Master,Decision Trees,0.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0734850263368527, No, No,0.07758356684176329
+21,Business Studies,Master,Business Process Improvement,1.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0909689829987477, Yes, Yes,0.08427367283452324
+22,Business Studies,Master,Linear Programming,0.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0704248282259968, No, Yes,0.07758356684176329
+23,Business Studies,Master,Data Science,0.0,201.0,2.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0451359524401061, No, Maybe,0.07758356684176329
+24,Business Studies,Master,Intellectual Capital,0.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1150239667318787, No, Yes,0.08839956989339255
+25,Business Studies,Master,Annuity Investments,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1087249405471902," No, a Master of Business Studies degree does not typically teach Annuity Investments.", Maybe,0.08839956989339255
+26,Business Studies,Master,Benchmarking Skills,0.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0783709306293706, Yes, Yes,0.07758356684176329
+27,Business Studies,Master,Corporate Finance,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0661177009737021, Yes, Yes,0.08839956989339255
+28,Business Studies,Master,Business Performance Management,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0685991220443348, Yes, Yes,0.137188544621802
+29,Business Studies,Master,Capital Budgeting,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1038390362546723, Yes, Yes,0.10118212533724494
+30,Business Studies,Master,Money Investments,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0661177009737021," No, a Master of Business Studies degree does not typically teach money investments.", Yes,0.08839956989339255
+31,Business Studies,Master,Capital Markets,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0783709306293706," No, a Master of Business Studies degree does not typically teach Capital Markets.", Yes.,0.10118212533724494
+32,Business Studies,Master,Equations,0.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.057767357123304, No, No.,0.04874385959661688
+33,Business Studies,Master,Financial Analysis,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0935479355882804, Yes, Yes,0.0770999789612817
+34,Business Studies,Master,Working Capital,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1087249405471902, Yes, Yes,0.08839956989339255
+35,Business Studies,Master,Value Creation,0.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0935479355882804, Yes, Yes.,0.07758356684176329
+36,Business Studies,Master,Financial Securities,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0865751396339422, No, Yes.,0.06944321734284822
+37,Business Studies,Master,Financial Stocks,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0797840525215412," No. A Master of Business Studies degree typically focuses on topics such as business strategy, management, economics, and marketing. It does not typically cover topics related to financial stocks.", Yes,0.07758356684176329
+38,Business Studies,Master,Accounting Control,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0998469617729689, No. A Master of Business Studies degree typically does not teach Accounting Control., Yes.,0.08839956989339255
+39,Business Studies,Master,Strategies of Marketing,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0886620312957625, Yes, Yes,0.03795315989994451
+40,Business Studies,Master,Neuroimaging,0.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0998469617729689, No, No,0.04874385959661688
+41,Business Studies,Master,Raw Materials,0.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.050553149795256," No, a Master of Business Studies degree does not typically teach Raw Materials.", No.,0.07758356684176329
+42,Business Studies,Master,Capacity Management,0.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1087249405471902, No. Master Business Studies degrees typically do not teach Capacity Management., Yes,0.14051770208603673
+43,Business Studies,Master,Manufacturing,0.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0557290687884102," No, a Master of Business Studies degree does not typically teach Manufacturing.", Maybe,0.04874385959661688
+44,Business Studies,Master,Operations Management,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0685991220443348, Yes, Yes,0.14051770208603673
+45,Business Studies,Master,Strategies of Pricing,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0734850263368527, Yes, Yes,
+46,Business Studies,Master,Supply Chain Management,1.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0865751396339422, Yes, Yes,0.13856185408962043
+47,Business Studies,Master,Stock Control,0.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0846699568140591, No., Maybe,0.08839956989339255
+48,Business Studies,Master,Risk Reduction,0.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0909689829987477," No. A Master of Business Studies degree does not typically teach risk reduction. However, some courses within the degree may cover topics related to risk management and risk reduction.", Yes,0.07156516462055496
+49,Business Studies,Master,Conceptual Models,0.0,201.0,1.0,Business Studies (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0694929518551493, Yes, Yes,0.07758356684176329
+0,Archaeology Research,Master,Innovation,1.0,114.0,5.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0478576350371468," No. Master's degrees in Archaeology typically focus on research and analysis of archaeological artifacts and sites, rather than teaching innovation.", Maybe,0.04645193499909822
+1,Archaeology Research,Master,Data Analysis,1.0,114.0,5.0,Archaeology: MSc Archaeological Science (Master 2022-2023) - Prospectus - Universiteit Leiden,0.051891133411282, No, Maybe,0.06820014963215144
+2,Archaeology Research,Master,Mentoring,0.0,114.0,4.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0622559730937724, Yes. Many master's degree programs in archaeology include courses in mentoring and research methods., Maybe,0.04645193499909822
+3,Archaeology Research,Master,Academic Standards,1.0,114.0,3.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0991779480554402, No, Yes,0.07393553583636531
+4,Archaeology Research,Master,Python (Programming Language),0.0,114.0,3.0,Archaeology: MSc Archaeological Science (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0631652908307953, No, Maybe,
+5,Archaeology Research,Master,Quantitative Research,0.0,114.0,3.0,Archaeology: MSc Archaeological Science (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0757734142932983, No, Maybe,0.08424291993120654
+6,Archaeology Research,Master,Multidisciplinary Approach,1.0,114.0,3.0,Archaeology: MSc Archaeological Science (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0577199245536416, Yes, Yes,0.07393553583636531
+7,Archaeology Research,Master,Peer Review,1.0,114.0,2.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0750597962967634, Yes, Yes,0.07393553583636531
+8,Archaeology Research,Master,Scientific Studies,1.0,114.0,2.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0541472496091241," No. Master's degrees in Archaeology typically focus on the study of the material remains of past cultures, including artifacts, architecture, and other physical evidence. They do not typically include scientific studies.", Yes,0.10177269651918493
+9,Archaeology Research,Master,Consulting,0.0,114.0,2.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0531581514472682," No, a Master's degree in Archaeology Research does not typically teach consulting.", Maybe,0.04645193499909822
+10,Archaeology Research,Master,Event Management,0.0,114.0,2.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1114479996357031, No, No,0.0934198889833471
+11,Archaeology Research,Master,Feedback Management,0.0,114.0,2.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0780295304911403, No, Maybe,0.0934198889833471
+12,Archaeology Research,Master,Case Studies,0.0,114.0,2.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0584922031442433, Yes, Yes,0.10177269651918493
+13,Archaeology Research,Master,Scheduling,0.0,114.0,2.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0641049246828951, No, Maybe,0.04645193499909822
+14,Archaeology Research,Master,Dynamical Systems,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0804820684265574, No, Maybe,0.07393553583636531
+15,Archaeology Research,Master,Raw Materials,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0650769660180425," No, a Master's degree in Archaeology Research does not typically teach Raw Materials.", Maybe,0.07393553583636531
+16,Archaeology Research,Master,Construction,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0525175237511908, No, Maybe,0.04645193499909822
+17,Archaeology Research,Master,Conceptual Models,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.089458134353389, No, Maybe,0.07393553583636531
+18,Archaeology Research,Master,Academic Writing,1.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0581034189765245, Yes, Yes,0.07393553583636531
+19,Archaeology Research,Master,Blended Learning,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1171041851849344, No, Maybe,0.07393553583636531
+20,Archaeology Research,Master,Biology,1.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0506786279614169, No, Maybe,0.04645193499909822
+21,Archaeology Research,Master,Cognition Processing,1.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0861382539757887, No, Maybe,0.07393553583636531
+22,Archaeology Research,Master,Cognitive Science,1.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1027058471283087, No, Maybe,0.07393553583636531
+23,Archaeology Research,Master,Elearning,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1008867382156378, No. Master's degrees in Archaeology Research typically focus on traditional classroom instruction., Maybe,0.04645193499909822
+24,Archaeology Research,Master,Design Methods,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0841240826564139, No, Maybe,0.07393553583636531
+25,Archaeology Research,Master,Project Planning,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0765055698802912, No, Maybe,0.07393553583636531
+26,Archaeology Research,Master,Laboratory Techniques,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0841240826564139, No, Yes,0.07393553583636531
+27,Archaeology Research,Master,Writing of Grant Proposals,1.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1336717783374545, Yes, Maybe,
+28,Archaeology Research,Master,Editing,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0711204095468732," No. Master's degrees in Archaeology Research typically focus on research methods, archaeological theory, and fieldwork. Editing is not typically part of the curriculum.", Maybe,0.04645193499909822
+29,Archaeology Research,Master,Geography,1.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0693396234209019, No, Maybe,0.04645193499909822
+30,Archaeology Research,Master,Research and Development,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0841240826564139," No. Master's degrees in Archaeology typically focus on the study of the past, rather than research and development.", Yes.,
+31,Archaeology Research,Master,Climate Change,1.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0641049246828951," No. Master's degrees in Archaeology typically focus on the study of past cultures and civilizations, and do not typically include courses on climate change.", Maybe,0.07393553583636531
+32,Archaeology Research,Master,Scientific Literature,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0573415778625374, No, Yes,0.07393553583636531
+33,Archaeology Research,Master,Knowledge of Vocabularies,1.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0851131808182698," No. Master's degrees in Archaeology typically focus on research methods, theories, and techniques, rather than on knowledge of specific vocabularies.", Maybe,
+34,Archaeology Research,Master,Prehistory,1.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0906577368937702, Yes, Yes,0.04645193499909822
+35,Archaeology Research,Master,Community Management,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1336717783374545, No, Maybe,0.0934198889833471
+36,Archaeology Research,Master,Environmental Protection,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0765055698802912, No, Maybe,0.07393553583636531
+37,Archaeology Research,Master,Sustainability,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0609447410796604, No, Maybe,0.04645193499909822
+38,Archaeology Research,Master,Museum Studies,1.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1141344509905575, Yes, Yes,0.10177269651918493
+39,Archaeology Research,Master,Economy,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0383736922117562, No, Maybe,0.04645193499909822
+40,Archaeology Research,Master,Microsoft PowerPoint,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0736845769560211, No, No,0.07393553583636531
+41,Archaeology Research,Master,Administrative Operations,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0531581514472682, No, Maybe,0.07393553583636531
+42,Archaeology Research,Master,Food Production,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1285327890471831, No, Maybe,0.07393553583636531
+43,Archaeology Research,Master,Social Engineering,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1336717783374545, No, No,0.07393553583636531
+44,Archaeology Research,Master,Data Collection,1.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0544848153836248, No, Maybe,0.06820014963215144
+45,Archaeology Research,Master,Field Research,1.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0622559730937724, Yes, Yes,0.08424291993120654
+46,Archaeology Research,Master,Simulations,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0555224689498664, No, Maybe,0.04645193499909822
+47,Archaeology Research,Master,Knowledge of Socioeconomics,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0960428972271882, No, Maybe,
+48,Archaeology Research,Master,Independent Studies,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0666009266288916, No. Master's degrees in Archaeology typically do not include Independent Studies courses., Maybe,0.10177269651918493
+49,Archaeology Research,Master,Target Market Selection,0.0,114.0,1.0,Archaeology: Research Master (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0796406207085432, No, Maybe,0.0905034818407357
+0,English Language Culture,Bachelor,Linguistics,1.0,66.0,18.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0991938663863835, Yes, Yes.,0.048427724711659154
+1,English Language Culture,Bachelor,Language Development,1.0,66.0,10.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1230168175018147, No. A Bachelor of English Language and Culture degree does not typically teach language development., Yes.,0.08757334376933602
+2,English Language Culture,Bachelor,Knowledge of Vocabularies,1.0,66.0,8.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1037832406608336, Yes., Yes.,
+3,English Language Culture,Master,Biology,0.0,66.0,7.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0617952729708298, No, No.,
+4,English Language Culture,Master,Business Economics,0.0,66.0,7.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1391704913500603, No, Maybe,0.07708033625952626
+5,English Language Culture,Master,Economy,0.0,66.0,7.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0467911796453809, No. A Master of English Language and Culture degree does not typically teach Economy., Maybe,0.048427724711659154
+6,English Language Culture,Master,Mathematics Education,0.0,66.0,7.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1567271866736366, No., No,0.08235935415131752
+7,English Language Culture,Master,Physics,0.0,66.0,7.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0718034969633156, No, No.,0.048427724711659154
+8,English Language Culture,Master,Religious Studies,0.0,66.0,7.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1002850454449433, No., Maybe,0.09739346758773035
+9,English Language Culture,Master,Social Sciences,1.0,66.0,7.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0664363692316154, No, Maybe,0.07110099095766162
+10,English Language Culture,Master,Art History,1.0,66.0,7.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1050331694401244, No, Maybe,0.07708033625952626
+11,English Language Culture,Bachelor,Phonetics,1.0,66.0,6.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1706627197326771, Yes, Yes,0.048427724711659154
+12,English Language Culture,Bachelor,Morphology,1.0,66.0,6.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1050331694401244, No., Yes.,0.048427724711659154
+13,English Language Culture,Bachelor,Independent Studies,0.0,66.0,6.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0812102183246932, No. Bachelor English Language Culture degrees typically do not include Independent Studies as part of the curriculum., Maybe,0.09739346758773035
+14,English Language Culture,Bachelor,Secondary Source,0.0,66.0,5.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1105440266167689, Yes, Maybe,0.07708033625952626
+15,English Language Culture,Master,Academic Writing,1.0,66.0,4.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0708487340842454, Yes, Yes.,0.07708033625952626
+16,English Language Culture,Master,Cinematography,0.0,66.0,4.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1358947516255661, No, No,0.048427724711659154
+17,English Language Culture,Master,Design Research,0.0,66.0,4.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1105440266167689, No., Maybe,0.08782615147734736
+18,English Language Culture,Bachelor,Punctuation,0.0,66.0,4.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1805501377890678, No., Yes.,0.048427724711659154
+19,English Language Culture,Bachelor,Editing,0.0,66.0,4.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0867210755013377, Yes, Maybe,0.048427724711659154
+20,English Language Culture,Bachelor,Lexis,0.0,66.0,4.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1805501377890678, No. A Bachelor of English Language and Culture degree does not typically teach Lexis. Lexis is a legal research tool used by lawyers and legal professionals., Yes.,0.048427724711659154
+21,English Language Culture,Bachelor,Surveys,0.0,66.0,4.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1037832406608336, Yes, No.,0.048427724711659154
+22,English Language Culture,Bachelor,Peer Review,1.0,66.0,4.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0915245891191979, Yes, Maybe,0.07708033625952626
+23,English Language Culture,Bachelor,Word Order,1.0,66.0,4.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1706627197326771, Yes, Maybe.  It depends on the specific program and curriculum.,0.07110099095766162
+24,English Language Culture,Bachelor,Assembly and Installation,0.0,66.0,4.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.106330276337233, No., No.,
+25,English Language Culture,Bachelor,Social Issue,0.0,66.0,4.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1252349582910199, No, Maybe,0.07110099095766162
+26,English Language Culture,Master,Deep Reactive-Ion Etching,0.0,66.0,3.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1391704913500603, No, No,0.06765882194650034
+27,English Language Culture,Master,Foreign Languages,1.0,66.0,3.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1252349582910199, No, Maybe,0.07708033625952626
+28,English Language Culture,Bachelor,Course Evaluations,0.0,66.0,3.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1252349582910199, No. Bachelor English Language Culture degrees typically do not teach Course Evaluations., Maybe,0.07708033625952626
+29,English Language Culture,Bachelor,Study Skills,0.0,66.0,3.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1629934424654915, Yes, Yes,0.07708033625952626
+30,English Language Culture,Bachelor,Mentoring,0.0,66.0,3.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0759121745427526, Yes, Maybe,0.048427724711659154
+31,English Language Culture,Bachelor,Feedback Management,0.0,66.0,3.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0951457513837337, No, Maybe,0.07708033625952626
+32,English Language Culture,Bachelor,New Media,0.0,66.0,3.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0961139633936481," No. Bachelor English Language Culture degrees typically focus on the study of language, literature, and culture, and do not typically include courses in New Media.", Maybe,0.07708033625952626
+33,English Language Culture,Master,Word Formation,1.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1629934424654915, No., Maybe,0.07110099095766162
+34,English Language Culture,Master,Television,0.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1050331694401244, No. A Master of English Language and Culture degree does not typically teach Television., Maybe,0.048427724711659154
+35,English Language Culture,Master,Spelling and Grammar,1.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0915245891191979, Yes., Yes.,
+36,English Language Culture,Master,Primary Research,0.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1252349582910199, No. A Master of English Language and Culture degree does not typically teach primary research., Maybe,0.08782615147734736
+37,English Language Culture,Master,Semantics,1.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1189687024991649, No., Maybe,0.048427724711659154
+38,English Language Culture,Master,Content Analysis,1.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1120718005101349, No., Maybe,0.07708033625952626
+39,English Language Culture,Master,Gender Studies,0.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1276061917762648, No., Maybe,0.09739346758773035
+40,English Language Culture,Master,Vulnerability,0.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1136706587172243, No. A Master's degree in English Language and Culture does not typically teach Vulnerability., Maybe,0.048427724711659154
+41,English Language Culture,Master,Science Fiction,1.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1468397686172459, No., No,0.07708033625952626
+42,English Language Culture,Master,Language Education,1.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1629934424654915, Yes., Yes.,0.08757334376933602
+43,English Language Culture,Master,Knowledge of Pedagogy,0.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1427916536145961," No. A Master of English Language and Culture degree does not typically teach knowledge of pedagogy. Pedagogy is the study of teaching and learning, and is usually studied in education-related degrees.", Maybe,
+44,English Language Culture,Master,Second-Language Acquisition,0.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1301532274526642, No, Yes,0.051049243968731894
+45,English Language Culture,Master,Innovation,0.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.0583554792191764, No. A Master of English Language and Culture degree does not typically teach innovation., Maybe,0.048427724711659154
+46,English Language Culture,Master,Curriculum Development,0.0,66.0,2.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1025771781969215, Yes. Master English Language Culture degree programs typically include courses in curriculum development., Maybe,0.08235935415131752
+47,English Language Culture,Bachelor,Pharmaceutical Compounding,0.0,66.0,2.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1805501377890678, No, No,0.07708033625952626
+48,English Language Culture,Bachelor,Structural Engineering,0.0,66.0,2.0,English Language and Culture (part-time) (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.1329042355582054, No, No,0.07708033625952626
+49,English Language Culture,Master,Adolescent Psychology,0.0,66.0,1.0,Language and Culture Education: English (Master 2022-2023) - Prospectus - Universiteit Leiden,0.1629934424654915, No, Maybe,0.07708033625952626
+0,Arts Literature Media,Master,Digital Media,1.0,158.0,3.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1832813028407446, No, Yes,0.09086585141135084
+1,Arts Literature Media,Master,Multimethodology,1.0,158.0,2.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.2515219812922273, No., Yes.,0.05708880158549023
+2,Arts Literature Media,Master,Social Sciences,1.0,158.0,2.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1200700454305799, No, Yes,0.09086585141135084
+3,Arts Literature Media,Master,Editing,1.0,158.0,2.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1567304715122704, Yes, Yes,0.05708880158549023
+4,Arts Literature Media,Master,Independent Studies,0.0,158.0,2.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1467707329050278, No, Maybe,0.10353354415373195
+5,Arts Literature Media,Master,Cultural Activities,1.0,158.0,2.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1921700607380898, No, Maybe,0.09086585141135084
+6,Arts Literature Media,Master,Mediation,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.218561825801972, No, Maybe,0.05708880158549023
+7,Arts Literature Media,Master,Transferable Skills Analysis,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1832813028407446, Yes., Yes,0.11122763060049348
+8,Arts Literature Media,Master,Innovation,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1054655021339643," No. A Master of Arts in Literature, Media, and Culture does not typically teach innovation. However, it may provide students with the skills and knowledge necessary to innovate in their chosen field.", Maybe,0.05708880158549023
+9,Arts Literature Media,Master,Justice,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.125542858517985," No. A Master of Arts in Literature, Media, and Culture does not typically teach justice.", Maybe,0.05708880158549023
+10,Arts Literature Media,Master,Knowledge of Laws,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1315448674997307, No., Maybe,
+11,Arts Literature Media,Master,New Media,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1737061805854471, Yes, Yes,0.09086585141135084
+12,Arts Literature Media,Master,Academic Writing,1.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.128044485551842, Yes, Yes.,0.09086585141135084
+13,Arts Literature Media,Master,Conflict Resolution,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1702544402550621, No, Maybe,0.09086585141135084
+14,Arts Literature Media,Master,Big Data,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.13919950515183, No, Maybe,0.09086585141135084
+15,Arts Literature Media,Master,Systems Theories,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.2401970153690502, No, Maybe,0.09086585141135084
+16,Arts Literature Media,Master,Psychology,1.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1362173960647607, No, Maybe,0.05708880158549023
+17,Arts Literature Media,Master,Humanitarianism,1.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.2580664857954536, No, Maybe,0.05708880158549023
+18,Arts Literature Media,Master,Information Theory,1.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.205436289101213, No, Maybe,0.09086585141135084
+19,Arts Literature Media,Master,Machine Learning,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1289012624786244, No, No,0.09086585141135084
+20,Arts Literature Media,Master,Pattern Recognition,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1832813028407446, No, Maybe,0.09086585141135084
+21,Arts Literature Media,Master,Remote Monitoring,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.2352251351770328, No, Maybe,0.09086585141135084
+22,Arts Literature Media,Master,Imaging,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1491149862991467, No, Maybe,0.05708880158549023
+23,Arts Literature Media,Master,Economy,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.0845654139554896, No, Maybe,0.05708880158549023
+24,Arts Literature Media,Master,Research Methodologies,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1609196097593071, Yes, Yes.,0.09086585141135084
+25,Arts Literature Media,Master,Printing,1.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.218561825801972, No. A Master of Arts in Literature and Media degree does not typically teach printing., Maybe,0.05708880158549023
+26,Arts Literature Media,Master,Case Studies,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1289012624786244, Yes, Maybe,0.10353354415373195
+27,Arts Literature Media,Master,Visual Arts,1.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1997855459512135, No, Yes,0.09086585141135084
+28,Arts Literature Media,Master,Peer Review,1.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.1654118324143412, Yes, Yes,0.09086585141135084
+29,Arts Literature Media,Master,Cascading Style Sheets (CSS),0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.2832520898079932, No, Maybe,
+30,Arts Literature Media,Master,Consulting,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.117146430878748," No. A Master of Arts in Literature, Media, and Culture does not typically teach consulting.", Maybe,0.05708880158549023
+31,Arts Literature Media,Master,Administrative Operations,0.0,158.0,1.0,"Arts, Literature and Media (Research) (Master 2022-2023) - Prospectus - Universiteit Leiden",0.117146430878748, No, Maybe,0.09086585141135084
+0,Artificial Intelligence,Bachelor,Information Technology,1.0,33.0,16.0,Data Science and Artificial Intelligence (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0301698382582626, No, Maybe,0.07463772847121192
+1,Artificial Intelligence,Master,Content Management,0.0,33.0,6.0,Master&#39;s Programme in Artificial Intelligence,0.0497825349542026, No, No.,0.07463772847121192
+2,Artificial Intelligence,Master,Data Stores,1.0,33.0,6.0,Master&#39;s Programme in Artificial Intelligence,0.0517012186204412, No., No.,0.06512756467375166
+3,Artificial Intelligence,Master,Retention Period,0.0,33.0,6.0,Master&#39;s Programme in Artificial Intelligence,0.0523945140222085, No, No,0.07463772847121192
+4,Artificial Intelligence,Master,Economy,0.0,33.0,6.0,Master&#39;s Programme in Artificial Intelligence,0.0221775992161451, No., No.,0.04689330826010378
+5,Artificial Intelligence,Master,JSON,1.0,33.0,6.0,Master&#39;s Programme in Artificial Intelligence,0.0523945140222085, No, No.,0.04689330826010378
+6,Artificial Intelligence,Master,JQuery,1.0,33.0,6.0,Master&#39;s Programme in Artificial Intelligence,0.0523945140222085, No., No,0.04689330826010378
+7,Artificial Intelligence,Master,Typing Skills,0.0,33.0,6.0,Master&#39;s Programme in Artificial Intelligence,0.0497825349542026, No, No,0.08504280716264707
+8,Artificial Intelligence,Master,Data Protection,1.0,33.0,6.0,Master&#39;s Programme in Artificial Intelligence,0.0460273084396605, No, Maybe,0.06512756467375166
+9,Artificial Intelligence,Master,Knowledge of Statistics,1.0,33.0,4.0,Master&#39;s Programme in Artificial Intelligence,0.0261767975471347, Yes, Yes.,
+10,Artificial Intelligence,Bachelor,Modelling Skills,0.0,33.0,4.0,Data Science and Artificial Intelligence (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0433798778165301, Yes, Yes.,0.08504280716264707
+11,Artificial Intelligence,Master,Artificial Intelligence,1.0,33.0,3.0,Master&#39;s Programme in Artificial Intelligence,0.0307220939638299, Yes, Yes.,0.0668066724624256
+12,Artificial Intelligence,Master,Algorithms,1.0,33.0,3.0,Master&#39;s Programme in Artificial Intelligence,0.0359800670851739," No. Master's degrees in Artificial Intelligence typically focus on topics such as machine learning, natural language processing, computer vision, and robotics. Algorithms are usually covered in undergraduate courses in computer science.", Yes.,0.04689330826010378
+13,Artificial Intelligence,Master,Computer Programming,1.0,33.0,3.0,Master&#39;s Programme in Artificial Intelligence,0.0349772900454425, No, Yes,0.08504280716264707
+14,Artificial Intelligence,Bachelor,Psychology,0.0,33.0,3.0,Data Science and Artificial Intelligence (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0357235266155173, No, No.,0.04689330826010378
+15,Artificial Intelligence,Bachelor,Software Engineering,1.0,33.0,3.0,Data Science and Artificial Intelligence (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,0.0460273084396605, No, Maybe,0.09066816858875648
+16,Artificial Intelligence,Master,Artificial Neural Networks,1.0,33.0,2.0,Master&#39;s Programme in Artificial Intelligence,0.0422017754579764, Yes, Yes.,0.0876431328293172
+17,Artificial Intelligence,Master,Data Structures,1.0,33.0,2.0,Master&#39;s Programme in Artificial Intelligence,0.0480662139294252, No, Yes.,0.06512756467375166
+18,Artificial Intelligence,Master,Knowledge of Mathematics,1.0,33.0,2.0,Master&#39;s Programme in Artificial Intelligence,0.0316862796814662, Yes, Yes.,
+19,Artificial Intelligence,Master,Java (Programming Language),1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0491901066434413, No, No,
+20,Artificial Intelligence,Master,Architecture,0.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0311009478566156," No. A Master's degree in Artificial Intelligence typically focuses on topics such as machine learning, natural language processing, computer vision, and robotics. It does not typically cover topics related to architecture.", Maybe,0.04689330826010378
+21,Artificial Intelligence,Master,Cognition Processing,0.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0497825349542026, No, Yes.,0.07463772847121192
+22,Artificial Intelligence,Master,Genetic Algorithm,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0676789106253652," No. A Master's degree in Artificial Intelligence typically does not teach Genetic Algorithm. However, some universities may offer courses in Genetic Algorithm as part of their Artificial Intelligence curriculum.", Maybe,0.07463772847121192
+23,Artificial Intelligence,Master,Scalability,0.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0604814625354702," No. Master Artificial Intelligence degrees typically focus on topics such as machine learning, natural language processing, computer vision, and robotics. They do not typically cover topics related to scalability.", Maybe,0.04689330826010378
+24,Artificial Intelligence,Master,Python (Programming Language),1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0365055959871242, Yes, Yes,
+25,Artificial Intelligence,Master,Paradigms,0.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0433798778165301," No. Master's degrees in Artificial Intelligence typically focus on the application of AI technologies, rather than the underlying paradigms.", Maybe,0.04689330826010378
+26,Artificial Intelligence,Master,Robotics Design and Production,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0414611941502914, No, Maybe,
+27,Artificial Intelligence,Master,Knowledge Representation,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0676789106253652, Yes, Yes.,0.0668066724624256
+28,Artificial Intelligence,Master,Intelligent Systems,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0491901066434413, No., Yes.,0.07463772847121192
+29,Artificial Intelligence,Master,Programming Tools,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0616886801531604, No, Yes.,0.09342097111519096
+30,Artificial Intelligence,Master,Hidden Markov Model,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.058306238399575, Yes, Maybe,0.09512162185161557
+31,Artificial Intelligence,Master,Linear Regression,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0446498700134464, No, Maybe,0.06884799373955605
+32,Artificial Intelligence,Master,Machine Learning,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0338048429492786, Yes, Yes.,0.12169981559579053
+33,Artificial Intelligence,Master,Support Vector Machine,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0523945140222085, Yes, Maybe,0.09136291625376255
+34,Artificial Intelligence,Master,Reinforcement Learning,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0503973242611315, No, Yes.,0.1077617063111789
+35,Artificial Intelligence,Master,Deep Learning,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0422017754579764, No, Yes,0.1077617063111789
+36,Artificial Intelligence,Master,Naive Bayes,0.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0717728184274991, No, Maybe,0.07463772847121192
+37,Artificial Intelligence,Master,Decision Trees,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0546712337085589, No, No,0.07463772847121192
+38,Artificial Intelligence,Master,Software Library,0.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0855752862965277, No, No,0.06884799373955605
+39,Artificial Intelligence,Master,Data Analysis,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0299898366129691, No, Yes.,0.0812964647442061
+40,Artificial Intelligence,Master,Analysis of Variance (ANOVA),1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0503973242611315, No, No,
+41,Artificial Intelligence,Master,Construction,0.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0303518511367397, No, Maybe,0.04689330826010378
+42,Artificial Intelligence,Master,Design of Experiments,0.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0418272765934615, No, Maybe,
+43,Artificial Intelligence,Master,Execution of Experiments,0.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0301698382582626, No., Maybe,
+44,Artificial Intelligence,Master,Linear Model,0.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0503973242611315, No, Maybe,0.0890971717335326
+45,Artificial Intelligence,Master,Regression Analysis,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.059357569821454, No, Maybe,0.08625461987213412
+46,Artificial Intelligence,Master,Data Science,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0335801499641556, No, Maybe,0.07122038998569238
+47,Artificial Intelligence,Master,Application Services,0.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0808889501836327, No, No.,0.07463772847121192
+48,Artificial Intelligence,Master,Computational Science and Engineering,0.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0470148825075461, No, Yes.,0.05772438039807474
+49,Artificial Intelligence,Master,Scientific Studies,1.0,33.0,1.0,Master&#39;s Programme in Artificial Intelligence,0.0312937309722788, No, Yes.,0.07463772847121192
+0,Marketing,Master,Google Analytics,0.0,29.0,7.0,Master in Marketing and sales - Catalogue des formations,0.1078867116426267," No, a Master's degree in Marketing does not typically teach Google Analytics. However, many universities offer courses in digital marketing that may include instruction in Google Analytics.", Yes,0.0764963784836762
+1,Marketing,Master,Site Maps,0.0,29.0,7.0,Master in Marketing and sales - Catalogue des formations,0.1093777601102216," No, a Master's degree in Marketing does not typically teach Site Maps. Site Maps are typically taught in courses related to web design or web development.", Maybe,0.0764963784836762
+2,Marketing,Master,Continuous Training,0.0,29.0,6.0,Master in Marketing and sales - Catalogue des formations,0.1180261392990934, No. A Master's degree in Marketing does not typically include courses in Continuous Training., Yes,0.0764963784836762
+3,Marketing,Master,Search Engines,1.0,29.0,6.0,Master in Marketing and sales - Catalogue des formations,0.0968093924843661, Yes. Many master's degree programs in marketing include courses on search engine optimization (SEO) and other topics related to search engine marketing., Yes.,0.0764963784836762
+4,Marketing,Master,Public Relations,1.0,29.0,3.0,Master&#39;s Programme in Marketing,0.1037742536903001," No, a Master's degree in Marketing does not typically teach Public Relations. However, some programs may offer courses in Public Relations as part of their curriculum.", Yes,0.07056230486365014
+5,Marketing,Master,Marketing,1.0,29.0,3.0,Master in Marketing and sales - Catalogue des formations,0.0947758567091788, Yes, Yes.,0.04806079244561785
+6,Marketing,Master,Market Research,1.0,29.0,3.0,Master in Marketing and sales - Catalogue des formations,0.1012884449860829, Yes, Yes.,0.11910146133698207
+7,Marketing,Master,Public Health,0.0,29.0,2.0,Master&#39;s Programme in Marketing,0.1064591316280107, No, No.,0.07056230486365014
+8,Marketing,Master,Economy,1.0,29.0,2.0,Master&#39;s Programme in Marketing,0.0456663888617006," No, a Master's degree in Marketing does not typically teach Economics.", Yes.,0.04806079244561785
+9,Marketing,Master,Operations Research,1.0,29.0,2.0,Master in Marketing and sales - Catalogue des formations,0.0910450077349879, No, Maybe,0.1262159744228079
+10,Marketing,Master,Data Transmissions,0.0,29.0,2.0,Master in Marketing and sales - Catalogue des formations,0.0876879015398129, No, No.,0.07056230486365014
+11,Marketing,Master,Digital Marketing,1.0,29.0,2.0,Master in Marketing and sales - Catalogue des formations,0.1093777601102216, Yes, Yes.,0.0764963784836762
+12,Marketing,Master,Sales,1.0,29.0,2.0,Master in Marketing and sales - Catalogue des formations,0.1037742536903001, Yes, Yes,0.04806079244561785
+13,Marketing,Master,Brand Management,1.0,29.0,2.0,Master in Marketing and sales - Catalogue des formations,0.097874341211532, Yes, Yes,0.1046737890821088
+14,Marketing,Master,Advanced Logic Research,0.0,29.0,2.0,Master in Marketing and sales - Catalogue des formations,0.097874341211532, No, Maybe,0.12015577954204595
+15,Marketing,Master,Data Science,0.0,29.0,2.0,Master in Marketing and sales - Catalogue des formations,0.0691456352579852, No, Maybe,0.08200215225568762
+16,Marketing,Master,Knowledge of Mathematics,0.0,29.0,1.0,Master&#39;s Programme in Marketing,0.0652459247464906, No, Yes.,
+17,Marketing,Master,IBM System I,0.0,29.0,1.0,Master&#39;s Programme in Marketing,0.1393591533615698, No. A Master's degree in Marketing does not typically teach IBM System I., No,
+18,Marketing,Master,Consulting,0.0,29.0,1.0,Master&#39;s Programme in Marketing,0.0632605484446039, Yes. Many master's degree programs in marketing include courses in consulting., Yes.,
+19,Marketing,Master,Infrastructure Management,0.0,29.0,1.0,Master&#39;s Programme in Marketing,0.0757239298583321, No, No,0.1046737890821088
+20,Marketing,Master,Administrative Operations,1.0,29.0,1.0,Master&#39;s Programme in Marketing,0.0632605484446039, No, Maybe,0.0764963784836762
+21,Marketing,Master,Adobe InDesign,0.0,29.0,1.0,Master&#39;s Programme in Marketing,0.1125747558945166," No, a Master's degree in Marketing does not typically teach Adobe InDesign.", Maybe,0.0764963784836762
+22,Marketing,Master,Business Development,1.0,29.0,1.0,Master&#39;s Programme in Marketing,0.1109381841297275, Yes, Yes,0.0764963784836762
+23,Marketing,Master,Innovation,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0569526997701343, Yes. Many master's degree programs in marketing include courses in innovation and creativity., Yes.,0.04806079244561785
+24,Marketing,Master,Physical Therapy,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.1093777601102216, No, No,0.0764963784836762
+25,Marketing,Master,Accounting,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0947758567091788, No, No.,0.04806079244561785
+26,Marketing,Master,Artificial Intelligence,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0632605484446039, No, Maybe,0.0764963784836762
+27,Marketing,Master,Knowledge of Electrical Engineering,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.086127477520307, No, No,
+28,Marketing,Master,Applied Mathematics,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0910450077349879, No, Maybe,0.07457084039110369
+29,Marketing,Master,Applied Mechanics,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.1125747558945166, No, No,0.07056230486365014
+30,Marketing,Master,Architecture,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0640406549395002, No, No,0.04806079244561785
+31,Marketing,Master,Automation,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0825172148978851," No, a master's degree in marketing does not typically teach automation.", Maybe,0.04806079244561785
+32,Marketing,Master,Banking Services,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0947758567091788, No, No.,0.0764963784836762
+33,Marketing,Master,Raw Materials,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0774444642887179," No, a Master's degree in Marketing does not typically teach Raw Materials.", No.,0.0764963784836762
+34,Marketing,Master,Fundamental Science,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0798850362127926, No, No,0.08200215225568762
+35,Marketing,Master,Biotechnology,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0853736690019767, No, No,0.04806079244561785
+36,Marketing,Master,Biology,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0603098059653093, No, No,0.04806079244561785
+37,Marketing,Master,Biopharmaceuticals,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.1078867116426267," No, a Master's degree in Marketing does not typically teach biopharmaceuticals.", No,0.04806079244561785
+38,Marketing,Master,Biomaterial,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.1078867116426267, No, No,
+39,Marketing,Master,Corporate Finance,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.1012884449860829, No, Maybe,0.08716082851838955
+40,Marketing,Master,Business Performance Management,1.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.1050898367147526, No, Yes,0.10822807979517829
+41,Marketing,Master,Urban Planning,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0910450077349879, No, No,0.0764963784836762
+42,Marketing,Master,Medical Laboratory,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.1064591316280107, No, No,0.0764963784836762
+43,Marketing,Master,Clinical Research,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0968093924843661, No, No,0.11910146133698207
+44,Marketing,Master,Combinatorics,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0938035258063189, No, Maybe,0.04806079244561785
+45,Marketing,Master,Computer Networks,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0928585881817407, No, No,0.07056230486365014
+46,Marketing,Master,Computer Engineering,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.1064591316280107, No, No,0.08832065612583458
+47,Marketing,Master,Control Systems,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.097874341211532, No, No.,0.0764963784836762
+48,Marketing,Master,Mathematical Finance,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.1037742536903001, No, No,0.08716082851838955
+49,Marketing,Master,Ecology,0.0,29.0,1.0,Master in Marketing and sales - Catalogue des formations,0.0751694863690442, No, No,0.04806079244561785
+0,Cyber Security,Master,Information Technology,1.0,27.0,156.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.021530130718579, No, Yes,0.07856870584629014
+1,Cyber Security,Master,Instructional Design,0.0,27.0,134.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0295879918931844, No, No,0.08422347409094882
+2,Cyber Security,Master,Data Science,1.0,27.0,84.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0239638347441175, No, Maybe,0.09071333178909205
+3,Cyber Security,Master,Algorithms,1.0,27.0,70.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0256764899094174," No. Master Cyber Security degrees typically focus on topics such as network security, computer forensics, and ethical hacking, rather than algorithms.", Yes,0.04936309157195934
+4,Cyber Security,Master,Knowledge of Statistics,1.0,27.0,58.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0186805732320835, Yes, Yes,
+5,Cyber Security,Master,Knowledge of Electrical Engineering,1.0,27.0,58.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0298492396595052, No, Maybe,
+6,Cyber Security,Master,Robotics Design and Production,1.0,27.0,42.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0295879918931844, No, No,
+7,Cyber Security,Master,Knowledge of Mathematics,1.0,27.0,40.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.022612310271189, Yes, Yes,
+8,Cyber Security,Master,Intelligent Systems,1.0,27.0,38.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0351035831557396, No, Maybe,0.0895217606927868
+9,Cyber Security,Master,Computer Programming,1.0,27.0,38.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0249608771652526, No, Yes,0.07558283875038656
+10,Cyber Security,Master,Communication Studies,0.0,27.0,32.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0373903474781019, No, No,0.07856870584629014
+11,Cyber Security,Master,Computational Science and Engineering,1.0,27.0,30.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0335512758617088, No, Maybe,
+12,Cyber Security,Master,Linear Algebra,1.0,27.0,30.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.030116493644692, No, Yes,0.07856870584629014
+13,Cyber Security,Master,Machine Learning,1.0,27.0,30.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0241241826153866, No, Maybe,0.07856870584629014
+14,Cyber Security,Master,Computer Security,1.0,27.0,26.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0384478977071839, Yes, Yes,0.06922581501130248
+15,Cyber Security,Master,Biology,0.0,27.0,26.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0209015973056023, No, No,0.04936309157195934
+16,Cyber Security,Master,Desktop Virtualization,1.0,27.0,24.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0335512758617088," No, a Master's degree in Cyber Security does not typically teach Desktop Virtualization.", Maybe,0.07856870584629014
+17,Cyber Security,Master,Signal Processing,1.0,27.0,24.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0309572239649012, No, Maybe,0.0895217606927868
+18,Cyber Security,Master,Numerical Analysis,1.0,27.0,22.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0285980292751651, No, Maybe,0.0854889262693715
+19,Cyber Security,Master,Python (Programming Language),1.0,27.0,18.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0260515236056052, Yes, Yes,
+20,Cyber Security,Master,Ecology,0.0,27.0,18.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0260515236056052, No, No,0.04936309157195934
+21,Cyber Security,Master,Architecture,0.0,27.0,16.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.022194599357564," No, a master's degree in cyber security does not typically teach architecture. However, some programs may offer courses in architecture as part of their curriculum.", Yes,0.0543555455996425
+22,Cyber Security,Master,Cryptography,1.0,27.0,16.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0396113715516206, Yes, Yes,0.04936309157195934
+23,Cyber Security,Master,Algebra,1.0,27.0,14.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.036421033242699, No, Yes,0.06714132051959011
+24,Cyber Security,Master,Financial Engineering,0.0,27.0,14.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0384478977071839, No, No,0.12335275139713414
+25,Cyber Security,Master,Simulations,1.0,27.0,14.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0228993627902958, No, Yes,0.04936309157195934
+26,Cyber Security,Master,Data Processing,1.0,27.0,14.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0262436773417401, No, Yes.,0.0895217606927868
+27,Cyber Security,Master,Safety Principles,1.0,27.0,12.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0306701714457944, Yes, Yes,0.07856870584629014
+28,Cyber Security,Master,Data Analysis,1.0,27.0,12.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0214016759711736, No, Yes.,0.09565281289050395
+29,Cyber Security,Master,Applied Mathematics,1.0,27.0,12.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0315535103770152," No. Master's degrees in Cyber Security typically focus on topics such as computer networks, cryptography, and digital forensics. Applied Mathematics is not typically included in the curriculum.", Yes,0.08144518133784709
+30,Cyber Security,Master,Embedded Computers,1.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0335512758617088," No, a master's degree in cyber security does not typically teach embedded computers.", Maybe,0.07856870584629014
+31,Cyber Security,Master,Computer Architecture,1.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0379071008341106, No, Maybe,0.06922581501130248
+32,Cyber Security,Master,Probability Theories,1.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0359650910263535, Yes, Yes,0.07247406079952333
+33,Cyber Security,Master,Moodle,0.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0359650910263535, No. Master Cyber Security degrees typically do not teach Moodle., Maybe,0.04936309157195934
+34,Cyber Security,Master,Quantum,0.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0283631720680936, No. Master Cyber Security degrees typically do not teach Quantum., No.,0.04936309157195934
+35,Cyber Security,Master,Operational Systems,0.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0409043736035824, No, Yes,0.0895217606927868
+36,Cyber Security,Master,Programming Languages,1.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0264390607032207," No. Master Cyber Security degrees typically focus on topics such as network security, cryptography, and digital forensics, and do not typically include programming language instruction.", Maybe,0.08497136502572039
+37,Cyber Security,Master,Big Data,1.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0260515236056052," No. Master Cyber Security degrees typically focus on topics such as network security, cryptography, and digital forensics. Big Data is not typically included in the curriculum.", Maybe,0.07856870584629014
+38,Cyber Security,Master,Artificial Neural Networks,1.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.030116493644692, No, Maybe,0.09617504205304295
+39,Cyber Security,Master,Stochastic Process,0.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.036421033242699, No. Master Cyber Security degrees typically do not teach Stochastic Process., Maybe,0.07856870584629014
+40,Cyber Security,Master,Computer Vision,1.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0368955904131531, No, No,0.06922581501130248
+41,Cyber Security,Master,Electronics,1.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0283631720680936, No, Maybe,0.04936309157195934
+42,Cyber Security,Master,Mechanical Engineering,0.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0306701714457944, No, No,0.12335275139713414
+43,Cyber Security,Master,Scheduling,0.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0264390607032207, No, No,0.04936309157195934
+44,Cyber Security,Master,Creating Prototypes,0.0,27.0,10.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0281329658058159," No. A Master's degree in Cyber Security typically focuses on topics such as network security, computer forensics, cryptography, and risk management. It does not typically include courses on creating prototypes.", Maybe,
+45,Cyber Security,Master,Data Structures,1.0,27.0,8.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0343015385163455, No, Maybe,0.0854889262693715
+46,Cyber Security,Master,Graph Theory,0.0,27.0,8.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0373903474781019, No, Maybe,0.07856870584629014
+47,Cyber Security,Master,Probability and Statistics,1.0,27.0,8.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.033920355633896, Yes, Yes,
+48,Cyber Security,Master,Forecasting Skills,0.0,27.0,8.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0274684971668309, No, Maybe,0.07856870584629014
+49,Cyber Security,Master,Multiprocessing,1.0,27.0,8.0,Master Cycle - Computer Science - Cybersecurity - EPFL,0.0423593996909509," No, a master's degree in cyber security does not typically teach multiprocessing.", Yes,
+0,Physics program,Master,Physics,1.0,0.0,110.0,Master Cycle - Physics - master program - EPFL,0.0469665494282921, Yes, Yes,0.12575176206954453
+1,Physics program,Master,Applied Physics,1.0,0.0,108.0,Master Cycle - Physics - master program - EPFL,0.0766017546089613, No, Yes,0.12687690723778922
+2,Physics program,Master,Instructional Design,0.0,0.0,88.0,Master Cycle - Physics - master program - EPFL,0.0572182180417563, No, No,0.07627336329097933
+3,Physics program,Master,Quantum,0.0,0.0,40.0,Master Cycle - Physics - master program - EPFL,0.0548496217521901, No, Yes,0.047921421362576
+4,Physics program,Master,Optics and Eyewear,0.0,0.0,24.0,Master Cycle - Physics - master program - EPFL,0.0557673357947768, No, Yes,
+5,Physics program,Master,Execution of Experiments,1.0,0.0,24.0,Master Cycle - Physics - master program - EPFL,0.0416356648457424, No, Yes,
+6,Physics program,Master,Nuclear Power,1.0,0.0,22.0,Master Cycle - Physics - master program - EPFL,0.0548496217521901, No, Yes,0.07035704005523553
+7,Physics program,Master,Particle Physics,1.0,0.0,20.0,Master Cycle - Physics - master program - EPFL,0.0687020236164832, No, Yes,0.12687690723778922
+8,Physics program,Master,Knowledge of Statistics,1.0,0.0,20.0,Master Cycle - Physics - master program - EPFL,0.0361250981883825, No, Yes.,
+9,Physics program,Master,Solid State Physics,1.0,0.0,18.0,Master Cycle - Physics - master program - EPFL,0.0888885338346189, No, Yes,0.12663643695022014
+10,Physics program,Master,Semiconductors,1.0,0.0,18.0,Master Cycle - Physics - master program - EPFL,0.0791022038994935, No, Yes,0.047921421362576
+11,Physics program,Master,Knowledge of Mathematics,1.0,0.0,16.0,Master Cycle - Physics - master program - EPFL,0.043728418751621, Yes, Yes.,
+12,Physics program,Master,Biology,0.0,0.0,16.0,Master Cycle - Physics - master program - EPFL,0.0404201865530598, No, No,0.047921421362576
+13,Physics program,Master,Simulations,0.0,0.0,16.0,Master Cycle - Physics - master program - EPFL,0.04428353022005, No, Yes.,0.047921421362576
+14,Physics program,Master,Nuclear Engineering,1.0,0.0,16.0,Master Cycle - Physics - master program - EPFL,0.0766017546089613, No, Yes,0.09603469187853288
+15,Physics program,Master,Algorithms,0.0,0.0,14.0,Master Cycle - Physics - master program - EPFL,0.0496540286846037, No, Maybe,0.047921421362576
+16,Physics program,Master,Knowledge of Electrical Engineering,0.0,0.0,14.0,Master Cycle - Physics - master program - EPFL,0.0577234274425911, No, Yes,
+17,Physics program,Master,Measurement and Metrology,1.0,0.0,14.0,Master Cycle - Physics - master program - EPFL,0.0548496217521901, No, Yes,
+18,Physics program,Master,Quantum Computing,0.0,0.0,10.0,Master Cycle - Physics - master program - EPFL,0.0888885338346189, No, Yes,0.07627336329097933
+19,Physics program,Master,Spectroscopy,1.0,0.0,10.0,Master Cycle - Physics - master program - EPFL,0.072306666244284, No, Yes,0.047921421362576
+20,Physics program,Master,Scientific Literature,1.0,0.0,10.0,Master Cycle - Physics - master program - EPFL,0.0457344124670294, No, Yes,0.07627336329097933
+21,Physics program,Master,Information Theory,0.0,0.0,10.0,Master Cycle - Physics - master program - EPFL,0.0743517911657783, No, Maybe,0.07627336329097933
+22,Physics program,Master,Condensed Matter,1.0,0.0,10.0,Master Cycle - Physics - master program - EPFL,0.0910311898080916, Yes, Yes,0.07627336329097933
+23,Physics program,Master,Industrial Lasers,0.0,0.0,10.0,Master Cycle - Physics - master program - EPFL,0.0851330123034308, No, Maybe,0.07627336329097933
+24,Physics program,Master,Electromagnetism,1.0,0.0,10.0,Master Cycle - Physics - master program - EPFL,0.0670955637782071, Yes, Yes,0.047921421362576
+25,Physics program,Master,Computer Simulation,1.0,0.0,8.0,Master Cycle - Physics - master program - EPFL,0.0548496217521901, No, Maybe,0.07627336329097933
+26,Physics program,Master,Python (Programming Language),1.0,0.0,8.0,Master Cycle - Physics - master program - EPFL,0.0503792810058476, No, Maybe,
+27,Physics program,Master,Imaging,0.0,0.0,8.0,Master Cycle - Physics - master program - EPFL,0.053967905911403, No, Yes,0.047921421362576
+28,Physics program,Master,Electronics,0.0,0.0,8.0,Master Cycle - Physics - master program - EPFL,0.0548496217521901, No, Yes,0.047921421362576
+29,Physics program,Master,Photovoltaics,0.0,0.0,8.0,Master Cycle - Physics - master program - EPFL,0.070432174948204, No, Yes,0.047921421362576
+30,Physics program,Master,Equations,0.0,0.0,8.0,Master Cycle - Physics - master program - EPFL,0.0593109719476349, No, Yes.,0.047921421362576
+31,Physics program,Master,Plasma (Physics),1.0,0.0,8.0,Master Cycle - Physics - master program - EPFL,0.0910311898080916, No, Yes,
+32,Physics program,Master,Polymer Chemistry,0.0,0.0,8.0,Master Cycle - Physics - master program - EPFL,0.072306666244284, No, No,0.07627336329097933
+33,Physics program,Master,Biological Systems,0.0,0.0,6.0,Master Cycle - Physics - master program - EPFL,0.0670955637782071, No, No,0.07627336329097933
+34,Physics program,Master,Machine Learning,1.0,0.0,6.0,Master Cycle - Physics - master program - EPFL,0.0466521265096161, No, No.,0.07627336329097933
+35,Physics program,Master,Microscopy,0.0,0.0,6.0,Master Cycle - Physics - master program - EPFL,0.0670955637782071, No, Yes,0.047921421362576
+36,Physics program,Master,Electron Microscope,0.0,0.0,6.0,Master Cycle - Physics - master program - EPFL,0.0869324421868046, No, Yes,0.07627336329097933
+37,Physics program,Master,Radiology,1.0,0.0,6.0,Master Cycle - Physics - master program - EPFL,0.0754486366120777, No, No,0.047921421362576
+38,Physics program,Master,Auger Drill,0.0,0.0,6.0,Master Cycle - Physics - master program - EPFL,0.0933997860976578, No, No.,0.07627336329097933
+39,Physics program,Master,Health Physics,0.0,0.0,6.0,Master Cycle - Physics - master program - EPFL,0.0695504591074169, No, Maybe,0.12687690723778922
+40,Physics program,Master,Data Analysis,1.0,0.0,6.0,Master Cycle - Physics - master program - EPFL,0.0413872548903768, No, Yes.,0.07627336329097933
+41,Physics program,Master,Signal Processing,1.0,0.0,6.0,Master Cycle - Physics - master program - EPFL,0.0598660834160638, No, Yes.,0.07627336329097933
+42,Physics program,Master,Linear Algebra,1.0,0.0,6.0,Master Cycle - Physics - master program - EPFL,0.0582402518642063, Yes, Yes,0.07627336329097933
+43,Physics program,Master,Drawing Skills,0.0,0.0,6.0,Master Cycle - Physics - master program - EPFL,0.0610192014129474, No, No,0.07627336329097933
+44,Physics program,Master,Electronic Oscillator,1.0,0.0,6.0,Master Cycle - Physics - master program - EPFL,0.0869324421868046, No, Yes,0.07627336329097933
+45,Physics program,Master,Fault Detection and Isolation,0.0,0.0,6.0,Master Cycle - Physics - master program - EPFL,0.0869324421868046, No, Yes.,
+46,Physics program,Master,Astrophysics,1.0,0.0,4.0,Master Cycle - Physics - master program - EPFL,0.0990495536469529, No, Yes,0.047921421362576
+47,Physics program,Master,Medical Equipment,0.0,0.0,4.0,Master Cycle - Physics - master program - EPFL,0.0791022038994935, No, No,0.07627336329097933
+48,Physics program,Master,Mechanical Engineering,1.0,0.0,4.0,Master Cycle - Physics - master program - EPFL,0.0593109719476349, No, Maybe,0.09603469187853288
+49,Physics program,Master,Computational Physics,1.0,0.0,4.0,Master Cycle - Physics - master program - EPFL,0.0910311898080916, No, Yes,0.12687690723778922
+0,Music Communication Technology,Master,Blended Learning,0.0,239.0,16.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1585818034146981, Yes, Yes,0.08322966349496326
+1,Music Communication Technology,Master,Music Technology,1.0,239.0,6.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.2005156865445519, Yes, Yes.,0.07277332100493535
+2,Music Communication Technology,Master,Python (Programming Language),0.0,239.0,6.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.0855380678098095, No., Yes,
+3,Music Communication Technology,Master,Scientific Computating,0.0,239.0,6.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1343061978251513, No, Maybe,0.07304633807862995
+4,Music Communication Technology,Master,Sensors,0.0,239.0,5.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1101628969273407, No, Maybe,0.04589337040302752
+5,Music Communication Technology,Master,Technical Documentation,0.0,239.0,4.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.2159922351249928, No, Maybe,0.06737998825544456
+6,Music Communication Technology,Master,Blogging Skills,0.0,239.0,4.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1810175412682897, No, Maybe,0.09099295975300116
+7,Music Communication Technology,Master,Academic Writing,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.0786833105179443, No, Maybe,0.07304633807862995
+8,Music Communication Technology,Master,Empirical Research,1.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.0946863483468998, No, Yes.,0.08322966349496326
+9,Music Communication Technology,Master,Usability Testing,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1390836581384358, No, Maybe,0.07304633807862995
+10,Music Communication Technology,Master,Gesture Recognition,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.2159922351249928, No, Maybe,0.07304633807862995
+11,Music Communication Technology,Master,Audio Signal Processing,1.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1445457980716114, Yes, Yes,0.08941510035067571
+12,Music Communication Technology,Master,Databases,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.0742456893729338, No, Maybe,0.04589337040302752
+13,Music Communication Technology,Master,Data Mining,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1026119149417574, No, Maybe,0.06737998825544456
+14,Music Communication Technology,Master,Information Retrieval,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1262405581727326, No, Maybe,0.07277332100493535
+15,Music Communication Technology,Master,Machine Learning,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.079209799766459, No, Maybe,0.08322966349496326
+16,Music Communication Technology,Master,Feature Extraction,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1262405581727326, No, Maybe,0.07304633807862995
+17,Music Communication Technology,Master,Anatomy,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1152597722037604, No, No,0.04589337040302752
+18,Music Communication Technology,Master,Biomechanics,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1630775660261668, No, No,0.04589337040302752
+19,Music Communication Technology,Master,Calibration,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1417171067531735, No., Maybe,0.04589337040302752
+20,Music Communication Technology,Master,Motion Capture,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1476010174457259, No, No,0.07304633807862995
+21,Music Communication Technology,Master,Visualization,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.0901905857354311, No, Maybe,0.04589337040302752
+22,Music Communication Technology,Master,Technical Support,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1585818034146981, No, Maybe,0.06737998825544456
+23,Music Communication Technology,Master,Engineering Design Process,1.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1545602067188766, No, Yes,0.08941510035067571
+24,Music Communication Technology,Master,Testing Skills,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1113747404670326, No, No,0.09935355103567563
+25,Music Communication Technology,Master,Expertise in Communications,1.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1509222299893015, Yes, Yes.,
+26,Music Communication Technology,Master,Natural Sciences,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1078488632757383, No, No,0.07304633807862995
+27,Music Communication Technology,Master,Quantitative Research,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1026119149417574, No., Maybe,0.08322966349496326
+28,Music Communication Technology,Master,Research and Development,0.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1139203412516253, Yes., Yes.,
+29,Music Communication Technology,Master,Cultural Activities,1.0,239.0,3.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1180884635221983, No, Maybe,0.07304633807862995
+30,Music Communication Technology,Master,Project Management,0.0,239.0,2.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.0831137696654952, No, Maybe,0.08322966349496326
+31,Music Communication Technology,Master,Stakeholder Management,0.0,239.0,2.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1113747404670326, No, Maybe,0.08322966349496326
+32,Music Communication Technology,Master,Delivery of Projects,0.0,239.0,2.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1895349005755798, Yes, Maybe,
+33,Music Communication Technology,Master,Computer Programming,1.0,239.0,2.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.0819570185558866, No, Maybe,0.07830371763901867
+34,Music Communication Technology,Master,Data Collection,0.0,239.0,2.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.0737830186735605, No., Maybe,0.06737998825544456
+35,Music Communication Technology,Master,Creating Prototypes,0.0,239.0,2.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.0923723146952974, No, Maybe,
+36,Music Communication Technology,Master,Servicing and Car Mechanics,0.0,239.0,2.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1895349005755798, No, No,0.052770010599258205
+37,Music Communication Technology,Master,Programming Languages,1.0,239.0,2.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.0868105144826604, No, Maybe,0.08911556129447691
+38,Music Communication Technology,Master,Sound Systems,1.0,239.0,1.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.2159922351249928, Yes, Yes,0.0829901538067901
+39,Music Communication Technology,Master,Software Troubleshooting,1.0,239.0,1.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.2159922351249928, No, Maybe,0.07304633807862995
+40,Music Communication Technology,Master,Legal Knowledge,0.0,239.0,1.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1281028721694636, No, Maybe,0.07304633807862995
+41,Music Communication Technology,Master,Information Technology,0.0,239.0,1.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.0706924404591688, No, Maybe,0.07804909313682652
+42,Music Communication Technology,Master,Consulting,0.0,239.0,1.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.0719864581217714, No. A Master of Music Communication Technology degree does not teach Consulting., Maybe,0.04589337040302752
+43,Music Communication Technology,Master,Reverse Engineering,0.0,239.0,1.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1630775660261668, No, Maybe,0.07304633807862995
+44,Music Communication Technology,Master,Student Information Systems,0.0,239.0,1.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.2005156865445519, No, Maybe,0.08978998644754893
+45,Music Communication Technology,Master,Social Development,0.0,239.0,1.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1509222299893015, No, Maybe,0.09814408063524643
+46,Music Communication Technology,Master,Articulation,0.0,239.0,1.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1740583519951389, No. A Master of Music Communication Technology degree does not typically teach Articulation., Maybe,0.04589337040302752
+47,Music Communication Technology,Master,Visual Perception,0.0,239.0,1.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1545602067188766, No, Maybe,0.07304633807862995
+48,Music Communication Technology,Master,Psychology,0.0,239.0,1.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.0837055623779277, No, Maybe,0.04589337040302752
+49,Music Communication Technology,Master,Music Theories,1.0,239.0,1.0,"Music, Communication and Technology (master's two years)  – University of Oslo",0.1810175412682897, Yes, Yes,0.06737998825544456

@@ -1,0 +1,261 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Chemical Engineering,Bachelor,Chemical Engineering,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.06036111713131076
+Chemical Engineering,Bachelor,Instructional Design,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.04137869508433345
+Chemical Engineering,Bachelor,Chemistry,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.047970572261726456
+Chemical Engineering,Bachelor,Equations,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.0428921191076874
+Chemical Engineering,Bachelor,Calculations,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.03643295752041096
+Chemical Engineering,Bachelor,Quantum,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.03966578917782099
+Chemical Engineering,Bachelor,Biotechnology,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.04137869508433345
+Chemical Engineering,Bachelor,Inorganic Chemistry,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.07413612098898024
+Chemical Engineering,Bachelor,Organic Chemistry,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.06428182603226093
+Chemical Engineering,Bachelor,Knowledge of Mathematics,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.031623230641732086
+Chemical Engineering,Bachelor,Physical Chemistry,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.061565932639560804
+Chemical Engineering,Bachelor,Optics and Eyewear,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.04032945559111431
+Chemical Engineering,Bachelor,Ligand,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.06428182603226093
+Chemical Engineering,Bachelor,Redox,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Bachelor,Laboratory Techniques,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.048521729094460675
+Chemical Engineering,Bachelor,Organic Synthesis,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.07710022637103009
+Chemical Engineering,Bachelor,Vibrations,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.06428182603226093
+Chemical Engineering,Bachelor,Ordinary Differential Equations (Differential Calculus),,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.05539635373782523
+Chemical Engineering,Bachelor,Partial Differential Equation,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.05539635373782523
+Chemical Engineering,Bachelor,Electrophoresis,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.07413612098898024
+Chemical Engineering,Bachelor,Particle Size Analysis,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Bachelor,Particle Physics,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.049683478168238905
+Chemical Engineering,Bachelor,Measurement and Metrology,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.03966578917782099
+Chemical Engineering,Bachelor,Mechanical Systems,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.06036111713131076
+Chemical Engineering,Bachelor,AngularJS,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.05301293756630561
+Chemical Engineering,Bachelor,Spectroscopy,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.05229025994663876
+Chemical Engineering,Bachelor,Infrared Technology,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.057204612231497004
+Chemical Engineering,Bachelor,Biochemistry,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.05029704417360549
+Chemical Engineering,Bachelor,Enzymes,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.06428182603226093
+Chemical Engineering,Bachelor,RNA Sequencing,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.057204612231497004
+Chemical Engineering,Bachelor,Algebra,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.0509346776437763
+Chemical Engineering,Bachelor,Chemical Process,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.06286723252302494
+Chemical Engineering,Bachelor,Knowledge of Engineering,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.039343846588148684
+Chemical Engineering,Bachelor,Flowcharts,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Bachelor,General Chemistry,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Bachelor,Mass Balance,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.06945910970041794
+Chemical Engineering,Bachelor,Physics,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.03396496071475567
+Chemical Engineering,Bachelor,Microsoft PowerPoint,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.04250035148796243
+Chemical Engineering,Bachelor,Scheduling,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.03697492668999804
+Chemical Engineering,Bachelor,Heat Transfer,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Bachelor,Heat Exchanger,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.07710022637103009
+Chemical Engineering,Bachelor,Mass Transfer,,11,Bachelor Cycle - Chemistry and Chemical Engineering - EPFL,Chemical Engineering,0.07163000559726607
+Chemical Engineering,Master,Molecular Biology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.04412746527186993
+Chemical Engineering,Master,Biology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.029230805010571438
+Chemical Engineering,Master,Chemical Reaction Engineering,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06286723252302494
+Chemical Engineering,Master,Economy,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.02213347045289994
+Chemical Engineering,Master,Desktop Virtualization,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.046921332768507316
+Chemical Engineering,Master,Execution of Experiments,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.030109806618378133
+Chemical Engineering,Master,Protein,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.057204612231497004
+Chemical Engineering,Master,Sustainability,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03515217192295728
+Chemical Engineering,Master,Raw Materials,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03753558809447691
+Chemical Engineering,Master,Program Evaluations,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.047970572261726456
+Chemical Engineering,Master,Risk Analysis,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03966578917782099
+Chemical Engineering,Master,Process Engineering,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Master,Scientific Literature,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03307391200042798
+Chemical Engineering,Master,Photovoltaics,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.0509346776437763
+Chemical Engineering,Master,Mentoring,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03590847431056943
+Chemical Engineering,Master,Simulations,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03202467250720885
+Chemical Engineering,Master,Manufacturing,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.04137869508433345
+Chemical Engineering,Master,Polymer Chemistry,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05229025994663876
+Chemical Engineering,Master,Cell Biology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.048521729094460675
+Chemical Engineering,Master,Protein Engineering,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Thermodynamics,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05539635373782523
+Chemical Engineering,Master,Mathematical Modeling,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.04456102615241572
+Chemical Engineering,Master,Membranes,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05923946072768177
+Chemical Engineering,Master,Catalysis,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07163000559726607
+Chemical Engineering,Master,Occupational Safety and Health,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Master,Biochemical Engineering,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08072799816637326
+Chemical Engineering,Master,Bioreactors,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08072799816637326
+Chemical Engineering,Master,Cell Cultures,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06036111713131076
+Chemical Engineering,Master,Monoclonal Antibodies,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07710022637103009
+Chemical Engineering,Master,Experimental Data,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.046921332768507316
+Chemical Engineering,Master,Recombinant DNA Technology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07710022637103009
+Chemical Engineering,Master,Internal Combustion Engines,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08072799816637326
+Chemical Engineering,Master,Energy Conservation,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05923946072768177
+Chemical Engineering,Master,Renewable Energy,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.0509346776437763
+Chemical Engineering,Master,Separation Process,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Nutrition and Dietetics,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05819022123446263
+Chemical Engineering,Master,Food Technology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08072799816637326
+Chemical Engineering,Master,Food Chemistry,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Food Processing,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Quality Management,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.041021371480683445
+Chemical Engineering,Master,Electrode,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Master,Fuel Cell,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06428182603226093
+Chemical Engineering,Master,Systems Engineering,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05029704417360549
+Chemical Engineering,Master,Architecture,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.031039063504243212
+Chemical Engineering,Master,Energy Technology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.049683478168238905
+Chemical Engineering,Master,Numerical Analysis,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03999423609624826
+Chemical Engineering,Master,Energy Transformation,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.043293560973164155
+Chemical Engineering,Master,Industrial Processes,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06286723252302494
+Chemical Engineering,Master,Spectrometer,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.057204612231497004
+Chemical Engineering,Master,Gene Therapy,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05159834405706962
+Chemical Engineering,Master,Knowledge of Medicine,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.038116277305007135
+Chemical Engineering,Master,Bacteriology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05819022123446263
+Chemical Engineering,Master,Biological Systems,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.048521729094460675
+Chemical Engineering,Master,Metabolism,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05456244943911946
+Chemical Engineering,Master,Computer Simulation,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03966578917782099
+Chemical Engineering,Master,Dynamical Systems,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.0464210603889126
+Chemical Engineering,Master,Systems Biology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06036111713131076
+Chemical Engineering,Master,Chemical Biology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Master,Genomics,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.049683478168238905
+Chemical Engineering,Master,Synthetic Biology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07163000559726607
+Chemical Engineering,Master,Product Information Management,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Fluid Mechanics,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.048521729094460675
+Chemical Engineering,Master,Ammonia,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.09199688663232856
+Chemical Engineering,Master,Case Studies,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.0337375784137213
+Chemical Engineering,Master,Process Safety,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08072799816637326
+Chemical Engineering,Master,Chromatography,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06945910970041794
+Chemical Engineering,Master,Automation,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03999423609624826
+Chemical Engineering,Master,Bioprocess,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.09199688663232856
+Chemical Engineering,Master,Precipitation,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08072799816637326
+Chemical Engineering,Master,Downstream Processing,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.09199688663232856
+Chemical Engineering,Master,Microbiology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06428182603226093
+Chemical Engineering,Master,Telephone Skills,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07413612098898024
+Chemical Engineering,Master,Academic Writing,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03351333252043393
+Chemical Engineering,Master,Encodings,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06428182603226093
+Chemical Engineering,Master,Flow Cytometry,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Data Presentation,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07413612098898024
+Chemical Engineering,Master,Enzyme-Linked Immunosorbent Assay (ELISA),,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Mass Spectrometry,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06286723252302494
+Chemical Engineering,Master,Protein Purification,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Technical Skills,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.057204612231497004
+Chemical Engineering,Master,Environmental Protection,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.04412746527186993
+Chemical Engineering,Master,Product Control,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.09199688663232856
+Chemical Engineering,Master,Renewable Fuels,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.09199688663232856
+Chemical Engineering,Master,Volatile Organic Compounds,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.09199688663232856
+Chemical Engineering,Master,Energy Production,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05456244943911946
+Chemical Engineering,Master,Food Preparation,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08072799816637326
+Chemical Engineering,Master,Electrochemistry,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.049683478168238905
+Chemical Engineering,Master,Voltage,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06583133790507478
+Chemical Engineering,Master,Knowledge of Advertising,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05923946072768177
+Chemical Engineering,Master,Brochure Design,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08072799816637326
+Chemical Engineering,Master,Money Investments,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.049092228665355446
+Chemical Engineering,Master,Integrated Design,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.061565932639560804
+Chemical Engineering,Master,Mechanical Engineering,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.0428921191076874
+Chemical Engineering,Master,Nuclear Engineering,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05539635373782523
+Chemical Engineering,Master,Operating Expenses,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07413612098898024
+Chemical Engineering,Master,Industrial Electricity,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07710022637103009
+Chemical Engineering,Master,Systems Modeling,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.061565932639560804
+Chemical Engineering,Master,Modelling Skills,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.043293560973164155
+Chemical Engineering,Master,Medical Equipment,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.057204612231497004
+Chemical Engineering,Master,Bioanalysis,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Master,Data Collection,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03142616678036821
+Chemical Engineering,Master,Nanomaterials,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06945910970041794
+Chemical Engineering,Master,35 Mm Films,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Master,Chemical Synthesis,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Master,Electronics,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03966578917782099
+Chemical Engineering,Master,Semiconductors,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.057204612231497004
+Chemical Engineering,Master,Materials Processing,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07413612098898024
+Chemical Engineering,Master,Knowledge of Packaging and Processing,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06036111713131076
+Chemical Engineering,Master,Antibiotics,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07710022637103009
+Chemical Engineering,Master,Industrial Production,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07710022637103009
+Chemical Engineering,Master,Infectious Diseases,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05376923995391775
+Chemical Engineering,Master,Intellectual Property,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05229025994663876
+Chemical Engineering,Master,Intellectual Property Laws,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05376923995391775
+Chemical Engineering,Master,Knowledge of Patents,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07413612098898024
+Chemical Engineering,Master,Pharmaceuticals,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05819022123446263
+Chemical Engineering,Master,Filing Skills,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.057204612231497004
+Chemical Engineering,Master,Pharmaceutical Production,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Analytical Chemistry,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06583133790507478
+Chemical Engineering,Master,Analysis of Variance (ANOVA),,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05029704417360549
+Chemical Engineering,Master,Electromagnetism,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.048521729094460675
+Chemical Engineering,Master,Electron Microscope,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06286723252302494
+Chemical Engineering,Master,Fluorescence,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06428182603226093
+Chemical Engineering,Master,Radiology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05456244943911946
+Chemical Engineering,Master,Knowledge of Statistics,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.02612471121938497
+Chemical Engineering,Master,Auger Drill,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Master,Elasticity,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05456244943911946
+Chemical Engineering,Master,E-books,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05923946072768177
+Chemical Engineering,Master,Algorithms,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03590847431056943
+Chemical Engineering,Master,Data Analysis,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.029930163138542992
+Chemical Engineering,Master,Computational Science and Engineering,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.046921332768507316
+Chemical Engineering,Master,Design Elements and Principles,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.047437489438086865
+Chemical Engineering,Master,Differential Equations,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.046921332768507316
+Chemical Engineering,Master,Estimation Theories,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.057204612231497004
+Chemical Engineering,Master,Python (Programming Language),,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03643295752041096
+Chemical Engineering,Master,Linear Algebra,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.04211780279080157
+Chemical Engineering,Master,Metabolomics,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05819022123446263
+Chemical Engineering,Master,Probability and Statistics,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.047437489438086865
+Chemical Engineering,Master,Bower,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07710022637103009
+Chemical Engineering,Master,Protein Expression,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07163000559726607
+Chemical Engineering,Master,Modeling and Simulation,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05627535534563192
+Chemical Engineering,Master,Signaling,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.061565932639560804
+Chemical Engineering,Master,Life Cycle Engineering,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08072799816637326
+Chemical Engineering,Master,Life Cycle Assessment,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06583133790507478
+Chemical Engineering,Master,Metrics,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05376923995391775
+Chemical Engineering,Master,Inverters,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08072799816637326
+Chemical Engineering,Master,Accident Analysis,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08072799816637326
+Chemical Engineering,Master,Content Management,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.049683478168238905
+Chemical Engineering,Master,Corrective Maintenance,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Crisis Management,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06428182603226093
+Chemical Engineering,Master,Decision-Making Software,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Risk Matrix,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Risk Reduction,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Master,Risk Management,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.043293560973164155
+Chemical Engineering,Master,Antibodies,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06945910970041794
+Chemical Engineering,Master,Genetic Engineering,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05819022123446263
+Chemical Engineering,Master,Editing,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.041021371480683445
+Chemical Engineering,Master,Biomedical Engineering,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.04456102615241572
+Chemical Engineering,Master,Medical Research,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.0509346776437763
+Chemical Engineering,Master,Display Devices,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06754424381158723
+Chemical Engineering,Master,Drug Discovery,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05301293756630561
+Chemical Engineering,Master,Whole Genome Sequencing,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.061565932639560804
+Chemical Engineering,Master,Global Health,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06583133790507478
+Chemical Engineering,Master,Health Care,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05627535534563192
+Chemical Engineering,Master,Knowledge of Immunization,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06583133790507478
+Chemical Engineering,Master,Molecular Diagnostics,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.09199688663232856
+Chemical Engineering,Master,Personalized Medicine,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.057204612231497004
+Chemical Engineering,Master,Regenerative Medicine,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07413612098898024
+Chemical Engineering,Master,Science Communication,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05159834405706962
+Chemical Engineering,Master,Crispr,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Molecular Modelling,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06945910970041794
+Chemical Engineering,Master,Batteries,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.057204612231497004
+Chemical Engineering,Master,Signal Transduction,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05923946072768177
+Chemical Engineering,Master,Cellular Networks,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07163000559726607
+Chemical Engineering,Master,Computer Programming,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03490769258647809
+Chemical Engineering,Master,Developmental Biology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.061565932639560804
+Chemical Engineering,Master,Network Engineering,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Information Technology,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.030109806618378133
+Chemical Engineering,Master,Geothermal Energy,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07710022637103009
+Chemical Engineering,Master,Hydroelectricity,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.061565932639560804
+Chemical Engineering,Master,Nuclear Power,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.03966578917782099
+Chemical Engineering,Master,Wind Power,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06583133790507478
+Chemical Engineering,Master,Business Planning,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.05923946072768177
+Chemical Engineering,Master,Negotiation Skills,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.038718478353947136
+Chemical Engineering,Master,Product Design,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.04593572376554169
+Chemical Engineering,Master,Writing Documentation,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Technical Writing Skills,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.06428182603226093
+Chemical Engineering,Master,Chemical Products,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Feasibility Studies,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Process Development,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Master,Production Costs Management,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.07413612098898024
+Chemical Engineering,Master,Safety Principles,,11,Master Cycle - Chemical Engineering and Biotechnology - EPFL,Chemical Engineering,0.0428921191076874
+Chemical Engineering,Bachelor,MATLAB,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.0464210603889126
+Chemical Engineering,Bachelor,Composite Materials,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.05819022123446263
+Chemical Engineering,Bachelor,Bash Shell,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.07413612098898024
+Chemical Engineering,Bachelor,Big Data,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.03643295752041096
+Chemical Engineering,Bachelor,Carpentry,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.07413612098898024
+Chemical Engineering,Bachelor,Data Stores,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.05159834405706962
+Chemical Engineering,Bachelor,Electronic Lab Notebook,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Bachelor,Infrastructure Management,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.03670168379577114
+Chemical Engineering,Bachelor,Machine Learning,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.0337375784137213
+Chemical Engineering,Bachelor,Scientific Studies,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.031231463022007123
+Chemical Engineering,Bachelor,Instrumentation,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.0417440491003503
+Chemical Engineering,Bachelor,Nuclear Magnetic Resonance,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.06583133790507478
+Chemical Engineering,Bachelor,Resonance,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.07413612098898024
+Chemical Engineering,Bachelor,Structural Engineering,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.06286723252302494
+Chemical Engineering,Bachelor,Imaging,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.039028155707650176
+Chemical Engineering,Bachelor,Physiology,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.04546445687001228
+Chemical Engineering,Bachelor,Biomass,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.08072799816637326
+Chemical Engineering,Bachelor,Certified Occupational Health Nurse,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.09199688663232856
+Chemical Engineering,Bachelor,Algorithm Design,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.05456244943911946
+Chemical Engineering,Bachelor,Process Control,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.08540500945493555
+Chemical Engineering,Bachelor,Production Line,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.08072799816637326
+Chemical Engineering,Bachelor,Grading of Landscape,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.0464210603889126
+Chemical Engineering,Bachelor,Boundary Value Problem,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.05539635373782523
+Chemical Engineering,Bachelor,Energy Supply,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.07413612098898024
+Chemical Engineering,Bachelor,Systems Analysis,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.05819022123446263
+Chemical Engineering,Bachelor,Insulators,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.07710022637103009
+Chemical Engineering,Bachelor,Material Design,,11,Bachelor Cycle - Chemical Engineering - EPFL,Chemical Engineering,0.08540500945493555

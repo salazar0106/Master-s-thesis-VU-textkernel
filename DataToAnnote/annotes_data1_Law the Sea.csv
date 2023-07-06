@@ -1,0 +1,76 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Law the Sea,Master,Microsoft FrontPage,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.12323998988976807
+Law the Sea,Master,Legal Research,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.11470640077261715
+Law the Sea,Master,Knowledge of the Maritime Sector,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.10808723481337401
+Law the Sea,Master,International Laws,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.09177106538835787
+Law the Sea,Master,Knowledge of Laws,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.06281942457870017
+Law the Sea,Master,Offshore Work,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.14067566060802558
+Law the Sea,Master,Economy,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.04038432471684473
+Law the Sea,Master,Contract Law,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.14067566060802558
+Law the Sea,Master,European Union Laws,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.11728744217508923
+Law the Sea,Master,Legal Knowledge,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.09955364569622309
+Law the Sea,Master,International Sales,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.09177106538835787
+Law the Sea,Master,Marine Insurance,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.16785583402316998
+Law the Sea,Master,Competition Law,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.11728744217508923
+Law the Sea,Master,Environmental Laws,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.11470640077261715
+Law the Sea,Master,Climate Change,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.06746377388073675
+Law the Sea,Master,Mobile Device Management,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.13069479599528375
+Law the Sea,Master,Expediting,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.12011465315212433
+Law the Sea,Master,Commercial Laws,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.13069479599528375
+Law the Sea,Master,Foreign Direct Investments,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.12011465315212433
+Law the Sea,Master,Energy Law,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.15582841568441963
+Law the Sea,Master,Knowledge of Finance,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.05628636394404599
+Law the Sea,Master,Sales,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.09177106538835787
+Law the Sea,Master,Oil and Gas,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.14067566060802558
+Law the Sea,Master,Architecture,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.05663330665335806
+Law the Sea,Master,Renewable Energy,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.09293447973697995
+Law the Sea,Master,Employment Contracts,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.16785583402316998
+Law the Sea,Master,International Standards,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.13526740822851838
+Law the Sea,Master,Naval Architecture,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.14067566060802558
+Law the Sea,Master,Ship Management,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.16785583402316998
+Law the Sea,Master,Loss Prevention,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.16785583402316998
+Law the Sea,Master,Tort Law,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.16785583402316998
+Law the Sea,Master,Freight Forwarding,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.14067566060802558
+Law the Sea,Master,Accident Analysis,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.14729482656726872
+Law the Sea,Master,Competition Analysis,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.14067566060802558
+Law the Sea,Master,Public Administration,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.12673381911136747
+Law the Sea,Master,Infrastructure Management,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.06696521990157152
+Law the Sea,Master,Justice,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.05995315729122713
+Law the Sea,Master,Public Law,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.10267898243386682
+Law the Sea,Master,Quality Management,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.07484684291745052
+Law the Sea,Master,Scientific Studies,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.05698435528882969
+Law the Sea,Master,Safety Principles,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.07826017476674013
+Law the Sea,Master,Curriculum Development,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.08853185801762666
+Law the Sea,Master,Judicial Opinion,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.15582841568441963
+Law the Sea,Master,Consulting,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.055943432222975084
+Law the Sea,Master,Grading of Landscape,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.08469901638043764
+Law the Sea,Master,Marketing,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.08381348006850245
+Law the Sea,Master,Business Partnerships,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.10617281165546623
+Law the Sea,Master,Electricity Generation,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.15582841568441963
+Law the Sea,Master,Energy Market,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.11013378853938251
+Law the Sea,Master,Oil Refinery,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.16785583402316998
+Law the Sea,Master,Electrical Installations,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.09293447973697995
+Law the Sea,Master,Resource Management,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.10617281165546623
+Law the Sea,Master,Trading,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.12011465315212433
+Law the Sea,Master,Wholesaling,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.14729482656726872
+Law the Sea,Master,Insurance Law,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.15582841568441963
+Law the Sea,Master,Insurance Management and Aftercare,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.14729482656726872
+Law the Sea,Master,International Business,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.12673381911136747
+Law the Sea,Master,Private Law,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.13526740822851838
+Law the Sea,Master,Contract Management,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.11233207284425913
+Law the Sea,Master,Energy Technology,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.09065156409511649
+Law the Sea,Master,Governance,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.06074422453130329
+Law the Sea,Master,Energy Efficiency,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.12011465315212433
+Law the Sea,Master,Money Investments,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.08957278108348127
+Law the Sea,Master,Air Pollution,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.1043744875244037
+Law the Sea,Master,Biology,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.05333399133198398
+Law the Sea,Master,Environmental Protection,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.08051416474712837
+Law the Sea,Master,Negotiation Skills,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.07064502630598803
+Law the Sea,Master,Strategies of Pricing,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.09955364569622309
+Law the Sea,Master,General Knowledge,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.08752622735747276
+Law the Sea,Master,Mergers and Acquisitions,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.12011465315212433
+Law the Sea,Master,Administrative Laws,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.12011465315212433
+Law the Sea,Master,Discussion Groups,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.14067566060802558
+Law the Sea,Master,Economic Theories,,116,Maritime Law (master's 1 1/2-years) – University of Oslo,Law the Sea,0.11233207284425913
+Law the Sea,Master,Sustainability,,116,Law of the Sea - master | UiT,Law the Sea,0.0641380089245364
+Law the Sea,Master,Insurance Claim Processing,,116,Law of the Sea - master | UiT,Law the Sea,0.07484684291745052

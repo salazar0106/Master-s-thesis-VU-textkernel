@@ -1,0 +1,147 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Linguistics,Master,Linguistics,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06540094888555849
+Linguistics,Master,Academic Writing,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04671230798083214
+Linguistics,Master,Databases,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.044077803608005686
+Linguistics,Master,Stock Control,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0876270220434677
+Linguistics,Master,Data Presentation,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.10333407798314169
+Linguistics,Master,Encodings,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0895987426305155
+Linguistics,Master,Pragmatics,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07973422108507058
+Linguistics,Master,Decoding,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.10333407798314169
+Linguistics,Master,Euclidean Geometry,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.05717733195388586
+Linguistics,Master,Inflection,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.107465574109632
+Linguistics,Master,Knowledge of Vocabularies,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06842683590130257
+Linguistics,Master,Word Formation,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.107465574109632
+Linguistics,Master,Morphology,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06925094460059013
+Linguistics,Master,Lexicons,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.107465574109632
+Linguistics,Master,Diagnostic Tests,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.107465574109632
+Linguistics,Master,Semantics,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07843898332202891
+Linguistics,Master,Data Visualization,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.05574566697737264
+Linguistics,Master,Digital Data,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.08110800482523249
+Linguistics,Master,Intellectual Property Laws,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07494585311953778
+Linguistics,Master,Digital Archives,,23,MA Linguistics: Pre-master Linguistics (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.09175851816995802
+Linguistics,Master,Data Analysis,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04171793412641695
+Linguistics,Master,Execution of Experiments,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04196832884773244
+Linguistics,Master,Consulting,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04273655467847377
+Linguistics,Master,Independent Studies,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.053543888660916125
+Linguistics,Master,Design of Experiments,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0581846307511675
+Linguistics,Master,Spelling and Grammar,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06034440629061001
+Linguistics,Master,Machine Learning,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04702487144268092
+Linguistics,Master,Natural Language Processing,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07191996610379371
+Linguistics,Master,Data Collection,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04380312761813483
+Linguistics,Master,Algorithms,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.05005075845842499
+Linguistics,Master,Knowledge of Statistics,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.036413733419263385
+Linguistics,Master,Cognition Processing,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06925094460059013
+Linguistics,Master,Big Data,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.050781805459315
+Linguistics,Master,Data Science,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04671230798083214
+Linguistics,Master,Text Processing,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.09984094778065056
+Linguistics,Master,Data Conversion,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.12822917264425449
+Linguistics,Master,Data Sharing,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.11252211670458048
+Linguistics,Master,Analysis of Variance (ANOVA),,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07010615899002087
+Linguistics,Master,Logistic Regression,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06337029330635409
+Linguistics,Master,Transcribing Skills,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.107465574109632
+Linguistics,Master,Empirical Research,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.05621291016411971
+Linguistics,Master,Fishing,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.11904113392281569
+Linguistics,Master,Praat,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.11904113392281569
+Linguistics,Master,Information Technology,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04196832884773244
+Linguistics,Master,Statistical Hypothesis Testing,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06211105315487159
+Linguistics,Master,Forecasting Skills,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.053543888660916125
+Linguistics,Master,Phonetics,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.11252211670458048
+Linguistics,Master,Speech-Language Pathology,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.11252211670458048
+Linguistics,Master,Discourse Analysis,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07721379350258982
+Linguistics,Master,Cognitive Neuroscience,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0895987426305155
+Linguistics,Master,Language Disorder (Professional Expertise),,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.12822917264425449
+Linguistics,Master,Artificial Intelligence,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04273655467847377
+Linguistics,Master,Language Development,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.08110800482523249
+Linguistics,Master,Microsoft PowerPoint,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.05923879717986378
+Linguistics,Master,Electrical Transformers,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.11904113392281569
+Linguistics,Master,Deep Learning,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.058705584538341224
+Linguistics,Master,Forensic Sciences,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.11904113392281569
+Linguistics,Master,Immigration,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.08257047944851922
+Linguistics,Master,Justice,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04579968162324183
+Linguistics,Master,Second-Language Acquisition,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.08581321492969488
+Linguistics,Master,Knowledge-Based Systems,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.11904113392281569
+Linguistics,Master,Psychology,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.049693892945884506
+Linguistics,Master,Cisco Nexus Switches,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.08110800482523249
+Linguistics,Master,Budget Support,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.107465574109632
+Linguistics,Master,Knowledge of Finance,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.042998528598667235
+Linguistics,Master,Prehistory,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07288438789355986
+Linguistics,Master,Securities Research,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.10333407798314169
+Linguistics,Master,Qualitative Research,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06842683590130257
+Linguistics,Master,Computer Simulation,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.055287863695661535
+Linguistics,Master,Multimedia,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06612039000055532
+Linguistics,Master,Maintenance,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06612039000055532
+Linguistics,Master,Stemming,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.08257047944851922
+Linguistics,Master,Tablet Computers,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.09984094778065056
+Linguistics,Master,Glossary,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.11904113392281569
+Linguistics,Master,Business Analytics Applications,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0581846307511675
+Linguistics,Master,Ecology,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.050781805459315
+Linguistics,Master,Elearning,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.08110800482523249
+Linguistics,Master,Social Change,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0738916866908415
+Linguistics,Master,Blended Learning,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.09414603926170291
+Linguistics,Master,Data Retrieval,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.12822917264425449
+Linguistics,Master,Case Studies,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04702487144268092
+Linguistics,Master,Biology,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.040743139028293344
+Linguistics,Master,Calculations,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.050781805459315
+Linguistics,Master,Genetic Algorithm,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.09414603926170291
+Linguistics,Master,Knowledge of Mathematics,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.044077803608005686
+Linguistics,Master,Automatic Programming,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.107465574109632
+Linguistics,Master,Optimization Algorithms,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07191996610379371
+Linguistics,Master,Biomedical Engineering,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06211105315487159
+Linguistics,Master,Knowledge Discovery,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07843898332202891
+Linguistics,Master,Processing of Documents,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.09984094778065056
+Linguistics,Master,Information Extraction,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.08581321492969488
+Linguistics,Master,Research and Development,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06763164933958656
+Linguistics,Master,Sentiment Analysis,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.10333407798314169
+Linguistics,Master,Text Mining,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07843898332202891
+Linguistics,Master,Transfer Learning,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0895987426305155
+Linguistics,Master,Annotations,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0968150607649065
+Linguistics,Master,Document Classification,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0895987426305155
+Linguistics,Master,Data Mining,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.060918120268582086
+Linguistics,Master,Open-Source Software,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0895987426305155
+Linguistics,Master,Outliers,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0895987426305155
+Linguistics,Master,Social Network Analysis,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07721379350258982
+Linguistics,Master,Anonymization,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.08581321492969488
+Linguistics,Master,Computer Programming,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0486558263343565
+Linguistics,Master,Glasgow Haskell Compiler,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.107465574109632
+Linguistics,Master,Programming Languages,,23,Linguistics: Linguistics (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.05153722513446762
+Linguistics,Bachelor,Administrative Operations,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04273655467847377
+Linguistics,Bachelor,Assembly and Installation,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07010615899002087
+Linguistics,Bachelor,Social Issue,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.08257047944851922
+Linguistics,Bachelor,Journalism,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06150673756291583
+Linguistics,Bachelor,New Media,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06337029330635409
+Linguistics,Master,Multimethodology,,23,Linguistics (research) (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.09175851816995802
+Linguistics,Bachelor,Primary Research,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.08257047944851922
+Linguistics,Master,Surveys,,23,Linguistics (research) (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06842683590130257
+Linguistics,Bachelor,Data Management,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0647036479694027
+Linguistics,Bachelor,SPSS (Software),,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0895987426305155
+Linguistics,Bachelor,Computational Statistics,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.08581321492969488
+Linguistics,Master,Word Order,,23,Linguistics (research) (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.11252211670458048
+Linguistics,Master,Feedback Management,,23,Linguistics (research) (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06273192738235492
+Linguistics,Master,Drawing Skills,,23,Linguistics (research) (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06150673756291583
+Linguistics,Master,Log Files,,23,Linguistics (research) (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.12822917264425449
+Linguistics,Master,Regular Expressions,,23,Linguistics (research) (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.10333407798314169
+Linguistics,Master,Social Sciences,,23,Linguistics (research) (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04380312761813483
+Linguistics,Bachelor,General Knowledge,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06686342350884522
+Linguistics,Bachelor,Ethnography,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.08257047944851922
+Linguistics,Bachelor,Intercultural Communication,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.09414603926170291
+Linguistics,Bachelor,Instrumental Chemistry,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.11904113392281569
+Linguistics,Bachelor,Scientific Studies,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04353174124018978
+Linguistics,Bachelor,Scala (Programming Language),,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07288438789355986
+Linguistics,Bachelor,Software Applications,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.107465574109632
+Linguistics,Bachelor,Field Research,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.05005075845842499
+Linguistics,Bachelor,Electrophysiology,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.09984094778065056
+Linguistics,Bachelor,Confidence Intervals,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.07973422108507058
+Linguistics,Bachelor,Linear Regression,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06211105315487159
+Linguistics,Bachelor,Sample Size Determination,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.12822917264425449
+Linguistics,Bachelor,Microsoft Excel,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.09175851816995802
+Linguistics,Bachelor,Qualtrics,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.12822917264425449
+Linguistics,Bachelor,Parsing,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.11904113392281569
+Linguistics,Bachelor,Computational Linguistics,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.09984094778065056
+Linguistics,Bachelor,Python (Programming Language),,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.050781805459315
+Linguistics,Bachelor,Simulations,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.04463735035093602
+Linguistics,Bachelor,Pandas,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.11904113392281569
+Linguistics,Bachelor,Spacy,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.12822917264425449
+Linguistics,Bachelor,Religious Studies,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06612039000055532
+Linguistics,Bachelor,Art History,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.06925094460059013
+Linguistics,Bachelor,Innovation,,23,Linguistics (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0384751986452413
+Linguistics,Master,Unity 3d,,23,Linguistics (research) (Master 2022-2023) - Prospectus - Universiteit Leiden,Linguistics,0.0876270220434677

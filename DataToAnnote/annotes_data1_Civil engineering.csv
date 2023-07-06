@@ -1,0 +1,352 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Civil engineering,Master,Architecture,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.027092451547609787
+Civil engineering,Master,Google Analytics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04564156176369704
+Civil engineering,Master,Physics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.02964632139610759
+Civil engineering,Master,Site Maps,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04627235103969081
+Civil engineering,Master,Knowledge of Civil Engineering,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.046932489699767405
+Civil engineering,Master,Geology,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.047624842725882195
+Civil engineering,Master,Social Sciences,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.02743033470413298
+Civil engineering,Master,Search Engines,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.040955292816945904
+Civil engineering,Master,Knowledge of Humanities,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.051707172777678896
+Civil engineering,Master,Administrative Operations,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.02676242685571803
+Civil engineering,Master,Applied Mechanics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.047624842725882195
+Civil engineering,Master,Ecology,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.031800512802936956
+Civil engineering,Master,Fluid Mechanics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04235219900620438
+Civil engineering,Master,Numerical Analysis,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03490897537785398
+Civil engineering,Master,Construction,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.026439903378297516
+Civil engineering,Master,Risk Analysis,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.034622290432535445
+Civil engineering,Master,Innovation,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.024093886305279127
+Civil engineering,Master,Physical Therapy,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04627235103969081
+Civil engineering,Master,Accounting,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.040095003840956545
+Civil engineering,Master,Operations Research,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03851666512533586
+Civil engineering,Master,Artificial Intelligence,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.02676242685571803
+Civil engineering,Master,Knowledge of Electrical Engineering,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.036436299938549285
+Civil engineering,Master,Applied Mathematics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03851666512533586
+Civil engineering,Master,Automation,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03490897537785398
+Civil engineering,Master,Banking Services,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.040095003840956545
+Civil engineering,Master,Raw Materials,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03276294407599103
+Civil engineering,Master,Fundamental Science,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03379543002829612
+Civil engineering,Master,Biotechnology,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03611740062719255
+Civil engineering,Master,Biology,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.025514112831989094
+Civil engineering,Master,Biopharmaceuticals,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04564156176369704
+Civil engineering,Master,Biomaterial,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04564156176369704
+Civil engineering,Master,Corporate Finance,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.042850159647970704
+Civil engineering,Master,Business Performance Management,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04445834153367696
+Civil engineering,Master,Urban Planning,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03851666512533586
+Civil engineering,Master,Medical Laboratory,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.045037622868742605
+Civil engineering,Master,Clinical Research,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.040955292816945904
+Civil engineering,Master,Combinatorics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03968365845576547
+Civil engineering,Master,Computer Networks,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03928390181939778
+Civil engineering,Master,Computer Engineering,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.045037622868742605
+Civil engineering,Master,Control Systems,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.041405820248601434
+Civil engineering,Master,Data Transmissions,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03709643859862588
+Civil engineering,Master,Mathematical Finance,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04390178305718249
+Civil engineering,Master,Digital Marketing,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04627235103969081
+Civil engineering,Master,Electrochemistry,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.043366231871194476
+Civil engineering,Master,Instrumentation,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.036436299938549285
+Civil engineering,Master,Electronics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.034622290432535445
+Civil engineering,Master,Embedded Computers,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.040955292816945904
+Civil engineering,Master,Knowledge of Engineering,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03434128279161172
+Civil engineering,Master,Engineering Physics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04445834153367696
+Civil engineering,Master,Knowledge of Finance,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.026926479805939
+Civil engineering,Master,Sales,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04390178305718249
+Civil engineering,Master,Gene Therapy,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.045037622868742605
+Civil engineering,Master,Health Physics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04390178305718249
+Civil engineering,Master,Marketing,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.040095003840956545
+Civil engineering,Master,Image Processing,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03520157176760108
+Civil engineering,Master,Industrial Engineering,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04627235103969081
+Civil engineering,Master,Infertility,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.046932489699767405
+Civil engineering,Master,Mechanical Engineering,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03743839302820685
+Civil engineering,Master,Market Research,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.042850159647970704
+Civil engineering,Master,Knowledge of Mathematics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.027602341927065326
+Civil engineering,Master,Project Management,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03089923076383573
+Civil engineering,Master,Medical Physics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04627235103969081
+Civil engineering,Master,Microelectronics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.045037622868742605
+Civil engineering,Master,Nanostructure,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04390178305718249
+Civil engineering,Master,Nuclear Power,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.034622290432535445
+Civil engineering,Master,Operations Management,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04445834153367696
+Civil engineering,Master,Pharmaceutical Engineering,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.047624842725882195
+Civil engineering,Master,Pharmacology,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04187112167653737
+Civil engineering,Master,Energy Transformation,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03778879162474067
+Civil engineering,Master,Product Design,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.040095003840956545
+Civil engineering,Master,Quality Management,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03580551066255552
+Civil engineering,Master,Quantum,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.034622290432535445
+Civil engineering,Master,Robotic Automation Software,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.046932489699767405
+Civil engineering,Master,Simulations,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.027952740523599157
+Civil engineering,Master,Knowledge of Statistics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.022802958369208766
+Civil engineering,Master,Structural Biology,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04187112167653737
+Civil engineering,Master,Tissue Engineering,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.045037622868742605
+Civil engineering,Master,Toxicology,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04564156176369704
+Civil engineering,Master,Urban Design,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.04564156176369704
+Civil engineering,Master,Imaging,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.034065731956040964
+Civil engineering,Master,Brand Management,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.041405820248601434
+Civil engineering,Master,Advanced Logic Research,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.041405820248601434
+Civil engineering,Master,Data Science,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.029252117654408896
+Civil engineering,Master,Quality Control,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03928390181939778
+Civil engineering,Master,Information Technology,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.026281349526051028
+Civil engineering,Master,Risk Management,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03778879162474067
+Civil engineering,Master,Execution of Experiments,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.026281349526051028
+Civil engineering,Master,Foreign Languages,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.051707172777678896
+Civil engineering,Master,Signal Processing,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.03778879162474067
+Civil engineering,Master,Reinforced Concrete,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.07046344612037048
+Civil engineering,Master,Image Analysis,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.038148062007837664
+Civil engineering,Master,Reservoir Engineering,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.07046344612037048
+Civil engineering,Master,Soil Mechanics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.080299497221512
+Civil engineering,Master,Seismology,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.06470972507102564
+Civil engineering,Master,Soil Science,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.053737834158324005
+Civil engineering,Master,Vulnerability,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.046932489699767405
+Civil engineering,Master,Basic Engineering,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.07454577617216716
+Civil engineering,Master,Consulting,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.02676242685571803
+Civil engineering,Master,Hydraulics,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.05895600402168083
+Civil engineering,Master,Production Management,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.06252226185025375
+Civil engineering,Master,Public Services,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.047624842725882195
+Civil engineering,Master,Offshore Work,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.06729694492816524
+Civil engineering,Master,Contract Management,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.053737834158324005
+Civil engineering,Master,Municipal or Urban Engineering,,77,Master in Civil engineering - Catalogue des formations,Civil engineering,0.080299497221512
+Civil engineering,Master,Instructional Design,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03611740062719255
+Civil engineering,Master,Sustainability,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03068257888920446
+Civil engineering,Master,Integrated Design,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.053737834158324005
+Civil engineering,Master,Structural Engineering,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05487367396988413
+Civil engineering,Master,Scheduling,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03227357067935546
+Civil engineering,Master,Desktop Virtualization,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.040955292816945904
+Civil engineering,Master,Water Resource Management,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.045037622868742605
+Civil engineering,Master,Maintenance,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.041405820248601434
+Civil engineering,Bachelor,Algorithms,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.03134271754928106
+Civil engineering,Master,Systems Engineering,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04390178305718249
+Civil engineering,Master,Elasticity,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.047624842725882195
+Civil engineering,Master,Infrastructure Management,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03203507057539585
+Civil engineering,Master,Microsoft PowerPoint,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03709643859862588
+Civil engineering,Master,Structural Dynamics,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Master,Computer Programming,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.030469185061228664
+Civil engineering,Master,Linear Algebra,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.036762530907080516
+Civil engineering,Master,Forecasting Skills,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03353018077005295
+Civil engineering,Master,Measurement and Metrology,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.034622290432535445
+Civil engineering,Master,Economy,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.019319203227367635
+Civil engineering,Bachelor,Deformation,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.05487367396988413
+Civil engineering,Bachelor,Data Collection,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.02743033470413298
+Civil engineering,Bachelor,Python (Programming Language),,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.031800512802936956
+Civil engineering,Master,HVAC,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06062739501922895
+Civil engineering,Master,Ventilation,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05895600402168083
+Civil engineering,Master,Dynamic Program Analysis,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06470972507102564
+Civil engineering,Master,Ethical Codes,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.046932489699767405
+Civil engineering,Master,Transportation Management,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05487367396988413
+Civil engineering,Master,Finite Element Methods,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.046932489699767405
+Civil engineering,Master,Hydroelectricity,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.053737834158324005
+Civil engineering,Master,Manufacturing,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03611740062719255
+Civil engineering,Master,Seismic Analysis,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Master,Steel Frames,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Structural Mechanics,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06470972507102564
+Civil engineering,Master,Fluid Dynamics,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04627235103969081
+Civil engineering,Master,Case Studies,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.029447850718256258
+Civil engineering,Master,Machine Learning,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.029447850718256258
+Civil engineering,Bachelor,Interpolation,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.04051862999034598
+Civil engineering,Bachelor,Feature Engineering,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Bachelor,Probability and Statistics,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.041405820248601434
+Civil engineering,Master,Air Pollution,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04993105494209806
+Civil engineering,Master,Heat Transfer,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05895600402168083
+Civil engineering,Master,Mass Transfer,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06252226185025375
+Civil engineering,Master,Vibrations,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.056108402140832334
+Civil engineering,Master,Modelling Skills,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03778879162474067
+Civil engineering,Master,Conceptual Design,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06252226185025375
+Civil engineering,Master,Drawing Skills,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03851666512533586
+Civil engineering,Master,Composite Materials,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05079134391808743
+Civil engineering,Master,Composite Structures,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06729694492816524
+Civil engineering,Master,Lamination of Floors,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Master,Testing Skills,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.041405820248601434
+Civil engineering,Master,Program Evaluations,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04187112167653737
+Civil engineering,Master,EuroCodes (Building Code),,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Structural Systems,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Master,Differential Equations,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.040955292816945904
+Civil engineering,Master,MATLAB,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04051862999034598
+Civil engineering,Master,Creating Prototypes,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03434128279161172
+Civil engineering,Master,Boundary Value Problem,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04835271622647737
+Civil engineering,Master,Construction Law,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Master,Data Analysis,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.02612454768592424
+Civil engineering,Master,Big Data,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.031800512802936956
+Civil engineering,Master,Decision Support Systems,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06252226185025375
+Civil engineering,Master,Mathematical Modeling,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03889509880931348
+Civil engineering,Master,Environmental Auditing,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07046344612037048
+Civil engineering,Master,Calculations,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.031800512802936956
+Civil engineering,Master,Climate Change,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03227357067935546
+Civil engineering,Master,Computational Science and Engineering,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.040955292816945904
+Civil engineering,Master,Geometry,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04390178305718249
+Civil engineering,Bachelor,Traffic Flow,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Bachelor,Transport Engineering,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Bachelor,Traffic Control,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Bachelor,Technical Skills,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.04993105494209806
+Civil engineering,Bachelor,Thermodynamics,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.04835271622647737
+Civil engineering,Bachelor,Built Environment,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.053737834158324005
+Civil engineering,Bachelor,Geotechnical Engineering,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Bachelor,Knowledge of Advertising,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.051707172777678896
+Civil engineering,Bachelor,Bridge Building,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Bachelor,Condition Monitoring,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Bachelor,Anomaly Detection,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.053737834158324005
+Civil engineering,Bachelor,Geographic Information Systems,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.04993105494209806
+Civil engineering,Bachelor,SQL Databases,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.053737834158324005
+Civil engineering,Bachelor,Hydrology,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.06252226185025375
+Civil engineering,Bachelor,International Standards,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.06470972507102564
+Civil engineering,Bachelor,Water Treatment,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.06729694492816524
+Civil engineering,Bachelor,Autodesk Revit,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.07046344612037048
+Civil engineering,Bachelor,Building Information Modeling,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.07046344612037048
+Civil engineering,Bachelor,Construction Management,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.06470972507102564
+Civil engineering,Bachelor,Computer Simulation,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.034622290432535445
+Civil engineering,Bachelor,Control Communications,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.056108402140832334
+Civil engineering,Bachelor,Dynamical Systems,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.04051862999034598
+Civil engineering,Bachelor,Performance Management,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.04445834153367696
+Civil engineering,Bachelor,Environmental Monitoring,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.06062739501922895
+Civil engineering,Bachelor,Frequency Domain,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.04993105494209806
+Civil engineering,Bachelor,Intelligent Systems,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.042850159647970704
+Civil engineering,Bachelor,Sensor Systems,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.07046344612037048
+Civil engineering,Bachelor,Resource Constraints,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.06729694492816524
+Civil engineering,Bachelor,Robotics Design and Production,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.03611740062719255
+Civil engineering,Bachelor,Software Requirements Analysis,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.06062739501922895
+Civil engineering,Bachelor,PIC Microcontroller,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.05268621074911223
+Civil engineering,Bachelor,Sensors,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.040955292816945904
+Civil engineering,Bachelor,Actuators,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.047624842725882195
+Civil engineering,Bachelor,Design Control,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.053737834158324005
+Civil engineering,Bachelor,Microsoft Basic Data Partition,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.05079134391808743
+Civil engineering,Bachelor,Building Design,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.07046344612037048
+Civil engineering,Bachelor,Green Building,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Bachelor,Health Risks,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.06729694492816524
+Civil engineering,Bachelor,Linear Programming,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.04564156176369704
+Civil engineering,Bachelor,Optimization Algorithms,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.045037622868742605
+Civil engineering,Bachelor,Simplex Dental Software,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.056108402140832334
+Civil engineering,Bachelor,Microstructure,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.05895600402168083
+Civil engineering,Bachelor,Construction Plant Operation,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.06729694492816524
+Civil engineering,Bachelor,Creation of Textures,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.04627235103969081
+Civil engineering,Bachelor,Steel Design,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Bachelor,Shear (Sheet Metal),,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Bachelor,Global Positioning Systems (GPS),,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.05487367396988413
+Civil engineering,Bachelor,Moodle,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.04390178305718249
+Civil engineering,Bachelor,Artificial Neural Networks,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.036762530907080516
+Civil engineering,Bachelor,Linear Regression,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.03889509880931348
+Civil engineering,Bachelor,Logistic Regression,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.03968365845576547
+Civil engineering,Bachelor,Support Vector Machine,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.04564156176369704
+Civil engineering,Bachelor,Supervised Learning,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.041405820248601434
+Civil engineering,Bachelor,Transfer Learning,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.056108402140832334
+Civil engineering,Bachelor,Random Forest,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Bachelor,Deep Learning,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.036762530907080516
+Civil engineering,Bachelor,Naive Bayes,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.06252226185025375
+Civil engineering,Bachelor,Unsupervised Learning,,77,Bachelor Cycle - Civil Engineering - EPFL,Civil engineering,0.03743839302820685
+Civil engineering,Master,Building Codes,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07046344612037048
+Civil engineering,Master,Simulation Software,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.053737834158324005
+Civil engineering,Master,Iso Standards,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07046344612037048
+Civil engineering,Master,Network Analysis,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.051707172777678896
+Civil engineering,Master,Conflict Resolution,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03889509880931348
+Civil engineering,Master,Traffic Analysis,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Road Traffic Controls,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07046344612037048
+Civil engineering,Master,Experimental Data,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.040955292816945904
+Civil engineering,Master,Laboratory Tests,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Batteries,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04993105494209806
+Civil engineering,Master,Cognition Processing,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.043366231871194476
+Civil engineering,Master,Design Elements and Principles,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.041405820248601434
+Civil engineering,Master,Articulation,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06470972507102564
+Civil engineering,Master,Structures of Concrete,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Bulletins,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Building Cladding,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07046344612037048
+Civil engineering,Master,Structural Works,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Welding,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06252226185025375
+Civil engineering,Master,Metalworking,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06252226185025375
+Civil engineering,Master,Retrofitting,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Wind Engineering,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Equations,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03743839302820685
+Civil engineering,Master,Euclidean Geometry,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03580551066255552
+Civil engineering,Master,Student-Centred Learning,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,System Dynamics,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05746089382702372
+Civil engineering,Master,Systems Integration,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06252226185025375
+Civil engineering,Master,Laboratory Techniques,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04235219900620438
+Civil engineering,Master,Mechanical Systems,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05268621074911223
+Civil engineering,Master,Multidisciplinary Approach,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.029059047708171956
+Civil engineering,Master,Polymer Chemistry,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04564156176369704
+Civil engineering,Master,Stress Testing,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07046344612037048
+Civil engineering,Master,Life Cycle Assessment,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05746089382702372
+Civil engineering,Master,Modeling and Simulation,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.0491199529205393
+Civil engineering,Master,Biological Engineering,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06252226185025375
+Civil engineering,Master,Justice,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.02868061402419433
+Civil engineering,Master,Arbitrage,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06062739501922895
+Civil engineering,Master,Architectural Drawings,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Kinematics,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05268621074911223
+Civil engineering,Master,AngularJS,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04627235103969081
+Civil engineering,Master,Membranes,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.051707172777678896
+Civil engineering,Master,IBM ILOG CPLEX Optimization Studio (CPLEX),,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Master,Software Tools,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04390178305718249
+Civil engineering,Master,Software Engineering,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.040095003840956545
+Civil engineering,Master,Systems Design,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04993105494209806
+Civil engineering,Master,Autonomous Vehicles,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05895600402168083
+Civil engineering,Master,Recurrent Neural Networks,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.051707172777678896
+Civil engineering,Master,Heat Exchanger,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06729694492816524
+Civil engineering,Master,Hydraulic Fracturing,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Radioactive Waste,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07046344612037048
+Civil engineering,Master,Scientific Literature,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.02886856938319062
+Civil engineering,Master,Partial Differential Equation,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04835271622647737
+Civil engineering,Master,Electric Current,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Electromagnetism,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04235219900620438
+Civil engineering,Master,Remote Sensing,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05487367396988413
+Civil engineering,Master,Surveys,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.042850159647970704
+Civil engineering,Master,Aerosols,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06729694492816524
+Civil engineering,Master,Air Filters,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Master,Air Pollution Control,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07046344612037048
+Civil engineering,Master,Energy Conservation,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.051707172777678896
+Civil engineering,Master,Knowledge of Purchasing Processes,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05895600402168083
+Civil engineering,Master,Particle Physics,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.043366231871194476
+Civil engineering,Master,Software Version Control,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.0491199529205393
+Civil engineering,Master,3D Printing,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.053737834158324005
+Civil engineering,Master,Augmented Reality,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05895600402168083
+Civil engineering,Master,Innovation Management,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04993105494209806
+Civil engineering,Master,Intellectual Property,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04564156176369704
+Civil engineering,Master,Circular Economy,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.053737834158324005
+Civil engineering,Master,Aircraft Maintenance,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Fault Detection and Isolation,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05487367396988413
+Civil engineering,Master,Predictive Maintenance,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Master,Feature Extraction,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.046932489699767405
+Civil engineering,Master,Safety Principles,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03743839302820685
+Civil engineering,Master,Diagnostic Skills,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04564156176369704
+Civil engineering,Master,Energy Production,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.047624842725882195
+Civil engineering,Master,Financial Engineering,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.046932489699767405
+Civil engineering,Master,Open Source Technology,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05079134391808743
+Civil engineering,Master,Object-Oriented Software Development,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06729694492816524
+Civil engineering,Master,Programming Concepts,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06729694492816524
+Civil engineering,Master,Scientific Computating,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04993105494209806
+Civil engineering,Master,Object-Oriented Programming (OOP),,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.051707172777678896
+Civil engineering,Master,Programming Languages,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03227357067935546
+Civil engineering,Master,Entrepreneurship,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03068257888920446
+Civil engineering,Master,Optics and Eyewear,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03520157176760108
+Civil engineering,Master,Microscopy,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04235219900620438
+Civil engineering,Master,Image Quality,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05895600402168083
+Civil engineering,Master,Object Detection,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06252226185025375
+Civil engineering,Master,Photography Skills,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04627235103969081
+Civil engineering,Master,Tomography,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05487367396988413
+Civil engineering,Master,Radiology,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.047624842725882195
+Civil engineering,Master,Satellite Imagery,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Master,Image Acquisition,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.045037622868742605
+Civil engineering,Master,Drones,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05268621074911223
+Civil engineering,Master,Academic Writing,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.029252117654408896
+Civil engineering,Master,Data Visualization,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03490897537785398
+Civil engineering,Master,Failure Causes,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05895600402168083
+Civil engineering,Master,Spectral Analysis,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.04993105494209806
+Civil engineering,Master,Masonry and Bricklaying Work,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06729694492816524
+Civil engineering,Master,Alarm Devices,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Slope Stability,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Master,Drainage Systems,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Girders,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Ergonomics,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05895600402168083
+Civil engineering,Master,Cost Benefit Analysis,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06470972507102564
+Civil engineering,Master,Consumer Behaviour,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Environmental Protection,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.03851666512533586
+Civil engineering,Master,Microeconomics,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06062739501922895
+Civil engineering,Master,Transportation of Passengers,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Strategies of Pricing,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.047624842725882195
+Civil engineering,Master,Real Estate,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07046344612037048
+Civil engineering,Master,Freight Forwarding,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06729694492816524
+Civil engineering,Master,Tunnels,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06470972507102564
+Civil engineering,Master,Underground Construction Projects,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Manholes,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.080299497221512
+Civil engineering,Master,Sustainable Design,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06252226185025375
+Civil engineering,Master,Water Supply,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06470972507102564
+Civil engineering,Master,Economic Analysis,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.05487367396988413
+Civil engineering,Master,Value (Economy),,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06729694492816524
+Civil engineering,Master,Governance,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.029059047708171956
+Civil engineering,Master,Impact Assessment,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.06252226185025375
+Civil engineering,Master,Rate of Return,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Master,Net Present Value,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.07454577617216716
+Civil engineering,Master,Water Quality,,77,Master Cycle - Civil Engineering - EPFL,Civil engineering,0.053737834158324005

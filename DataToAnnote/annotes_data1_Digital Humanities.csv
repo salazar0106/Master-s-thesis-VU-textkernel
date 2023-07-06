@@ -1,0 +1,311 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Digital Humanities,Master,Instructional Design,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04045197989962758
+Digital Humanities,Master,Information Technology,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.02943546889591156
+Digital Humanities,Master,Data Science,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03276276960216197
+Digital Humanities,Master,Algorithms,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03510426991660766
+Digital Humanities,Master,Machine Learning,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03298199329564352
+Digital Humanities,Master,Knowledge of Statistics,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.025539623494078085
+Digital Humanities,Master,Knowledge of Electrical Engineering,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04080915146538238
+Digital Humanities,Master,Computer Programming,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.034125901649934474
+Digital Humanities,Master,Biology,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.028576153364132037
+Digital Humanities,Master,Python (Programming Language),,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03561700682672434
+Digital Humanities,Master,Linear Algebra,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.041174534586883256
+Digital Humanities,Master,Deep Learning,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.041174534586883256
+Digital Humanities,Master,Robotics Design and Production,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04045197989962758
+Digital Humanities,Master,Data Analysis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.029259848702462257
+Digital Humanities,Master,Ecology,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03561700682672434
+Digital Humanities,Master,Knowledge of Mathematics,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03091499835056337
+Digital Humanities,Master,Signal Processing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04232396054782326
+Digital Humanities,Master,Computational Science and Engineering,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.045870484947555225
+Digital Humanities,Master,Creating Prototypes,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.038462703768548746
+Digital Humanities,Master,Computer Vision,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05044275012531539
+Digital Humanities,Master,Intelligent Systems,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04799276156851936
+Digital Humanities,Master,Probability and Statistics,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04637508179818901
+Digital Humanities,Master,Scheduling,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.036146838081907044
+Digital Humanities,Master,Data Collection,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03072234792157842
+Digital Humanities,Master,Data Mining,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.042726348262974306
+Digital Humanities,Master,Entrepreneurship,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03436490563942652
+Digital Humanities,Master,Visualization,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03755425847340368
+Digital Humanities,Master,Sustainability,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03436490563942652
+Digital Humanities,Master,Case Studies,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03298199329564352
+Digital Humanities,Master,Image Processing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03942623912159937
+Digital Humanities,Master,Architecture,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.030343914191056618
+Digital Humanities,Master,Data Visualization,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03909852718576748
+Digital Humanities,Master,Financial Engineering,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.052565026746279525
+Digital Humanities,Master,Simulations,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03130744954410725
+Digital Humanities,Master,Desktop Virtualization,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.045870484947555225
+Digital Humanities,Master,Interaction Design,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.056886995951271245
+Digital Humanities,Master,Project Management,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03460755868548218
+Digital Humanities,Master,Innovation,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.026985480339115527
+Digital Humanities,Master,Design Thinking,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.046896225725583426
+Digital Humanities,Master,Psychology,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03485397394383921
+Digital Humanities,Master,Artificial Neural Networks,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.041174534586883256
+Digital Humanities,Master,Urban Planning,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04313918876758002
+Digital Humanities,Master,Big Data,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03561700682672434
+Digital Humanities,Master,Information Systems,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05044275012531539
+Digital Humanities,Master,Data Processing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03587971472186741
+Digital Humanities,Master,Databases,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03091499835056337
+Digital Humanities,Master,Crowd Sourcing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05900927257223538
+Digital Humanities,Master,Computer Simulation,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0387774361480913
+Digital Humanities,Master,Multidisciplinary Approach,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.032546528636622524
+Digital Humanities,Master,Program Evaluations,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.046896225725583426
+Digital Humanities,Master,Euclidean Geometry,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04010265889752607
+Digital Humanities,Master,Negotiation Skills,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03785134125002978
+Digital Humanities,Master,Linear Regression,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.043563039640338544
+Digital Humanities,Master,Pattern Recognition,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.046896225725583426
+Digital Humanities,Master,Computer Graphics,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.056886995951271245
+Digital Humanities,Master,Software Engineering,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0449069495945046
+Digital Humanities,Master,Museums,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03815408308521414
+Digital Humanities,Master,Graphic Design,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0518256624690984
+Digital Humanities,Master,Image Analysis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.042726348262974306
+Digital Humanities,Master,Numerical Analysis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03909852718576748
+Digital Humanities,Master,Optics and Eyewear,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03942623912159937
+Digital Humanities,Master,Imaging,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03815408308521414
+Digital Humanities,Master,Sensors,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.045870484947555225
+Digital Humanities,Master,Natural Language Processing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05044275012531539
+Digital Humanities,Master,Grading of Landscape,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04538141664314254
+Digital Humanities,Master,Visual Systems,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05592346059822061
+Digital Humanities,Master,Forecasting Skills,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03755425847340368
+Digital Humanities,Master,Software Tools,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04917059408893016
+Digital Humanities,Master,Labeling,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06145926112903141
+Digital Humanities,Master,Multimedia,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04637508179818901
+Digital Humanities,Master,Project Scoping,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.052565026746279525
+Digital Humanities,Master,Knowledge of Engineering,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.038462703768548746
+Digital Humanities,Master,Photography Skills,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0518256624690984
+Digital Humanities,Master,Semantic Web,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06284217347281441
+Digital Humanities,Master,Social Sciences,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03072234792157842
+Digital Humanities,Master,Modelling Skills,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04232396054782326
+Digital Humanities,Master,Supervised Learning,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04637508179818901
+Digital Humanities,Master,Unsupervised Learning,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04193150935427939
+Digital Humanities,Master,Unity 3d,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06145926112903141
+Digital Humanities,Master,Unstructured Data,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06790350695498726
+Digital Humanities,Master,Virtual Reality,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.056886995951271245
+Digital Humanities,Master,User Experience,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05592346059822061
+Digital Humanities,Master,Adobe InDesign,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05334047155153928
+Digital Humanities,Master,Human-Computer Interaction,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05334047155153928
+Digital Humanities,Master,Algebra,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04979394715180732
+Digital Humanities,Master,Predictive Data Analysis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05044275012531539
+Digital Humanities,Master,Artificial Intelligence,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.029974282047797257
+Digital Humanities,Master,Stochastic Process,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04979394715180732
+Digital Humanities,Master,Statistical Hypothesis Testing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.043563039640338544
+Digital Humanities,Master,Digital Cameras,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06284217347281441
+Digital Humanities,Master,Image Acquisition,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05044275012531539
+Digital Humanities,Master,Creation of Textures,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0518256624690984
+Digital Humanities,Master,Cognition Processing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0485707694771197
+Digital Humanities,Master,Conflict Resolution,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.043563039640338544
+Digital Humanities,Master,Information Extraction,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06018710509264618
+Digital Humanities,Master,Information Retrieval,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.052565026746279525
+Digital Humanities,Master,Search Engines,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.045870484947555225
+Digital Humanities,Master,Economy,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.021637770356095605
+Digital Humanities,Master,Communication Studies,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05111916990124209
+Digital Humanities,Master,Information Theory,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.052565026746279525
+Digital Humanities,Master,Visual Perception,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06435698255525531
+Digital Humanities,Master,Video Editing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Feature Extraction,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.052565026746279525
+Digital Humanities,Master,Edge Detection,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05900927257223538
+Digital Humanities,Master,Java (Programming Language),,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04799276156851936
+Digital Humanities,Master,Medical Imaging,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05111916990124209
+Digital Humanities,Master,ArchiCAD,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Autodesk Revit,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07892001795870328
+Digital Humanities,Master,Building Information Modeling,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07892001795870328
+Digital Humanities,Master,Construction,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.029613051366762313
+Digital Humanities,Master,Integrated Design,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06018710509264618
+Digital Humanities,Master,Maquette,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Linear Model,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04917059408893016
+Digital Humanities,Master,Project Planning,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04313918876758002
+Digital Humanities,Master,Ethical Codes,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.052565026746279525
+Digital Humanities,Master,Project Engineering,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06018710509264618
+Digital Humanities,Master,Data Quality,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.052565026746279525
+Digital Humanities,Master,Project Portfolio Management,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05900927257223538
+Digital Humanities,Master,Text Mining,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05501501530307555
+Digital Humanities,Master,Internet of Things,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.046896225725583426
+Digital Humanities,Master,Social Network Analysis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.054155699771296036
+Digital Humanities,Master,Data Reporting,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05791273672929945
+Digital Humanities,Master,Social Marketing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Conceptual Models,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05044275012531539
+Digital Humanities,Master,Content Analysis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0518256624690984
+Digital Humanities,Master,Data Management,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04538141664314254
+Digital Humanities,Master,Processing of Documents,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07002578357595139
+Digital Humanities,Master,Graph Database,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0899365289624193
+Digital Humanities,Master,Infrastructure Management,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03587971472186741
+Digital Humanities,Master,Open Source Technology,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.056886995951271245
+Digital Humanities,Master,Management of Software Versions,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0899365289624193
+Digital Humanities,Master,User Administration,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0899365289624193
+Digital Humanities,Master,Augmented Reality,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06603152630679157
+Digital Humanities,Master,Exhibitions,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06790350695498726
+Digital Humanities,Master,New Media,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0444462371687874
+Digital Humanities,Master,Navigation System,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Digital Archives,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06435698255525531
+Digital Humanities,Master,Design Research,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05111916990124209
+Digital Humanities,Master,Digital Technology,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06435698255525531
+Digital Humanities,Master,Drawing Skills,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04313918876758002
+Digital Humanities,Master,Universal Design,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0899365289624193
+Digital Humanities,Master,Generation of Ideas,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06435698255525531
+Digital Humanities,Master,Cultural Activities,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04917059408893016
+Digital Humanities,Master,Geography,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03909852718576748
+Digital Humanities,Master,Music Theories,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07537349355897131
+Digital Humanities,Master,Surveys,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04799276156851936
+Digital Humanities,Master,Network Analysis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05791273672929945
+Digital Humanities,Master,Sciences,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.056886995951271245
+Digital Humanities,Master,Raw Data,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07002578357595139
+Digital Humanities,Master,Component Analysis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Text Analysis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06790350695498726
+Digital Humanities,Master,3D Computer Graphics,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06603152630679157
+Digital Humanities,Master,C++ (Programming Language),,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05501501530307555
+Digital Humanities,Master,Digital Rendering,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07247577213274742
+Digital Humanities,Master,Data Structures,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.046896225725583426
+Digital Humanities,Master,Monte Carlo Methods,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04743503887746913
+Digital Humanities,Master,Physically Based Animation,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07247577213274742
+Digital Humanities,Master,Enterprise Application Software,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05900927257223538
+Digital Humanities,Master,Justice,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.032122677763864
+Digital Humanities,Master,Reinforcement Learning,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04917059408893016
+Digital Humanities,Master,Buffers,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05900927257223538
+Digital Humanities,Master,Hidden Markov Model,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.056886995951271245
+Digital Humanities,Master,Speaker Recognition,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07002578357595139
+Digital Humanities,Master,Speech Recognition,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06603152630679157
+Digital Humanities,Master,Speech Synthesis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06603152630679157
+Digital Humanities,Master,Dynamic Programming,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04917059408893016
+Digital Humanities,Master,Digital Photography,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06603152630679157
+Digital Humanities,Master,Sensor Fusion,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06790350695498726
+Digital Humanities,Master,High Dynamic Range,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06790350695498726
+Digital Humanities,Master,Sound Recording and Reproduction,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07002578357595139
+Digital Humanities,Master,Audio Signal Processing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06018710509264618
+Digital Humanities,Master,Digital Audio,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07537349355897131
+Digital Humanities,Master,Digital Signal Processing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05592346059822061
+Digital Humanities,Master,Digital Signals,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07002578357595139
+Digital Humanities,Master,Music Production,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07537349355897131
+Digital Humanities,Master,Electronic Oscillator,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06145926112903141
+Digital Humanities,Master,Spectral Analysis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05592346059822061
+Digital Humanities,Master,Systems Modeling,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06018710509264618
+Digital Humanities,Master,Digital Image,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05791273672929945
+Digital Humanities,Master,Geometry,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04917059408893016
+Digital Humanities,Master,Infrared Technology,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05592346059822061
+Digital Humanities,Master,Rapid Prototyping Process,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06018710509264618
+Digital Humanities,Master,Service Design,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07537349355897131
+Digital Humanities,Master,JavaScript (Programming Language),,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06603152630679157
+Digital Humanities,Master,HTML5,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06790350695498726
+Digital Humanities,Master,Web Development,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06145926112903141
+Digital Humanities,Master,Journalism,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04313918876758002
+Digital Humanities,Master,Moodle,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04917059408893016
+Digital Humanities,Master,Scala (Programming Language),,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05111916990124209
+Digital Humanities,Master,Functional Programming,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06018710509264618
+Digital Humanities,Master,Laser-Induced Breakdown Spectroscopy,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06790350695498726
+Digital Humanities,Master,Operations Research,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04313918876758002
+Digital Humanities,Master,Knowledge of Civil Engineering,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.052565026746279525
+Digital Humanities,Master,IBM ILOG CPLEX Optimization Studio (CPLEX),,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Decision Support Systems,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07002578357595139
+Digital Humanities,Master,Mathematical Modeling,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.043563039640338544
+Digital Humanities,Master,Transportation Management,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06145926112903141
+Digital Humanities,Master,Batch Processing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05900927257223538
+Digital Humanities,Master,Pytorch,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05791273672929945
+Digital Humanities,Master,Educational Technologies,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05044275012531539
+Digital Humanities,Master,Empirical Research,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03942623912159937
+Digital Humanities,Master,Learning Theory,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06145926112903141
+Digital Humanities,Master,Elearning,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.056886995951271245
+Digital Humanities,Master,Target Market Selection,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0449069495945046
+Digital Humanities,Master,Association Rule Learning,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06603152630679157
+Digital Humanities,Master,Data Integration,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06284217347281441
+Digital Humanities,Master,Information Management,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05501501530307555
+Digital Humanities,Master,Knowledge Bases,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.052565026746279525
+Digital Humanities,Master,Knowledge Management,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06435698255525531
+Digital Humanities,Master,Named Entity Recognition,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06435698255525531
+Digital Humanities,Master,Recommender Systems,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05044275012531539
+Digital Humanities,Master,Web Standards,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06603152630679157
+Digital Humanities,Master,Document Classification,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06284217347281441
+Digital Humanities,Master,Blueprinting,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05900927257223538
+Digital Humanities,Master,Customer Value Proposition,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06145926112903141
+Digital Humanities,Master,Digital Architecture,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07247577213274742
+Digital Humanities,Master,Geographic Information Systems,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05592346059822061
+Digital Humanities,Master,Environmental Health,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06790350695498726
+Digital Humanities,Master,Open-Source Software,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06284217347281441
+Digital Humanities,Master,Respiratory Systems,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05592346059822061
+Digital Humanities,Master,Scientific Literature,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.03233319032213545
+Digital Humanities,Master,Spatial Analysis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0518256624690984
+Digital Humanities,Master,Spatial Data Infrastructures,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04979394715180732
+Digital Humanities,Master,Computational Statistics,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06018710509264618
+Digital Humanities,Master,Idris,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07892001795870328
+Digital Humanities,Master,Quantum,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0387774361480913
+Digital Humanities,Master,Property Testing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06603152630679157
+Digital Humanities,Master,ARM Architecture,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07002578357595139
+Digital Humanities,Master,Data Compression,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07537349355897131
+Digital Humanities,Master,High-Definition Videos,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Java APIs for Integrated Networks,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Special Effects,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Retina,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06790350695498726
+Digital Humanities,Master,Image Compression,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07892001795870328
+Digital Humanities,Master,Morphology,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0485707694771197
+Digital Humanities,Master,Fractals,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07537349355897131
+Digital Humanities,Master,Audio Codec,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Discretization,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07537349355897131
+Digital Humanities,Master,Remote Sensing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06145926112903141
+Digital Humanities,Master,Risk Analysis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0387774361480913
+Digital Humanities,Master,Satellites,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06603152630679157
+Digital Humanities,Master,Aliasing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05791273672929945
+Digital Humanities,Master,Nuclear Engineering,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.054155699771296036
+Digital Humanities,Master,Histogram,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06145926112903141
+Digital Humanities,Master,Business Analytics Applications,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04080915146538238
+Digital Humanities,Master,Estimation Theories,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05592346059822061
+Digital Humanities,Master,Interpolation,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04538141664314254
+Digital Humanities,Master,Content Creation,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.054155699771296036
+Digital Humanities,Master,Design Methods,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04743503887746913
+Digital Humanities,Master,User Persona,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07002578357595139
+Digital Humanities,Master,Qualitative Research,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04799276156851936
+Digital Humanities,Master,Requirements Analysis,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06018710509264618
+Digital Humanities,Master,Storyboarding,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07002578357595139
+Digital Humanities,Master,Mock Ups,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07247577213274742
+Digital Humanities,Master,User Feedback,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07247577213274742
+Digital Humanities,Master,Collisions,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07247577213274742
+Digital Humanities,Master,Workflows,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06284217347281441
+Digital Humanities,Master,Electronics,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0387774361480913
+Digital Humanities,Master,Spelling and Grammar,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04232396054782326
+Digital Humanities,Master,Linguistics,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.045870484947555225
+Digital Humanities,Master,Analysis of Variance (ANOVA),,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04917059408893016
+Digital Humanities,Master,Ordinary Least Squares (Regression Analysis),,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05334047155153928
+Digital Humanities,Master,Outliers,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06284217347281441
+Digital Humanities,Master,Diagnostic Skills,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05111916990124209
+Digital Humanities,Master,Knowledge Discovery,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05501501530307555
+Digital Humanities,Master,Logistic Regression,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0444462371687874
+Digital Humanities,Master,Personalization,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06435698255525531
+Digital Humanities,Master,Performance Management,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04979394715180732
+Digital Humanities,Master,Web Services,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06435698255525531
+Digital Humanities,Master,Computer Gaming,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05791273672929945
+Digital Humanities,Master,Access Controls,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06018710509264618
+Digital Humanities,Master,Cryptography,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.054155699771296036
+Digital Humanities,Master,Remote Monitoring,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06018710509264618
+Digital Humanities,Master,Copyright Law,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06284217347281441
+Digital Humanities,Master,Failure Causes,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06603152630679157
+Digital Humanities,Master,Machine Translation,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06018710509264618
+Digital Humanities,Master,Recurrent Neural Networks,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05791273672929945
+Digital Humanities,Master,Microsoft Word,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07002578357595139
+Digital Humanities,Master,Distribution Management Systems,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Marketing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0449069495945046
+Digital Humanities,Master,Strategies of Marketing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06435698255525531
+Digital Humanities,Master,Library Research,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Market Environment,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Market Research,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04799276156851936
+Digital Humanities,Master,Management of Marketing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07247577213274742
+Digital Humanities,Master,Marketing Planning,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Online Research,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07247577213274742
+Digital Humanities,Master,Strategies of Pricing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05334047155153928
+Digital Humanities,Master,Product Design,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.0449069495945046
+Digital Humanities,Master,Data Research,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.08349228313646344
+Digital Humanities,Master,Brand Management,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04637508179818901
+Digital Humanities,Master,Business Consulting,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07892001795870328
+Digital Humanities,Master,Strategic Management,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06018710509264618
+Digital Humanities,Master,Innovation Management,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05592346059822061
+Digital Humanities,Master,Transpose,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07537349355897131
+Digital Humanities,Master,Manufacturing,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04045197989962758
+Digital Humanities,Master,3d Models,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.046896225725583426
+Digital Humanities,Master,Cognitive Science,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05791273672929945
+Digital Humanities,Master,System Configuration,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07002578357595139
+Digital Humanities,Master,Design of Experiments,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04080915146538238
+Digital Humanities,Master,Display Devices,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06603152630679157
+Digital Humanities,Master,Execution of Experiments,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.02943546889591156
+Digital Humanities,Master,Motion Capture,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06145926112903141
+Digital Humanities,Master,Neuroscience,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05791273672929945
+Digital Humanities,Master,Object-Oriented Programming (OOP),,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05791273672929945
+Digital Humanities,Master,Virtual Environment,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.07002578357595139
+Digital Humanities,Master,Git,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.05900927257223538
+Digital Humanities,Master,Programming Languages,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.036146838081907044
+Digital Humanities,Master,Testing Skills,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.04637508179818901
+Digital Humanities,Master,Phenomenology,,109,Master Cycle - Digital Humanities - EPFL,Digital Humanities,0.06603152630679157

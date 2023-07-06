@@ -1,0 +1,107 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+History,Master,Journalism,,85,MA History: Pre-master (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,History,0.08112982134101415
+History,Master,New Media,,85,MA History: Pre-master (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,History,0.08358792512792876
+History,Master,Religious Studies,,85,MA History: Pre-master (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,History,0.08721541151903889
+History,Master,Art History,,85,MA History: Pre-master (Pre-master 2022-2023) - Prospectus - Universiteit Leiden,History,0.09134473694683147
+History,Master,Feedback Management,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.08274589520703973
+History,Bachelor,Databases,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.058140367600604086
+History,Master,Economy,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.04069312598031975
+History,Master,Empirical Research,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.07414705346724798
+History,Master,Prehistory,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.09613739246542091
+History,Master,Administrative Operations,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.05637120717463543
+History,Master,Knowledge of Socioeconomics,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.10184804982574822
+History,Master,Multidisciplinary Approach,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.06120870904145911
+History,Master,Secondary Source,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.09613739246542091
+History,Bachelor,Big Data,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.06698321139328937
+History,Bachelor,Digital Mapping,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.16913935415112666
+History,Master,Filing Skills,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.10517259356797586
+History,Master,Museums,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.07175457009196044
+History,Master,Knowledge of the Maritime Sector,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.10891373061118463
+History,Master,Governance,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.06120870904145911
+History,Master,Knowledge of Sociology,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.07959666038665879
+History,Bachelor,Online Databases,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.11558351043671615
+History,Master,Business Analytics Applications,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.07674783096415158
+History,Master,Immigration,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.10891373061118463
+History,Master,Blueprinting,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.11097593343819437
+History,Master,Qualitative Analysis,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.10184804982574822
+History,Master,Knowledge of Politics,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.09134473694683147
+History,Master,Mentoring,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.06601893146357563
+History,Master,Water Resource Management,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.09486528195198207
+History,Bachelor,E-books,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.10891373061118463
+History,Bachelor,Islam,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.09364510904586135
+History,Bachelor,Economic Growth,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.09613739246542091
+History,Bachelor,Microsoft Excel,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.12103311735612696
+History,Bachelor,Knowledge of Statistics,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.04803115567042122
+History,Bachelor,Machine Learning,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.062027666722305655
+History,Bachelor,Social Sciences,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.05777805909802591
+History,Master,Entrepreneurship,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.06462844421920924
+History,Master,Geography,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.07353074120999617
+History,Master,Architecture,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.05706635677297616
+History,Bachelor,International Sales,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.09247279857669452
+History,Bachelor,Unity 3d,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.11558351043671615
+History,Bachelor,Climate Change,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.06797963984504928
+History,Bachelor,Social Change,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.09746605944888567
+History,Master,Information Management,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.10346412369177381
+History,Master,Target Market Selection,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.08445436508324176
+History,Master,Knowledge of Medicine,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.07007805113862006
+History,Master,International Relations,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.08445436508324176
+History,Master,Negotiation Skills,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.07118521791583847
+History,Master,Money Investments,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.09025770495346028
+History,Master,Trading,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.12103311735612696
+History,Master,Diversity Management,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.13169416192292846
+History,Master,Television,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.09134473694683147
+History,Master,Political Philosophy,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.10517259356797586
+History,Master,Voting Rights,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.13169416192292846
+History,Master,Raw Materials,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.0690104345960718
+History,Master,Digital Media,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.08819550212645054
+History,Master,Multidisciplinary Research,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.12103311735612696
+History,Master,Judicial System,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.12103311735612696
+History,Master,Justice,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.06041159285628006
+History,Master,Leadership Styles,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.11097593343819437
+History,Master,Innovation,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.05075030989825234
+History,Master,Academic History,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.13169416192292846
+History,Master,Dissolution,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.1241823521765079
+History,Master,Construction,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.055691857806867945
+History,Master,Forecasting Skills,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.07062650846209739
+History,Master,Foods,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.1241823521765079
+History,Master,Data Science,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.061615383144566195
+History,Master,Cultural Studies,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.08920882240431185
+History,Master,Agriculture,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.12103311735612696
+History,Master,Civil Law,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.10184804982574822
+History,Master,Insurance Claim Processing,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.07541916398068683
+History,Master,Foreign Policies,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.09613739246542091
+History,Master,Relations with Labor Unions,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.13169416192292846
+History,Master,Knowledge of Laws,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.06329977723574448
+History,Master,Maintenance,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.08721541151903889
+History,Master,Nuclear Power,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.07292688056112727
+History,Master,Peer Review,,85,History (Research MA) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.07959666038665879
+History,Master,Transferable Skills Analysis,,85,History (Research MA) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.08819550212645054
+History,Master,Committee Work,,85,History (Research MA) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.13169416192292846
+History,Master,Scheduling,,85,History (Research MA) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.06797963984504928
+History,Master,Role-Playing,,85,History (Research MA) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.13169416192292846
+History,Bachelor,Sales,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.09247279857669452
+History,Bachelor,Fundamental Science,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.07118521791583847
+History,Bachelor,Scientific Literature,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.060807493816184936
+History,Bachelor,Sound Recording and Reproduction,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.13169416192292846
+History,Bachelor,Music Industry,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.15701996740618432
+History,Bachelor,Painting,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.10184804982574822
+History,Bachelor,Public Health,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.09486528195198207
+History,Bachelor,Knowledge of Finance,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.05671676114454906
+History,Bachelor,Composite Materials,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.1069846686969244
+History,Bachelor,Knowledge of Grinding,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.16913935415112666
+History,Bachelor,Information Security Management System,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.14175134584086105
+History,Bachelor,Optics and Eyewear,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.07414705346724798
+History,Bachelor,Natural Resource Management,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.13169416192292846
+History,Bachelor,Integrated Circuits,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.10891373061118463
+History,Bachelor,Scala (Programming Language),,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.09613739246542091
+History,Bachelor,Conflict Resolution,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.08192693752619319
+History,Bachelor,Knowledge of Advertising,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.10891373061118463
+History,Bachelor,Open Access,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.12103311735612696
+History,Bachelor,Epic Prelude,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.14842112566639257
+History,Bachelor,Curriculum Development,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.08920882240431185
+History,Bachelor,Information Technology,,85,History (Bachelor 2022-2023) - Prospectus - Universiteit Leiden,History,0.05535788689677413
+History,Master,Prism (Software),,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.13169416192292846
+History,Master,Field Research,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.06601893146357563
+History,Master,Economic Development,,85,History (Master) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.09364510904586135
+History,Master,Paradigms,,85,History (Research MA) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.07959666038665879
+History,Master,Auditing Skills,,85,History (Research MA) (Master 2022-2023) - Prospectus - Universiteit Leiden,History,0.10346412369177381

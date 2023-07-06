@@ -1,0 +1,144 @@
+topic,degree_level,related_skill,is_degree_related_to_skill,cluster_ignore,source_ignore,degree_topic,tfidf
+Geosciences,Master,Raw Materials,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.060025517087000116
+Geosciences,Master,Dentistry,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.11855572865908381
+Geosciences,Master,Nutrition and Dietetics,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.09305563856396613
+Geosciences,Master,Dental Health,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.12329581579479283
+Geosciences,Master,Knowledge of Mathematics,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.0505706948417505
+Geosciences,Master,Knowledge of Medicine,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.060954133685231796
+Geosciences,Master,Physics,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.05431550252020278
+Geosciences,Master,Risk Analysis,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.06343205546879334
+Geosciences,Master,Personal Protective Equipment,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.1290972135866966
+Geosciences,Master,Manufacturing Laboratory,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.10053494114771859
+Geosciences,Master,Field Research,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.057423497212085645
+Geosciences,Master,Process Safety,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.1290972135866966
+Geosciences,Master,First Aid and Preparedness,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.12329581579479283
+Geosciences,Master,Medical Emergencies,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.0899934562201058
+Geosciences,Master,Fire Alarm Systems,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.1290972135866966
+Geosciences,Master,Fire Safety,,62,Geosciences (master's two years) – University of Oslo,Geosciences,0.11855572865908381
+Geosciences,Master,Ecology,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.058262231263486314
+Geosciences,Master,Google Analytics,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08362063980482796
+Geosciences,Master,Site Maps,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08477631898850081
+Geosciences,Master,Administrative Operations,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.04903187292300445
+Geosciences,Master,Continuous Training,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.0914794892866535
+Geosciences,Master,Geology,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08725424077206236
+Geosciences,Master,Search Engines,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.0750348510526009
+Geosciences,Master,Multidisciplinary Approach,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.05323954894569607
+Geosciences,Master,Target Market Selection,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07345870177528827
+Geosciences,Master,Remote Sensing,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.10053494114771859
+Geosciences,Master,Construction,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.04844097246973747
+Geosciences,Master,Professional Communication,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.11855572865908381
+Geosciences,Master,Information Technology,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.048150483405471546
+Geosciences,Master,Environmental Monitoring,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.11107642607533137
+Geosciences,Master,Forecasting Skills,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.061431183781127774
+Geosciences,Master,Numerical Analysis,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06395729557065628
+Geosciences,Master,Signal Processing,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06923345326069712
+Geosciences,Master,Oil and Gas,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.12329581579479283
+Geosciences,Master,Modelling Skills,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06923345326069712
+Geosciences,Master,Instrumentation,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06675553147713557
+Geosciences,Master,Knowledge of Engineering,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06291721684767548
+Geosciences,Master,Fluid Mechanics,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07759414536198248
+Geosciences,Master,Imaging,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.062412375727459724
+Geosciences,Master,Brand Management,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07586026961035555
+Geosciences,Master,Risk Management,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06923345326069712
+Geosciences,Master,Air Pollution,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.0914794892866535
+Geosciences,Master,Seismology,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.11855572865908381
+Geosciences,Master,Innovation,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.04414279683642941
+Geosciences,Master,Physical Therapy,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08477631898850081
+Geosciences,Master,Accounting,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07345870177528827
+Geosciences,Master,Operations Research,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07056700201461291
+Geosciences,Master,Artificial Intelligence,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.04903187292300445
+Geosciences,Master,Knowledge of Electrical Engineering,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06675553147713557
+Geosciences,Master,Applied Mathematics,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07056700201461291
+Geosciences,Master,Applied Mechanics,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08725424077206236
+Geosciences,Master,Architecture,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.04963651647201925
+Geosciences,Master,Automation,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06395729557065628
+Geosciences,Master,Banking Services,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07345870177528827
+Geosciences,Master,Fundamental Science,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.0619171512157411
+Geosciences,Master,Biotechnology,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06617127091683679
+Geosciences,Master,Biology,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.04674481671134388
+Geosciences,Master,Biopharmaceuticals,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08362063980482796
+Geosciences,Master,Biomaterial,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08362063980482796
+Geosciences,Master,Corporate Finance,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07850646706731121
+Geosciences,Master,Business Performance Management,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08145284298015858
+Geosciences,Master,Urban Planning,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07056700201461291
+Geosciences,Master,Medical Laboratory,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08251415363635335
+Geosciences,Master,Clinical Research,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.0750348510526009
+Geosciences,Master,Combinatorics,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07270506927540743
+Geosciences,Master,Computer Networks,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07197266870874057
+Geosciences,Master,Computer Engineering,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08251415363635335
+Geosciences,Master,Control Systems,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07586026961035555
+Geosciences,Master,Data Transmissions,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06796498213969843
+Geosciences,Master,Mathematical Finance,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08043316323882496
+Geosciences,Master,Digital Marketing,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08477631898850081
+Geosciences,Master,Electrochemistry,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07945197129249301
+Geosciences,Master,Electronics,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06343205546879334
+Geosciences,Master,Embedded Computers,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.0750348510526009
+Geosciences,Master,Engineering Physics,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08145284298015858
+Geosciences,Master,Knowledge of Finance,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.04933243697316494
+Geosciences,Master,Sales,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08043316323882496
+Geosciences,Master,Gene Therapy,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08251415363635335
+Geosciences,Master,Health Physics,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08043316323882496
+Geosciences,Master,Marketing,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07345870177528827
+Geosciences,Master,Image Processing,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06449336612498811
+Geosciences,Master,Industrial Engineering,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08477631898850081
+Geosciences,Master,Infertility,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08598576965106366
+Geosciences,Master,Mechanical Engineering,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06859148235311574
+Geosciences,Master,Market Research,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07850646706731121
+Geosciences,Master,Project Management,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.056610977935555945
+Geosciences,Master,Medical Physics,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08477631898850081
+Geosciences,Master,Microelectronics,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08251415363635335
+Geosciences,Master,Nanostructure,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08043316323882496
+Geosciences,Master,Nuclear Power,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06343205546879334
+Geosciences,Master,Operations Management,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08145284298015858
+Geosciences,Master,Pharmaceutical Engineering,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08725424077206236
+Geosciences,Master,Pharmacology,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07671275584444957
+Geosciences,Master,Energy Transformation,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06923345326069712
+Geosciences,Master,Product Design,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07345870177528827
+Geosciences,Master,Quality Management,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06559985229346274
+Geosciences,Master,Quantum,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06343205546879334
+Geosciences,Master,Robotic Automation Software,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08598576965106366
+Geosciences,Master,Simulations,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.05121266574933189
+Geosciences,Master,Knowledge of Statistics,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.04177766699019372
+Geosciences,Master,Structural Biology,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07671275584444957
+Geosciences,Master,Tissue Engineering,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08251415363635335
+Geosciences,Master,Toxicology,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08362063980482796
+Geosciences,Master,Urban Design,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08362063980482796
+Geosciences,Master,Advanced Logic Research,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07586026961035555
+Geosciences,Master,Data Science,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.05359327550122025
+Geosciences,Master,Quality Control,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07197266870874057
+Geosciences,Master,Consulting,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.04903187292300445
+Geosciences,Master,Fluid Dynamics,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08477631898850081
+Geosciences,Master,Scientific Computating,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.0914794892866535
+Geosciences,Master,Business Administration,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.1052750282834276
+Geosciences,Master,Data Processing,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.058691968333084335
+Geosciences,Master,Drilling Operations,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.11855572865908381
+Geosciences,Master,Economy,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.03539502313167826
+Geosciences,Master,Energy Market,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.09652725457867645
+Geosciences,Master,Field Training Exercise,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.14711800109806183
+Geosciences,Master,Geochemistry,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.12329581579479283
+Geosciences,Master,Hydrocarbon,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.13657651617044905
+Geosciences,Master,Service Industries,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.1290972135866966
+Geosciences,Master,Knowledge of Civil Engineering,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08598576965106366
+Geosciences,Master,Quantitative Research,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06989167831121218
+Geosciences,Master,Business Software,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.1290972135866966
+Geosciences,Master,Geography,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.06395729557065628
+Geosciences,Master,Renewable Energy,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.08145284298015858
+Geosciences,Master,Hydraulics,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.10801424373147105
+Geosciences,Master,Hydrology,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.11454804209004169
+Geosciences,Master,Laboratory Techniques,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.07759414536198248
+Geosciences,Master,Meteorology,,62,"Master in Earth, planetary and environmental sciences - Catalogue des formations",Geosciences,0.1290972135866966
+Geosciences,Master,Content Management,,62,Master&#39;s Programme in Earth Science,Geosciences,0.07945197129249301
+Geosciences,Master,Data Stores,,62,Master&#39;s Programme in Earth Science,Geosciences,0.08251415363635335
+Geosciences,Master,Retention Period,,62,Master&#39;s Programme in Earth Science,Geosciences,0.08362063980482796
+Geosciences,Master,JSON,,62,Master&#39;s Programme in Earth Science,Geosciences,0.08362063980482796
+Geosciences,Master,JQuery,,62,Master&#39;s Programme in Earth Science,Geosciences,0.08362063980482796
+Geosciences,Master,Typing Skills,,62,Master&#39;s Programme in Earth Science,Geosciences,0.07945197129249301
+Geosciences,Master,Data Protection,,62,Master&#39;s Programme in Earth Science,Geosciences,0.07345870177528827
+Geosciences,Master,Physical Geography,,62,Master&#39;s Programme in Earth Science,Geosciences,0.1290972135866966
+Geosciences,Master,Scientific Studies,,62,Master&#39;s Programme in Earth Science,Geosciences,0.04994419462833319
+Geosciences,Master,Environmental Protection,,62,Master&#39;s Programme in Earth Science,Geosciences,0.07056700201461291
+Geosciences,Master,Execution of Experiments,,62,Master&#39;s Programme in Earth Science,Geosciences,0.048150483405471546
+Geosciences,Master,Environmental Health,,62,Master&#39;s Programme in Earth Science,Geosciences,0.11107642607533137
+Geosciences,Master,Information Sciences,,62,Master&#39;s Programme in Earth Science,Geosciences,0.08251415363635335
+Geosciences,Master,Soil Science,,62,Master&#39;s Programme in Earth Science,Geosciences,0.0984539507501902
+Geosciences,Master,Water Resource Management,,62,Master&#39;s Programme in Earth Science,Geosciences,0.08251415363635335
